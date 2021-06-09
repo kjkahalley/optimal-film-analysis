@@ -1,0 +1,1010 @@
+tconst,primary_title,runtime_minutes,genres,release_date,production_budget,domestic_gross,worldwide_gross,total_gross,total_profit,tags
+tt2316801,Beauty and the Beast,112.0,"Drama,Fantasy,Romance","Mar 17, 2017",160000000,504014165,1259199706,1763213871,1603213871,"['nudity', 'female nudity', 'man beast', 'castle', 'based on fairy tale']"
+tt6105098,The Lion King,,"Adventure,Animation,Drama","Jun 15, 1994",79300000,421785283,986214868,1408000151,1328700151,"['remake of remake', 'lion', 'remake', 'africa', 'king']"
+tt4283448,Wonder Woman,75.0,"Documentary,Drama,Sport","Jun 2, 2017",150000000,412563408,821133378,1233696786,1083696786,"['athlete', 'postpartum depression', 'marathon', 'bodybuilding', 'figure']"
+tt1727824,Bohemian Rhapsody,134.0,"Biography,Drama,Music","Nov 2, 2018",55000000,216303339,894985342,1111288681,1056288681,"['bisexual male', 'aids', 'rock band', 'music band', 'live aid']"
+tt1325004,The Twilight Saga: Eclipse,124.0,"Adventure,Drama,Fantasy","Jun 30, 2010",68000000,300531751,706102828,1006634579,938634579,"['vampire', 'werewolf', '2000s', '2010s', 'wolf']"
+tt1454468,Gravity,91.0,"Drama,Sci-Fi,Thriller","Oct 4, 2013",110000000,274092705,693698673,967791378,857791378,"['space station', 'female protagonist', 'sole survivor', 'self sacrifice', 'long take']"
+tt2179136,American Sniper,133.0,"Action,Biography,Drama","Dec 25, 2014",58000000,350126372,547326372,897452744,839452744,"['assassin', 'violence', 'iraq war', 'sniper', 'mercenary']"
+tt3659388,The Martian,144.0,"Adventure,Drama,Sci-Fi","Oct 2, 2015",108000000,228433663,655271443,883705106,775705106,"['astronaut', 'space habitat', 'left for dead', 'nasa', 'presumed dead']"
+tt2103281,Dawn of the Planet of the Apes,130.0,"Action,Adventure,Drama","Jul 11, 2014",170000000,208545589,710644566,919190155,749190155,"['ape', 'planet of the apes', 'post apocalypse', 'sequel', 'leader']"
+tt3375556,Iron Man,84.0,"Comedy,Drama,Family","May 2, 2008",186000000,318604126,585171547,903775673,717775673,['boy']
+tt1483010,Logan,94.0,"Comedy,Drama,Family","Mar 3, 2017",127000000,226277068,615461394,841738462,714738462,"['teenager', 'tire swing', 'notebook', 'writing a novella', 'reference to santa claus']"
+tt1655400,Ghost,115.0,"Drama,Fantasy,Mystery","Jul 13, 1990",22000000,217631306,517600000,735231306,713231306,['remake of american film']
+tt2322441,Fifty Shades of Grey,125.0,"Drama,Romance,Thriller","Feb 13, 2015",40000000,166167230,570998101,737165331,697165331,"['female nudity', 'female frontal nudity', 'spanking', 'sex scene', 'bare breasts']"
+tt0816692,Interstellar,169.0,"Adventure,Drama,Sci-Fi","Nov 5, 2014",165000000,188017894,666379375,854397269,689397269,"['astronaut', 'saving the world', 'relativity', 'gravity', 'nasa']"
+tt0454876,Life of Pi,127.0,"Adventure,Drama,Fantasy","Nov 21, 2012",120000000,124987022,620912003,745899025,625899025,"['tiger', 'india', 'journey', 'faith', 'animal']"
+tt8358722,Brave,,Drama,"Jun 22, 2012",185000000,237282182,554606532,791888714,606888714,[None]
+tt6473952,Cast Away,90.0,"Adventure,Drama","Dec 22, 2000",85000000,233632142,427230516,660862658,575862658,[None]
+tt3783958,La La Land,128.0,"Comedy,Drama,Music","Dec 9, 2016",20000000,151101803,426351163,577452966,557452966,"['musician', 'los angeles california', 'actress', 'pianist', 'aspiring actress']"
+tt1318514,Rise of the Planet of the Apes,105.0,"Action,Drama,Sci-Fi","Aug 5, 2011",93000000,176760185,470986200,647746385,554746385,"['ape', 'chimpanzee', 'planet of the apes', ""alzheimer's disease"", 'when animals attack']"
+tt5013056,Dunkirk,106.0,"Action,Drama,History","Jul 21, 2017",150000000,190068280,499837368,689905648,539905648,"['world war two', '1940s', 'soldier', 'beach', 'evacuation']"
+tt1853728,Django Unchained,165.0,"Drama,Western","Dec 25, 2012",100000000,162805434,449948323,612753757,512753757,"['slavery', 'racial vengeance', 'racial violence', 'historically inaccurate', 'one against many']"
+tt8332280,The Bodyguard,99.0,Drama,"Nov 25, 1992",25000000,121945720,410899039,532844759,507844759,['friend']
+tt6644200,A Quiet Place,90.0,"Drama,Horror,Sci-Fi","Apr 6, 2018",17000000,188024361,334522294,522546655,505546655,"['survival', 'sign language', 'deafness', 'silence', 'post apocalypse']"
+tt2126355,San Andreas,114.0,"Action,Adventure,Drama","May 29, 2015",110000000,155190832,456258539,611449371,501449371,"['natural disaster', 'disaster movie', 'earthquake', 'san andreas fault', 'daughter']"
+tt4418168,Ice Age,106.0,"Crime,Drama,Family","Mar 15, 2002",65000000,176387405,386116343,562503748,497503748,[None]
+tt2477178,Hitch,70.0,Drama,"Feb 11, 2005",55000000,177784257,366784257,544568514,489568514,[None]
+tt1155076,The Karate Kid,140.0,"Action,Drama,Family","Jun 11, 2010",40000000,176591618,351774938,528366556,488366556,"['kung fu', 'china', 'bully', 'great wall of china', 'beijing china']"
+tt3450958,War for the Planet of the Apes,140.0,"Action,Adventure,Drama","Jul 14, 2017",152000000,146880162,489592267,636472429,484472429,"['ape', 'planet of the apes', 'slave labour', 'battle', 'journey']"
+tt1485796,The Greatest Showman,105.0,"Biography,Drama,Musical","Dec 20, 2017",84000000,174340174,386665550,561005724,477005724,"['circus', 'singing', 'bearded lady', 'social outcast', 'social prejudice']"
+tt2267998,Gone Girl,149.0,"Drama,Mystery,Thriller","Oct 3, 2014",61000000,167767189,368567189,536334378,475334378,"['disappearance', 'missing person', 'murder suspect', 'based on novel', 'husband wife relationship']"
+tt1705952,Tarzan,94.0,"Adventure,Animation,Drama","Jun 16, 1999",145000000,171091819,448191819,619283638,474283638,"['explorer', 'jungle', 'meteor', 'meteorite', 'celestial']"
+tt2630158,The Mask,9.0,"Documentary,Drama,Family","Jul 29, 1994",18000000,119920129,351620129,471540258,453540258,[None]
+tt4465564,Fifty Shades Darker,118.0,"Drama,Romance","Feb 10, 2017",55000000,114434010,381398492,495832502,440832502,"['sex scene', 'sexual harassment', 'bondage', 'billionaire', 'sexual submissiveness']"
+tt0947798,Black Swan,108.0,"Drama,Thriller","Dec 3, 2010",13000000,106954678,331266710,438221388,425221388,"['ballerina', 'ballet', 'madness', 'female protagonist', 'lesbian kiss']"
+tt2582846,The Fault in Our Stars,126.0,"Drama,Romance","Jun 6, 2014",12000000,124872350,307166834,432039184,420039184,"['cancer', 'falling in love', 'novel', 'teenager', 'terminal illness']"
+tt2543472,Wonder,113.0,"Drama,Family","Nov 17, 2017",20000000,132422809,304604712,437027521,417027521,"['mother son relationship', 'facial deformity', 'interracial relationship', 'marriage', 'father son relationship']"
+tt4477536,Fifty Shades Freed,105.0,"Drama,Romance,Thriller","Feb 9, 2018",55000000,100407760,371350619,471758379,416758379,"['female nudity', 'sex scene', 'wedding ceremony', 'bondage', 'car chase']"
+tt0993846,The Wolf of Wall Street,180.0,"Biography,Crime,Drama","Dec 25, 2013",100000000,116900694,389870414,506771108,406771108,"['based on true story', 'stockbroker', 'topless female nudity', 'fellatio', 'sex in an airplane']"
+tt9702034,Neighbors,,Drama,"May 9, 2014",18000000,150086800,270944428,421031228,403031228,[None]
+tt1502712,Fantastic Four,100.0,"Action,Adventure,Drama","Jul 8, 2005",87500000,154696080,333132750,487828830,400328830,"['troubled production', 'marvel comics', 'fantastic four', 'invisibility', 'superhero team']"
+tt3402236,Murder on the Orient Express,114.0,"Crime,Drama,Mystery","Nov 10, 2017",55000000,102826543,345922730,448749273,393749273,"['palestine', 'belgian in palestine', 'english in palestine', 'palestinian', 'shorthaired woman']"
+tt0443272,Lincoln,150.0,"Biography,Drama,History","Nov 9, 2012",65000000,182207973,273346281,455554254,390554254,"['based on real person', '1860s', 'american civil war', 'politics', 'cultural conflict']"
+tt1403865,True Grit,110.0,"Adventure,Drama,Western","Dec 22, 2010",35000000,171243005,252276928,423519933,388519933,"['revisionist western', 'reference to new mexico', 'death by hanging', 'long drop hanging', 'spanking threat']"
+tt1735898,Snow White and the Huntsman,127.0,"Action,Adventure,Drama","Jun 1, 2012",170000000,155136755,401021746,556158501,386158501,"['snow white', 'queen', 'magic', 'fairy tale', 'evil queen']"
+tt2221640,Now You See Me,98.0,"Drama,Horror,Thriller","May 31, 2013",75000000,117723989,342769200,460493189,385493189,[None]
+tt6966692,Green Book,130.0,"Biography,Comedy,Drama","Nov 16, 2018",23000000,85080171,322034439,407114610,384114610,"['on the road', 'hotel', 'jail', 'piano', 'pianist']"
+tt4846340,Hidden Figures,127.0,"Biography,Drama,History","Dec 25, 2016",25000000,169607287,231771716,401379003,376379003,"['1960s', 'space program', 'segregation', 'racism', 'nasa']"
+tt8870574,Ransom,98.0,"Drama,Thriller","Nov 8, 1996",70000000,136492681,308700000,445192681,375192681,['redemption']
+tt4036590,Speed,108.0,Drama,"Jun 10, 1994",30000000,121248145,283200000,404448145,374448145,[None]
+tt9691476,Snow White and the Seven Dwarfs,,"Comedy,Drama,Fantasy","Dec 21, 1937",1488000,184925486,184925486,369850972,368362972,[None]
+tt1800241,American Hustle,138.0,"Crime,Drama","Dec 13, 2013",40000000,150117807,257878294,407996101,367996101,"['con artist', 'based on true story', 'drunk wife', 'wife meets mistress', 'sting operation']"
+tt6673682,Big Daddy,138.0,Drama,"Jun 25, 1999",30000000,163479795,228641283,392121078,362121078,['father']
+tt1454029,The Help,146.0,Drama,"Aug 10, 2011",25000000,169705587,213120004,382825591,357825591,"['chocolate pie', 'writer', 'first job', 'writing a novel', 'newspaper columnist']"
+tt9111170,What Lies Beneath,,"Drama,Mystery,Thriller","Jul 21, 2000",90000000,155464351,288693989,444158340,354158340,[None]
+tt1045658,Silver Linings Playbook,122.0,"Comedy,Drama,Romance","Nov 16, 2012",21000000,132092958,236412453,368505411,347505411,"['bipolar disorder', 'adulterous wife', 'unconventional romance', 'family relationships', 'young widow']"
+tt9430578,Rocky,,"Action,Drama,Romance","Nov 21, 1976",1000000,117235147,225000000,342235147,341235147,['life']
+tt1398426,Straight Outta Compton,147.0,"Biography,Drama,History","Aug 14, 2015",28000000,161197785,202182981,363380766,335380766,"['hip hop', 'gangsta rap', 'based on true story', 'rap music', 'gangsta']"
+tt4566758,Mulan,,"Adventure,Drama,Family","Jun 19, 1998",90000000,120620254,303500000,424120254,334120254,"['remake', 'assassin', 'warrior', 'sword', 'china']"
+tt2109176,Noah,105.0,"Drama,Thriller","Mar 28, 2014",130000000,101200044,352831065,454031109,324031109,"['slavery', 'strength', 'sacrifice', 'faith', 'hope']"
+tt1024648,Argo,120.0,"Biography,Drama,Thriller","Oct 12, 2012",44500000,136025503,227140757,363166260,318666260,"['iran', 'hostage', 'u.s. embassy', 'escape', 'american embassy']"
+tt1343092,The Great Gatsby,143.0,"Drama,Romance","May 10, 2013",190000000,144840419,351040419,495880838,305880838,"['extramarital affair', 'obsessive love', 'party', 'dead body in swimming pool', 'fatal accident']"
+tt2084970,The Imitation Game,114.0,"Biography,Drama,Thriller","Nov 28, 2014",15000000,91125143,227740463,318865606,303865606,"['world war two', 'cryptography', 'enigma code', 'mathematician', 'computer']"
+tt3263904,Sully,96.0,"Biography,Drama","Sep 9, 2016",60000000,125070033,238524556,363594589,303594589,"['aviation', 'pilot', 'investigation', 'bird sucked into jet engine', 'airplane accident']"
+tt3890160,Baby Driver,113.0,"Action,Crime,Drama","Jun 28, 2017",34000000,107825862,228104185,335930047,301930047,"['pig', 'bacon', 'robbery', 'chase', 'bank']"
+tt5074352,Dangal,161.0,"Action,Biography,Drama","Dec 21, 2016",9500000,12391761,294654618,307046379,297546379,"['small town', 'father daughter relationship', 'male objectification', 'bare chested male', 'female protagonist']"
+tt0918940,The Legend of Tarzan,110.0,"Action,Adventure,Drama","Jul 1, 2016",180000000,126643061,348902025,475545086,295545086,"['africa', 'jungle', 'slavery', 'belgian', 'rescue']"
+tt1261945,Sex and the City 2,146.0,"Comedy,Drama,Romance","May 27, 2010",95000000,95347692,294680778,390028470,295028470,"['chick flick', 'woman flashing her leg', 'voyeurism', 'voyeur', 'kissing a married woman']"
+tt1606389,The Vow,104.0,"Drama,Romance","Feb 10, 2012",30000000,125014030,197618160,322632190,292632190,"['trauma', 'divorced couple', 'divorce', 'swimming in underwear', 'adulterer']"
+tt1596723,Click,127.0,"Drama,Horror,Mystery","Jun 23, 2006",82500000,137355633,237685089,375040722,292540722,"['photographer', 'pain', 'camera', 'polaroid', 'one word title']"
+tt1355644,Passengers,116.0,"Drama,Romance,Sci-Fi","Dec 21, 2016",110000000,100014699,302239672,402254371,292254371,"['spacecraft', 'trapped in space', 'malfunction', 'asteroid', 'hibernation']"
+tt2939912,Traffic,104.0,"Adventure,Drama,Thriller","Dec 27, 2000",48000000,124107476,208300000,332407476,284407476,['trip']
+tt1285016,The Social Network,120.0,"Biography,Drama","Oct 1, 2010",40000000,96962694,224922135,321884829,281884829,"['facebook', 'intellectual property', 'entrepreneur', 'young entrepreneur', 'hacker']"
+tt6343314,Creed II,130.0,"Drama,Sport","Nov 21, 2018",50000000,115715889,213591522,329307411,279307411,"['baby', 'training montage', 'sequel', 'boxing match', 'boxer']"
+tt1915581,Magic Mike,110.0,"Comedy,Drama","Jun 29, 2012",7000000,113721571,170549753,284271324,277271324,"['male stripper', 'male objectification', 'male nudity', 'abs', 'stripper']"
+tt1535109,Captain Phillips,134.0,"Biography,Drama,Thriller","Oct 11, 2013",55000000,107136417,220648184,327784601,272784601,"['ship', 'hostage', 'hijacking', 'somalia', 'lifeboat']"
+tt1327773,Lee Daniels' The Butler,132.0,"Biography,Drama","Aug 16, 2013",30000000,116632095,177025498,293657593,263657593,"['butler', 'president', 'hotel', 'civil rights', 'domestic servant']"
+tt1783264,Elysium,,Drama,"Aug 9, 2013",120000000,93050117,286192091,379242208,259242208,[None]
+tt2543164,Arrival,116.0,"Drama,Mystery,Sci-Fi","Nov 11, 2016",47000000,100546139,203127894,303674033,256674033,"['alien contact', 'linguistics', 'linguist', 'nonlinear timeline', 'based on short story']"
+tt4849438,Baahubali 2: The Conclusion,167.0,"Action,Drama","Apr 28, 2017",30000000,18985794,263502914,282488708,252488708,"['sequel', 'second part', 'fight', 'battle', 'sword']"
+tt1568346,The Girl with the Dragon Tattoo,158.0,"Crime,Drama,Mystery","Dec 20, 2011",90000000,102515793,239373970,341889763,251889763,"['investigation', 'computer hacker', 'journalist', 'hacker', 'punk']"
+tt3076658,Creed,133.0,"Drama,Sport","Nov 25, 2015",37000000,109767581,173567581,283335162,246335162,"['gym', 'training', 'fight', 'boxing', 'boxing match']"
+tt7394636,Unforgiven,106.0,Drama,"Aug 7, 1992",14400000,101157447,159157447,260314894,245914894,['children']
+tt2674426,Me Before You,106.0,"Drama,Romance","Jun 3, 2016",20000000,56245075,208265198,264510273,244510273,"['quadriplegic', 'assisted suicide', 'euthanasia', 'accident', 'wheelchair']"
+tt5521836,Panic Room,,"Action,Drama,Mystery","Mar 29, 2002",48000000,95308367,196308367,291616734,243616734,[None]
+tt5580390,The Shape of Water,123.0,"Adventure,Drama,Fantasy","Dec 1, 2017",19500000,63859435,195790794,259650229,240150229,"['underwater scene', 'mute woman', 'creature', 'interspecies romance', 'sign language']"
+tt0433035,Real Steel,127.0,"Action,Drama,Family","Oct 7, 2011",110000000,85463309,263880341,349343650,239343650,"['robot', 'boxing', 'robot battle', 'arena', 'boxing movie']"
+tt1033575,The Descendants,115.0,"Comedy,Drama","Nov 16, 2011",20000000,82624961,175507800,258132761,238132761,"['father daughter relationship', 'boating accident', 'hawaii', 'cheating wife', 'dying mother']"
+tt1091191,Lone Survivor,121.0,"Action,Biography,Drama","Dec 25, 2013",40000000,125095601,149804632,274900233,234900233,"['outnumbered', 'shot multiple times', 'courage', 'survival', 'exploding helicopter']"
+tt3564472,Girls Trip,122.0,"Comedy,Drama","Jul 21, 2017",28000000,115108515,140886353,255994868,227994868,"['male nudity', 'big penis', 'cheating husband', 'no panties', 'clothed female naked male']"
+tt0879870,Eat Pray Love,133.0,"Drama,Romance","Aug 13, 2010",60000000,80574010,206598789,287172799,227172799,"['emotional balance', 'indonesia', 'inner peace', 'traveling', 'young woman']"
+tt6209808,Phenomenon,,Drama,"Jul 5, 1996",32000000,104636382,152036382,256672764,224672764,[None]
+tt0804509,The Mule,100.0,"Comedy,Drama","Dec 14, 2018",50000000,103804407,170857676,274662083,224662083,['based on novel']
+tt6840314,City of Angels,,"Action,Drama,Horror","Apr 10, 1998",55000000,78750909,198750909,277501818,222501818,"['angel', 'destruction', 'supernatural power', 'city', 'military']"
+tt2923554,Jumper,5.0,"Biography,Documentary,Drama","Feb 14, 2008",82500000,80172128,222640812,302812940,220312940,['game']
+tt1253864,Immortals,110.0,"Action,Drama,Fantasy","Nov 11, 2011",75000000,83504017,211562435,295066452,220066452,"['torture device', 'castration', 'slave', 'mythology', 'torture']"
+tt2024544,12 Years a Slave,134.0,"Biography,Drama,History","Oct 18, 2013",20000000,56671993,181025343,237697336,217697336,"['slavery', 'separation from family', 'torture', 'kidnapping', 'racism']"
+tt3152624,Trainwreck,125.0,"Comedy,Drama,Romance","Jul 17, 2015",35000000,110212700,141123897,251336597,216336597,"['actress playing herself', 'actress shares first name with character', 'written by star', 'micro mini', 'observation glass']"
+tt2713180,Fury,134.0,"Action,Drama,War","Oct 17, 2014",80000000,85817906,210315681,296133587,216133587,"['battle', 'tank', 'battlefield', 'world war two', 'american soldier']"
+tt10402572,Unbroken,104.0,Drama,"Dec 25, 2014",65000000,115637895,163527824,279165719,214165719,['business']
+tt0964517,The Fighter,116.0,"Biography,Drama,Sport","Dec 10, 2010",11000000,93617009,129262388,222879397,211879397,"['boxing', 'boxer', 'scantily clad female', 'panties', 'nipples visible through clothing']"
+tt6294822,The Post,116.0,"Biography,Drama,History","Dec 22, 2017",50000000,81903458,179748880,261652338,211652338,"['washington post', 'journalism', 'freedom of speech', 'new york times', 'freedom of the press']"
+tt0840361,The Town,125.0,"Crime,Drama,Thriller","Sep 17, 2010",37000000,92186262,152566881,244753143,207753143,"['bank robbery', 'criminal gang', 'heist', 'bank manager', 'hostage']"
+tt1276104,Looper,113.0,"Action,Crime,Drama","Sep 28, 2012",30000000,66486205,170466405,236952610,206952610,"['future', 'time travel', 'time loop', 'time traveller', 'cityscape']"
+tt0829150,Dracula Untold,92.0,"Action,Drama,Fantasy","Oct 10, 2014",70000000,55991880,220241723,276233603,206233603,"['dracula', 'death of wife', 'vampire', 'turk', 'tarantula']"
+tt4653310,Driving Miss Daisy,100.0,"Comedy,Drama","Dec 13, 1989",7500000,106593296,106593296,213186592,205686592,"['pulitzer prize source', 'atlanta georgia', 'jewish woman', 'african american', 'remake']"
+tt1868050,Mama,71.0,Drama,"Jan 18, 2013",15000000,71628180,148095566,219723746,204723746,"['mother', 'bathtub', 'caring', 'obesity', 'dependence']"
+tt5027774,"Three Billboards Outside Ebbing, Missouri",115.0,"Crime,Drama","Nov 10, 2017",12000000,54513740,160191915,214705655,202705655,"['billboard', 'police brutality', 'black comedy', 'ambiguous ending', 'thrown through a window']"
+tt2140479,The Accountant,128.0,"Action,Crime,Drama","Oct 14, 2016",40000000,86260045,152962083,239222128,199222128,"['accountant', 'autism', 'autistic child', 'assassin', 'brother brother relationship']"
+tt4400038,Chocolat,119.0,"Biography,Drama","Dec 15, 2000",25000000,71309760,152500343,223810103,198810103,"['belle epoque', 'france', '1890s', '1910s', 'clown']"
+tt0989757,Dear John,108.0,"Drama,Romance,War","Feb 5, 2010",25000000,80014842,142033509,222048351,197048351,"['love letter', 'u.s. army', 'army', 'coin collector', 'surfboard']"
+tt2119532,Hacksaw Ridge,139.0,"Biography,Drama,History","Nov 4, 2016",40000000,67209615,168904682,236114297,196114297,"['world war two', 'conscientious objector', 'soldier', 'medic', '1940s']"
+tt3682448,Bridge of Spies,142.0,"Drama,History,Thriller","Oct 16, 2015",40000000,72313754,162498338,234812092,194812092,"['lawyer', 'negotiation', 'cold war', 'berlin wall', 'west germany']"
+tt1528100,Exodus: Gods and Kings,150.0,"Action,Adventure,Drama","Dec 12, 2014",140000000,65014513,268314513,333329026,193329026,"['moses', 'pharaoh', 'plague', 'egypt', 'exodus']"
+tt6162924,Live and Let Die,45.0,"Drama,War","Jun 27, 1973",7000000,35400000,161800000,197200000,190200000,[None]
+tt1987680,The Upside,126.0,"Comedy,Drama","Jan 11, 2019",37500000,108235497,119024536,227260033,189760033,"['quadriplegia', 'remake', 'american remake', 'car chase', 'male friendship']"
+tt10340148,Midnight in Paris,75.0,"Comedy,Documentary,Drama","May 20, 2011",30000000,56816662,162502774,219319436,189319436,[None]
+tt4685968,Lion,143.0,"Action,Drama,Romance","Nov 25, 2016",12000000,51739495,149570720,201310215,189310215,"['chief minister', 'conspiracy', 'coma', 'politician', 'cbi officer']"
+tt1677036,The Holiday,97.0,Drama,"Dec 8, 2006",85000000,63280000,205190324,268470324,183470324,[None]
+tt1815862,After Earth,100.0,"Action,Adventure,Drama","May 31, 2013",130000000,60522097,251499665,312021762,182021762,"['real life father and son playing father and son', 'post apocalypse', 'father son team', 'chick', 'race against time']"
+tt6498340,End of Days,72.0,"Comedy,Documentary,Drama","Nov 24, 1999",100000000,66889043,212026975,278916018,178916018,[None]
+tt1193631,Step Up 3D,107.0,"Drama,Music,Romance","Aug 6, 2010",30000000,42400223,165889117,208289340,178289340,"['3d', '3 dimensional', 'competition', 'bare chested male', 'bed']"
+tt1790885,Zero Dark Thirty,157.0,"Drama,Thriller","Dec 19, 2012",52500000,95720716,134612435,230333151,177833151,"['al qaeda', 'terrorist', 'special forces', 'death of osama bin laden', 'commando raid']"
+tt4555426,Darkest Hour,125.0,"Biography,Drama,History","Nov 22, 2017",30000000,56443120,150807172,207250292,177250292,"['world war two', 'speech', 'prime minister', 'politics', 'winston churchill character']"
+tt1706593,Chronicle,84.0,"Drama,Sci-Fi,Thriller","Feb 3, 2012",12000000,64575175,123681790,188256965,176256965,"['troubled teen', 'found footage', 'levitation', 'video camera', 'supernatural power']"
+tt1596363,The Big Short,130.0,"Biography,Comedy,Drama","Dec 11, 2015",28000000,70259870,133162752,203422622,175422622,"['finance', 'bank', 'mortgage', 'banking', 'short selling']"
+tt1179933,10 Cloverfield Lane,103.0,"Drama,Horror,Mystery","Mar 11, 2016",5000000,72082999,108286422,180369421,175369421,"['bunker', 'kidnapping', 'alien', 'minimal cast', 'alien invasion']"
+tt2268016,Magic Mike XXL,115.0,"Comedy,Drama,Music","Jul 1, 2015",14500000,66013057,123660597,189673654,175173654,"['male objectification', 'stripper', 'nightclub', 'dancing', 'sequel']"
+tt1037705,The Book of Eli,118.0,"Action,Adventure,Drama","Jan 15, 2010",80000000,94835059,158750817,253585876,173585876,"['post apocalypse', 'blind', 'religion', 'bible', 'blindness']"
+tt2241035,The Color Purple,97.0,"Action,Drama","Dec 18, 1985",15000000,93589701,93589701,187179402,172179402,['college']
+tt1412386,The Best Exotic Marigold Hotel,124.0,"Comedy,Drama,Romance","May 4, 2012",10000000,46383639,134639780,181023419,171023419,"['old man', 'old woman', 'mumbai india', 'english abroad', 'hotel']"
+tt2548096,The Queen,104.0,"Action,Drama,War","Sep 30, 2006",15000000,56441711,128885873,185327584,170327584,"['year in title', '20th century', '1970s', '1980s', 'number in title']"
+tt1596365,The Woman in Black,95.0,"Drama,Fantasy,Horror","Feb 3, 2012",15000000,54333290,128955898,183289188,168289188,"['afterlife', 'ghost', 'woman in black', 'ghost child', 'reunited family']"
+tt1637688,In Time,109.0,"Action,Crime,Drama","Oct 28, 2011",35000000,37553932,165103952,202657884,167657884,"['dystopia', 'immortality', 'class differences', 'social commentary', 'currency']"
+tt1800741,Step Up Revolution,99.0,"Drama,Music,Romance","Jul 27, 2012",33000000,35074677,165552290,200626967,167626967,"['hot body', 'pretty legs', 'dance off', 'hard body', 'pretty body']"
+tt2324384,The Notebook,112.0,"Drama,War","Jun 25, 2004",30000000,81001787,116025023,197026810,167026810,"['family relationships', 'world war two', 'female pedophile', 'in medias res', 'flip book']"
+tt2177771,The Monuments Men,118.0,"Comedy,Drama,History","Feb 7, 2014",70000000,78031620,158702748,236734368,166734368,"['art', 'art expert', 'nazi stolen art', '1940s', 'world war two']"
+tt3313072,War Horse,,Drama,"Dec 25, 2011",70000000,79883359,156815529,236698888,166698888,['journey']
+tt1535438,Hope Springs,100.0,"Comedy,Drama,Romance","Aug 8, 2012",30000000,63536011,133085295,196621306,166621306,"['scene during end credits', 'story continued during end credits', 'man wears eyeglasses', 'woman wears eyeglasses', 'economy motel']"
+tt1856101,Blade Runner 2049,164.0,"Drama,Mystery,Sci-Fi","Oct 6, 2017",185000000,92054159,259357408,351411567,166411567,"['menage a trois', 'female nudity', 'miniskirt', 'mini skirt', 'woman wearing a miniskirt']"
+tt2072962,The Client,123.0,"Drama,Thriller","Jul 20, 1994",45000000,92115211,117615211,209730422,164730422,['attorney']
+tt3591950,Fantasia,86.0,Drama,"Nov 13, 1940",2280000,83320000,83320000,166640000,164360000,"['teenage boy', 'pregnant', 'teenager', 'classroom', 'school']"
+tt2516968,Step Up,55.0,"Biography,Documentary,Drama","Aug 11, 2006",12000000,65328121,110989157,176317278,164317278,[None]
+tt2140373,Saving Mr. Banks,125.0,"Biography,Comedy,Drama","Dec 13, 2013",35000000,83299761,114962525,198262286,163262286,"['disney', 'author', 'loss of father', 'reference to walt disney', 'suppression of emotion']"
+tt0945513,Source Code,93.0,"Action,Drama,Sci-Fi","Apr 1, 2011",32000000,54712227,140428499,195140726,163140726,"['train', 'time loop', 'bomber', 'memory', 'reliving same event']"
+tt5870006,Sisters,102.0,Drama,"Dec 18, 2015",30000000,87044645,106030660,193075305,163075305,"['faith', 'cystic fibrosis', 'soccer player', 'family drama']"
+tt6450186,I Can Only Imagine,110.0,"Biography,Drama,Family","Mar 16, 2018",7000000,83482352,85604221,169086573,162086573,"['abusive father', 'song', 'religion', 'christianity', 'based on true story']"
+tt0453562,42,128.0,"Biography,Drama,Sport","Apr 12, 2013",31000000,95020213,97470701,192490914,161490914,"['african american man', 'racial integration', 'pregnancy', 'jackie robinson character', 'reference to ty cobb']"
+tt4052882,The Shallows,86.0,"Drama,Horror,Thriller","Jun 24, 2016",13000000,55121623,118763442,173885065,160885065,"['shark attack', 'shark', 'great white shark', 'trapped', 'woman in jeopardy']"
+tt6376046,Stripes,85.0,Drama,"Jun 26, 1981",10000000,85300000,85300000,170600000,160600000,[None]
+tt2252032,The Visit,52.0,"Documentary,Drama","Sep 11, 2015",5000000,65206105,98677816,163883921,158883921,[None]
+tt2381941,Focus,105.0,"Comedy,Crime,Drama","Feb 27, 2015",65000000,53862963,168065700,221928663,156928663,"['older man younger woman relationship', 'con artist', 'interracial relationship', 'con man', 'deception']"
+tt1655442,The Artist,100.0,"Comedy,Drama,Romance","Nov 25, 2011",16000000,44667095,128256712,172923807,156923807,"['homage', 'showbiz comedy', '1920s', 'movie studio', 'movie star']"
+tt0359950,The Secret Life of Walter Mitty,114.0,"Adventure,Comedy,Drama","Dec 25, 2013",91000000,58236838,187861183,246098021,155098021,"['life magazine', 'magazine', 'photographer', 'daydream', 'x rayed skeleton']"
+tt1667353,Mirror Mirror,106.0,"Adventure,Comedy,Drama","Mar 30, 2012",85000000,64935167,173613482,238548649,153548649,"['queen', 'snow', 'princess', 'forest', 'king']"
+tt1598778,Contagion,106.0,"Action,Drama,Thriller","Sep 9, 2011",60000000,75658097,137551594,213209691,153209691,"['virus', 'infection', 'contagion', 'epidemic', 'vaccine']"
+tt1068242,Footloose,113.0,"Comedy,Drama,Music","Feb 17, 1984",8200000,80000000,80000000,160000000,151800000,"['bible quotes', 'woman with a black eye', 'implied sex', 'youth curfew', 'father slaps daughter']"
+tt1204975,Last Vegas,105.0,"Comedy,Drama","Jan 28, 2013",28000000,63914167,112914167,176828334,148828334,"['usa', 'united states', 'new york city', 'friendship', 'death of wife']"
+tt1649419,The Impossible,114.0,"Drama,History,Thriller","Dec 21, 2012",40000000,19019882,169590606,188610488,148610488,"['2004 indian ocean earthquake and tsunami', 'year 2004', 'disaster film', 'disaster', 'tidal wave']"
+tt2106361,Into the Storm,89.0,"Action,Adventure,Drama","Aug 8, 2014",50000000,47602194,150429371,198031565,148031565,"['storm', 'teenage boy', 'principal', 'schoolteacher', 'tornado']"
+tt3506476,The Golden Child,86.0,Drama,"Dec 12, 1986",12000000,79817937,79817937,159635874,147635874,[None]
+tt1179056,A Nightmare on Elm Street,95.0,"Crime,Drama,Horror","Apr 30, 2010",35000000,63075011,117729621,180804632,145804632,"['dream', 'nightmare', 'springwood ohio', 'child molestation', 'child molester']"
+tt7368554,The Interpreter,113.0,"Comedy,Drama","Apr 22, 2005",90000000,72708161,162753837,235461998,145461998,"['road movie', 'holocaust survivor', 'father son relationship', 'bare chested male', 'barefoot female']"
+tt1389137,We Bought a Zoo,124.0,"Comedy,Drama,Family","Dec 23, 2011",50000000,75624550,118729073,194353623,144353623,"['based on true story', 'zoo', 'inspection', 'tween girl', '2010s']"
+tt2980516,The Theory of Everything,123.0,"Biography,Drama,Romance","Nov 7, 2014",15000000,35893537,123327692,159221229,144221229,"['cambridge university', 'husband wife relationship', ""lou gehrig's disease"", 'cosmology', 'physicist']"
+tt5846676,The Saint,96.0,Drama,"Apr 4, 1997",90000000,61363304,169400000,230763304,140763304,[None]
+tt6112220,The Butterfly Effect,85.0,"Comedy,Crime,Drama","Jan 23, 2004",13000000,57924679,95638592,153563271,140563271,"['dancing', 'father daughter relationship', 'young adults', 'police', 'violence']"
+tt1591479,Act of Valor,110.0,"Action,Adventure,Drama","Feb 24, 2012",12000000,70012847,82497035,152509882,140509882,"['torture', 'navy seal', 'cia agent', 'pregnancy', 'ceramic ball bearing']"
+tt3460252,The Hateful Eight,168.0,"Crime,Drama,Mystery","Dec 25, 2015",62000000,54117416,147864886,201982302,139982302,"['bounty hunter', 'blizzard', 'murder', 'stagecoach', 'gang']"
+tt1524137,Contraband,109.0,"Action,Crime,Drama","Jan 13, 2012",25000000,66528000,98406855,164934855,139934855,"['cartoon on tv', 'drug lord', 'smuggling', 'contraband', 'prison']"
+tt5996202,The Net,114.0,Drama,"Jul 28, 1995",22000000,50621733,110521733,161143466,139143466,"['korea', 'border', 'boat', 'fisherman', 'south korea']"
+tt7401588,Instant Family,118.0,"Comedy,Drama","Nov 16, 2018",48000000,67363237,119736188,187099425,139099425,"['parenting', 'support group', 'adoptive family', 'adoptive mother adoptive son relationship', 'amusement park']"
+tt3832914,War Room,120.0,Drama,"Aug 28, 2015",3000000,67790117,73975239,141765356,138765356,"['submissive woman', 'jump rope competition', 'closet', 'christian film', 'prayer']"
+tt1067583,Water for Elephants,120.0,"Drama,Romance","Apr 22, 2011",38000000,58709717,116809717,175519434,137519434,"['animal abuse', 'circus', 'elephant', 'ringmaster', 'train']"
+tt1210166,Moneyball,133.0,"Biography,Drama,Sport","Sep 23, 2011",50000000,75605492,111300835,186906327,136906327,"['strategy', 'baseball', 'statistics', 'filmed in phoenix arizona', 'sabermetrics']"
+tt1294226,The Last Song,107.0,"Drama,Music,Romance","Mar 31, 2010",20000000,62950384,92678948,155629332,135629332,"['father daughter relationship', 'love', 'beach', 'pianist', 'fire']"
+tt5889398,Insomnia,,Drama,"May 24, 2002",46000000,67263182,113622499,180885681,134885681,[None]
+tt8342908,The Forgotten,,"Drama,Western","Sep 24, 2004",50000000,66711892,117211892,183923784,133923784,[None]
+tt6253546,Role Models,132.0,"Comedy,Drama","Nov 7, 2008",28000000,67300955,94500826,161801781,133801781,['life']
+tt7489744,Sinister,,Drama,"Oct 12, 2012",3000000,48086903,87727807,135814710,132814710,[None]
+tt1327194,The Lucky One,101.0,"Drama,Romance","Apr 20, 2012",25000000,60457138,96633833,157090971,132090971,"['arrogance', 'disarming someone', 'blonde', 'father figure', 'boy']"
+tt1007029,The Iron Lady,105.0,"Biography,Drama","Jan 13, 2012",14000000,29959436,115592104,145551540,131551540,"['politics', '10 downing street london', 'old woman', 'old age', 'conservative party']"
+tt1564349,Dolphin Tale,113.0,"Drama,Family","Sep 23, 2011",37000000,72286779,96068724,168355503,131355503,"['competition', 'bare chested male', 'father figure', 'beach', 'medical examination']"
+tt2638144,Ben-Hur,123.0,"Action,Adventure,Drama","Nov 18, 1959",15000000,73000000,73259017,146259017,131259017,"['remake', '1st century', 'based on novel', 'palestine', 'remake of remake']"
+tt7040874,A Simple Favor,117.0,"Comedy,Crime,Drama","Sep 14, 2018",20000000,53548586,97628717,151177303,131177303,"['drowning', 'missing woman', 'female friendship', 'missing friend', 'missing person']"
+tt2334879,White House Down,131.0,"Action,Drama,Thriller","Jun 28, 2013",150000000,73103784,205440387,278544171,128544171,"['automatic weapon', ""attempted coup d'etat"", 'stabbed with a pen', 'beaten to death', 'stabbed to death']"
+tt1392214,Prisoners,153.0,"Crime,Drama,Mystery","Sep 20, 2013",46000000,61002302,113402302,174404604,128404604,"['child abduction', 'police', 'vigilante justice', 'child kidnapping', 'whistle']"
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),119.0,"Comedy,Drama","Oct 17, 2014",18000000,42340598,103215094,145555692,127555692,"['actor', 'showbiz', 'inner voice', 'acting career', 'emotional instability']"
+tt7694546,Beowulf,80.0,"Action,Drama,Fantasy","Nov 16, 2007",150000000,82280579,195080579,277361158,127361158,['psychotronic film']
+tt7349662,BlacKkKlansman,135.0,"Biography,Crime,Drama","Aug 10, 2018",15000000,49275340,93017335,142292675,127292675,"['ku klux klan', 'white supremacy', '1970s', 'black power', 'reference to angela davis']"
+tt1282140,Easy A,92.0,"Comedy,Drama,Romance","Sep 17, 2010",8000000,58401464,76200721,134602185,126602185,"['christian fanatic', 'high school', 'jealousy', 'xian', 'promiscuity']"
+tt2980648,The Hundred-Foot Journey,122.0,"Comedy,Drama","Aug 8, 2014",22000000,54235441,94270488,148505929,126505929,"['restaurant', 'cooking', 'chef', 'haute cuisine', 'interracial romance']"
+tt2083355,The Best Man Holiday,123.0,"Comedy,Drama","Nov 15, 2013",17000000,70525195,72835710,143360905,126360905,"['christmas', 'written by director', 'african american', 'african american protagonist', 'ultrasound']"
+tt4085696,Billy Elliot,169.0,"Comedy,Drama,Music","Oct 13, 2000",5000000,21995263,109253745,131249008,126249008,"['fight', 'filmed performance']"
+tt1196141,Diary of a Wimpy Kid,94.0,"Comedy,Drama,Family","Mar 19, 2010",15000000,64003625,76954311,140957936,125957936,"['window blinds', 'cooties', 'king arthur costume', 'shirts and skins', 'asian american']"
+tt2066051,Rocketman,121.0,"Biography,Drama,Music","May 31, 2019",41000000,57342725,108642725,165985450,124985450,"['musician', 'gay man', 'pop music', 'substance abuse', 'addiction']"
+tt6501192,Hostel,135.0,Drama,"Jan 6, 2006",4800000,47326473,82241110,129567583,124767583,['life']
+tt2431286,Philomena,98.0,"Biography,Comedy,Drama","Nov 22, 2013",12000000,37709979,98963392,136673371,124673371,"['convent', 'catholic church', 'human interest story', 'illegitimate son', 'irish adoption board']"
+tt2873282,Red Sparrow,140.0,"Action,Drama,Thriller","Mar 2, 2018",69000000,46874505,145951861,192826366,123826366,"['spread eagle', 'seduction', 'spy', 'female nudity', 'sex scene']"
+tt4257926,Miracles from Heaven,109.0,"Biography,Drama,Family","Mar 16, 2016",13000000,61705123,73798736,135503859,122503859,"['christian', 'hospital', 'prayer', 'aquarium', 'terminal illness']"
+tt3303730,Obsessed,132.0,Drama,"Apr 24, 2009",20000000,68261644,73964713,142226357,122226357,"['colonel', 'captain', 'gossiping women', 'military unit', 'party']"
+tt1205537,Jack Ryan: Shadow Recruit,105.0,"Action,Drama,Thriller","Jan 17, 2014",60000000,50577412,131377412,181954824,121954824,"['jack ryan character', 'russian', 'marine', 'u.s. marine', 'terrorist plot']"
+tt6472976,Five Feet Apart,116.0,"Drama,Romance","Mar 15, 2019",7000000,45729221,80504421,126233642,119233642,"['gay character', 'distance in title', 'teenager', 'teenage boy', 'teenage girl']"
+tt2334873,Blue Jasmine,98.0,Drama,"Jul 26, 2013",18000000,33404871,102912961,136317832,118317832,"['self deception', 'congenital liar', 'riches to rags', 'snob', 'talking to oneself']"
+tt1355630,If I Stay,107.0,"Drama,Fantasy,Music","Aug 22, 2014",11000000,50474843,78356170,128831013,117831013,"['out of body experience', 'coma', 'teenage girl', 'based on young adult novel', 'car accident']"
+tt4925292,Lady Bird,94.0,"Comedy,Drama","Nov 3, 2017",10000000,48958273,78610769,127569042,117569042,"['mother daughter relationship', 'sacramento california', 'coming of age', 'female protagonist', 'teenage girl']"
+tt1895587,Spotlight,129.0,"Crime,Drama","Nov 6, 2015",20000000,45055776,92088460,137144236,117144236,"['investigation', 'child molestation', 'sexual abuse', 'catholic church', 'cover up']"
+tt3863552,Bajrangi Bhaijaan,163.0,"Action,Comedy,Drama","Jul 17, 2015",13000000,8178001,121778347,129956348,116956348,"['little girl', 'india', 'pakistan', 'mosque', 'muslim']"
+tt4034228,Manchester by the Sea,137.0,Drama,"Nov 18, 2016",8500000,47695371,77733867,125429238,116929238,"['death', 'death of brother', 'manchester massachusetts', 'guardian', 'attempted suicide']"
+tt1798684,Southpaw,124.0,"Drama,Sport","Jul 24, 2015",30000000,52421953,94156456,146578409,116578409,"['boxing ring', 'death of wife', 'male nudity', 'boxing training', 'rage']"
+tt3667264,Closer,87.0,Drama,"Dec 3, 2004",35000000,33987757,116177695,150165452,115165452,['reunion']
+tt4897908,Calendar Girls,131.0,Drama,"Dec 19, 2003",10000000,31011616,93074616,124086232,114086232,"['modeling', 'escort', 'fashion model', 'calendar photoshoot', 'calendar girl']"
+tt5083738,The Favourite,119.0,"Biography,Drama,History","Nov 23, 2018",15000000,34366783,94113929,128480712,113480712,"['female rivalry', 'maid', 'aristocracy', 'dragged by a horse', 'british aristocracy']"
+tt2555736,The Second Best Exotic Marigold Hotel,122.0,"Comedy,Drama","Mar 6, 2015",10000000,33078266,90384306,123462572,113462572,"['sequel', 'hotel', 'india', 'english abroad']"
+tt2466604,Sky High,70.0,"Adventure,Documentary,Drama","Jul 29, 2005",35000000,63939454,83109359,147048813,112048813,['accident']
+tt2359002,Daylight,114.0,"Drama,Mystery,Thriller","Dec 6, 1996",80000000,32908290,158908290,191816580,111816580,"['family secret', 'mother son relationship', 'based on novel', 'flashback', 'autism']"
+tt4163946,Snow Day,60.0,"Action,Documentary,Drama","Feb 11, 2000",13000000,60008303,62452927,122461230,109461230,['f rated']
+tt1320244,The Last Exorcism,87.0,"Drama,Horror,Thriller","Aug 27, 2010",1800000,41034350,70165900,111200250,109400250,"['exorcism', 'no music', 'documentary crew', 'cult film', 'found footage']"
+tt1355683,Black Mass,123.0,"Biography,Crime,Drama","Sep 18, 2015",53000000,62575678,98837872,161413550,108413550,"['true crime', 'fbi agent', 'gangster', 'boston massachusetts', 'based on true story']"
+tt2304933,The 5th Wave,112.0,"Action,Adventure,Drama","Jan 22, 2016",38000000,34912982,111336398,146249380,108249380,"['based on young adult novel', 'alien', 'male objectification', 'invasion', 'kiss']"
+tt4361050,Ouija: Origin of Evil,99.0,"Drama,Horror,Mystery","Oct 21, 2016",9000000,35144505,81831866,116976371,107976371,"['prequel', 'seance', 'possession', 'ouija board', 'schoolgirl uniform']"
+tt1601913,The Grey,117.0,"Action,Adventure,Drama","Jan 27, 2012",25000000,51580136,81249176,132829312,107829312,"['snow', 'survival', 'wolf', 'alcohol', 'howling']"
+tt2241351,Money Monster,98.0,"Crime,Drama,Thriller","May 13, 2016",27000000,41012075,93466095,134478170,107478170,"['fictional tv network', 'financial thriller', 'money', 'hostage', 'death']"
+tt3107798,Rambo,144.0,"Comedy,Drama,Thriller","Jan 25, 2008",47500000,42754105,112214531,154968636,107468636,[None]
+tt6149830,Identity,75.0,Drama,"Apr 25, 2003",28000000,52131264,82183683,134314947,106314947,[None]
+tt3622592,Paper Towns,109.0,"Comedy,Drama,Mystery","Jul 24, 2015",12000000,32000304,85450484,117450788,105450788,"['based on novel', 'travel', 'teenage girl', 'unrequited love', 'friendship']"
+tt0892318,Letters to Juliet,105.0,"Adventure,Comedy,Drama","May 14, 2010",30000000,53032453,82148538,135180991,105180991,"['writer', 'starring real life couple', 'vineyard', 'verona italy', 'female protagonist']"
+tt1189340,The Lincoln Lawyer,118.0,"Crime,Drama,Thriller","Mar 18, 2011",40000000,58009200,87145086,145154286,105154286,"['plot twist', 'drug rehabilitation', 'envelope of money', 'illegal gun purchase', 'psychological']"
+tt7784604,Hereditary,127.0,"Drama,Horror,Mystery","Jun 8, 2018",10000000,44069456,70133905,114203361,104203361,"['anaphylaxis', 'decapitation', 'psychological horror', 'miniature art', 'cult']"
+tt0881320,Sanctum,108.0,"Adventure,Drama,Thriller","Feb 4, 2011",30000000,23209310,108957098,132166408,102166408,"['cave', 'underwater cave', 'cave diving', 'rebreather', 'scuba diving']"
+tt8107598,Earth,86.0,Drama,"Apr 22, 2009",47000000,32011576,116773317,148784893,101784893,['mother']
+tt6593054,Drive,147.0,"Action,Crime,Drama","Sep 16, 2011",15000000,35060689,81357930,116418619,101418619,"['jewel', 'heist']"
+tt3397884,Sicario,121.0,"Action,Crime,Drama","Sep 18, 2015",30000000,46889293,84393749,131283042,101283042,"['war on drugs', 'drug cartel', 'juarez mexico', 'neo noir', 'surprise ending']"
+tt1391137,Why Did I Get Married Too?,121.0,"Comedy,Drama,Romance","Apr 2, 2010",20000000,60095852,60831067,120926919,100926919,"['repeat sequel', 'question mark in title', 'returning character killed off', 'writer director', 'sequel']"
+tt3045930,Miracle,100.0,Drama,"Feb 6, 2004",28000000,64378093,64474705,128852798,100852798,[None]
+tt2177672,Casino,,Drama,"Nov 22, 1995",52000000,42438300,110400000,152838300,100838300,[None]
+tt4746516,Orphan,111.0,Drama,"Jul 24, 2009",20000000,41596251,78769428,120365679,100365679,"['lesbian kiss', '2000s', '2010s', 'reverse chronology', 'character played by different actors']"
+tt2224349,My Girl,,Drama,"Nov 27, 1991",16500000,58011485,58011485,116022970,99522970,[None]
+tt3862750,The Perfect Guy,100.0,"Crime,Drama,Horror","Sep 11, 2015",18000000,57027435,60278166,117305601,99305601,"['hit on the head with a pot', 'beanbag shell', 'hiding under a bed while couple has sex', 'neighbor murdered', 'key in fake rock']"
+tt1020072,Selma,128.0,"Biography,Drama,History","Jan 9, 2015",20000000,52076908,66776576,118853484,98853484,"['civil rights', 'protest', 'selma alabama', 'courage', 'u.s. politics']"
+tt4706692,Exit Wounds,11.0,"Documentary,Drama,War","Mar 16, 2001",33000000,51758599,79958599,131717198,98717198,[None]
+tt7501058,Ordinary People,91.0,Drama,"Sep 19, 1980",6000000,52302978,52302978,104605956,98605956,[None]
+tt1219827,Ghost in the Shell,107.0,"Action,Drama,Sci-Fi","Mar 31, 2017",110000000,40563557,167910690,208474247,98474247,"['usa remake', 'corporate corruption', 'remake', 'evil corporation', 'bisexual lead character']"
+tt1748122,Moonrise Kingdom,94.0,"Adventure,Comedy,Drama","May 25, 2012",16000000,45512466,68848446,114360912,98360912,"['young love', 'boy scouts camp', 'storm', 'search party', '1960s']"
+tt6760504,Sea of Love,47.0,"Drama,Mystery,Romance","Sep 15, 1989",19000000,58571513,58571513,117143026,98143026,[None]
+tt3197696,Fences,117.0,"Drama,Family","Dec 16, 2016",24000000,57682904,64282881,121965785,97965785,[None]
+tt1993416,The Gift,,Drama,"Aug 7, 2015",5000000,43787265,58978477,102765742,97765742,[None]
+tt1465490,Joy,75.0,Drama,"Dec 25, 2015",60000000,56451232,101134059,157585291,97585291,['f rated']
+tt2039338,Flatliners,109.0,"Drama,Horror,Mystery","Aug 10, 1990",26000000,61308153,61308153,122616306,96616306,"['medical student', 'near death experience', 'medical experiment', 'flashback', 'remake']"
+tt8383596,Stand by Me,91.0,Drama,"Aug 8, 1986",8000000,52287414,52287414,104574828,96574828,['future']
+tt5164432,"Love, Simon",110.0,"Comedy,Drama,Romance","Mar 16, 2018",10000000,40826341,65520633,106346974,96346974,"['gay', 'gay teenager', 'closeted homosexual', 'gay interest', 'coming out']"
+tt1124035,The Ides of March,101.0,"Drama,Thriller","Oct 7, 2011",23000000,40962534,77735925,118698459,95698459,"['politics', 'presidential campaign', 'intrigue', 'presidential election', 'campaigning']"
+tt1259528,Den of Thieves,140.0,"Action,Crime,Drama","Jan 19, 2018",30000000,44947622,80131391,125079013,95079013,"['los angeles california', 'strip club', 'cleavage', 'scantily clad female', 'bare breasts']"
+tt2443822,The Boy,105.0,"Drama,Horror,Thriller","Jan 22, 2016",10000000,35819556,68220952,104040508,94040508,"['9 year old', 'murder', 'child with a knife', 'son murders father', 'patricide']"
+tt8071360,Monster,,Drama,"Dec 24, 2003",5000000,34469210,64240813,98710023,93710023,[None]
+tt2011159,No Good Deed,84.0,"Action,Crime,Drama","Sep 12, 2014",13200000,52543632,54323210,106866842,93666842,"['psychopath', 'home invasion', 'little girl', 'african american', 'african american protagonist']"
+tt1161864,The Rite,114.0,"Drama,Horror,Mystery","Jan 28, 2011",37000000,33047633,97143987,130191620,93191620,"['exorcism', 'exorcist', 'italy', 'supernatural horror', 'frog']"
+tt2194499,About Time,123.0,"Comedy,Drama,Fantasy","Nov 1, 2013",12000000,15323921,89309178,104633099,92633099,"['time travel', 'time travel romance', 'father son relationship', 'lingerie slip', 'family relationships']"
+tt7137846,Breaking In,88.0,"Action,Crime,Drama","May 11, 2018",6000000,46840590,51411620,98252210,92252210,"['home invasion', 'tied feet', 'tape over mouth', 'white male black female relationship', 'black woman white male']"
+tt1586265,What to Expect When You're Expecting,110.0,"Comedy,Drama,Romance","May 18, 2012",37500000,41152203,88473016,129625219,92125219,"['bare chested male', 'repetition in title', 'pregnancy', 'photographer', 'baby']"
+tt5462602,The Big Sick,120.0,"Comedy,Drama,Romance","Jun 23, 2017",5000000,42872467,53972860,96845327,91845327,"['interracial love', 'arranged marriage', 'stand up comedy', 'illness', 'family relationships']"
+tt4975722,Moonlight,111.0,Drama,"Oct 21, 2016",1500000,27854931,65245512,93100443,91600443,"['forgiveness', 'mother son relationship', 'bullying', 'gay lead character', 'gay african american']"
+tt1212419,Hereafter,129.0,"Drama,Fantasy,Romance","Oct 15, 2010",50000000,32746941,108660270,141407211,91407211,"['near death experience', 'car', 'airplane', 'italian food', 'crying']"
+tt5052474,Sicario: Day of the Soldado,122.0,"Action,Crime,Drama","Jun 29, 2018",35000000,50065850,75885196,125951046,90951046,"['somalia', 'desert', 'cartel', 'gunfight', 'shootout']"
+tt1213641,First Man,141.0,"Biography,Drama,History","Oct 12, 2018",60000000,44936545,105203825,150140370,90140370,"['moon landing', '1960s', 'astronaut', 'nasa', 'apollo program']"
+tt1321870,Gangster Squad,113.0,"Action,Crime,Drama","Jan 11, 2013",60000000,46000903,104100903,150101806,90101806,"['police vigilantism', 'year 1949', 'smoking after sex', 'interrogation', 'torture']"
+tt2381111,Brooklyn,117.0,"Drama,Romance","Nov 4, 2015",11000000,38322743,62076141,100398884,89398884,"['irish immigrant', 'immigrant', '1950s', 'irish accent', 'brooklyn new york city']"
+tt1772317,Nerve,83.0,"Comedy,Drama","Jul 27, 2016",20000000,38583626,70652284,109235910,89235910,['experiment']
+tt6897484,Life of the Party,115.0,Drama,"May 11, 2018",30000000,53059911,65759911,118819822,88819822,[None]
+tt3628584,Barbershop: The Next Cut,111.0,"Comedy,Drama","Apr 15, 2016",20000000,54030051,54404202,108434253,88434253,"['barack obama character', 'barber shop', 'barber', 'barbershop', 'four word title']"
+tt1939659,Carrie,100.0,"Drama,Horror","Oct 18, 2013",30000000,35266619,82409520,117676139,87676139,"['telekinesis', 'self injury', 'protagonist becomes antagonist', 'teenage protagonist', 'teenage girl as protagonist']"
+tt1823672,Chappie,120.0,"Action,Crime,Drama","Mar 6, 2015",49000000,31569268,105002056,136571324,87571324,"['robot', 'artificial intelligence', 'future', 'mind uploading', 'consciousness']"
+tt3765772,Elizabeth,7.0,"Biography,Documentary,Drama","Nov 6, 1998",25000000,30082699,82150642,112233341,87233341,[None]
+tt1979320,Rush,123.0,"Action,Biography,Drama","Sep 20, 2013",38000000,26947624,98230839,125178463,87178463,"['formula 1', 'rivalry', '1970s', 'racecar driver', 'playboy']"
+tt7442358,Devil,89.0,Drama,"Sep 17, 2010",10000000,33679655,63354114,97033769,87033769,[None]
+tt1616195,J. Edgar,137.0,"Biography,Crime,Drama","Nov 9, 2011",35000000,37306030,84606030,121912060,86912060,"['gay relationship', 'american history', 'u.s. history', 'secret', 'agent']"
+tt2126357,Second Act,103.0,"Comedy,Drama,Romance","Dec 21, 2018",15700000,39282227,63288854,102571081,86871081,"['boyfriend girlfriend relationship', 'vertigo', 'two word title', 'adopted daughter', 'cosmetics company']"
+tt0435651,The Giver,97.0,"Drama,Romance,Sci-Fi","Aug 15, 2014",25000000,45090374,66540205,111630579,86630579,"['black and white segues into color', 'community', 'dystopia', 'memory', 'color']"
+tt2170593,St. Vincent,102.0,"Comedy,Drama","Oct 10, 2014",13000000,44137712,54837234,98974946,85974946,"['stroke recovery', 'next door neighbor', 'grumpy old man', 'divorced parents', 'thunder thighs']"
+tt0882977,Snitch,112.0,"Action,Drama,Thriller","Feb 22, 2013",15000000,42930462,57907734,100838196,85838196,"['drug cartel', 'prison', 'teenage prisoner', 'female district attorney', 'family relationships']"
+tt5001718,"Everything, Everything",96.0,"Drama,Romance","May 19, 2017",10000000,34121140,61603136,95724276,85724276,"['love interest', 'immune disorder', 'disease', 'new neighbor', 'nurse']"
+tt0498381,Rings,102.0,"Drama,Horror,Mystery","Feb 3, 2017",25000000,27793018,82917283,110710301,85710301,"['vcr', 'curse', 'sequel', 'videotape', 'horror icon']"
+tt1028576,Secretariat,123.0,"Biography,Drama,Family","Oct 8, 2010",35000000,59699513,60376247,120075760,85075760,"['horse', 'horseback riding', 'horse training', 'horse movie', 'human animal relationship']"
+tt3281548,Little Women,,"Drama,Romance","Dec 21, 1994",15000000,50003303,50003303,100006606,85006606,"['aspiring writer', 'poverty', ""women's rights"", 'death of sister', 'mother daughter relationship']"
+tt1615065,Savages,131.0,"Crime,Drama,Thriller","Jul 6, 2012",45000000,47323100,82513490,129836590,84836590,"['marijuana', 'clothed female naked male scene', 'southern california', 'one female two males threesome', 'female frontal nudity']"
+tt4795124,How to Be a Latin Lover,115.0,"Comedy,Drama","Apr 28, 2017",10000000,32149404,62556228,94705632,84705632,"['eye bandage', 'giving a bath to a cat', 'toy motorcycle', 'arm in a sling', 'yelling']"
+tt1340800,Tinker Tailor Soldier Spy,122.0,"Drama,Mystery,Thriller","Dec 9, 2011",21000000,24149393,81452811,105602204,84602204,"['spy', 'cold war', 'mole', 'woman on top', 'intelligence']"
+tt3166734,Alpha,80.0,"Drama,Horror,Mystery","Aug 17, 2018",51000000,35851379,99624873,135476252,84476252,['corpse']
+tt1855199,End of Watch,109.0,"Action,Crime,Drama","Sep 21, 2012",15000000,41003371,57586606,98589977,83589977,"['video footage', 'street gang', 'police', 'lapd', 'police officer']"
+tt1440728,The American,105.0,"Crime,Drama,Thriller","Sep 1, 2010",20000000,35606376,67950723,103557099,83557099,"['female killer', 'female full frontal nudity', 'female pubic hair', 'pubic hair', 'female frontal nudity']"
+tt8155288,Happy Death Day 2U,100.0,"Drama,Horror,Mystery","Feb 13, 2019",9000000,28051045,64179495,92230540,83230540,"['time loop', 'slasher flick', 'slasher', 'slasher killer', 'body count']"
+tt0790636,Dallas Buyers Club,117.0,"Biography,Drama","Nov 1, 2013",5000000,27298285,60611845,87910130,82910130,"['hiv', 'gay community', 'homophobia', 'drugs', 'hiv positive']"
+tt1787759,Madea's Big Happy Family,106.0,"Comedy,Drama","Apr 22, 2011",25000000,53345287,54160818,107506105,82506105,"['2010s', 'madea series']"
+tt1842448,Crossroads,,Drama,"Feb 15, 2002",12000000,37188667,57000000,94188667,82188667,[None]
+tt1413492,12 Strong,130.0,"Action,Drama,History","Jan 19, 2018",35000000,45819713,71118378,116938091,81938091,"['taliban', 'jarhead', 'imperialism', 'military industrial complex', 'murder']"
+tt1655441,The Age of Adaline,112.0,"Drama,Fantasy,Romance","Apr 24, 2015",30000000,42629776,68984536,111614312,81614312,"['aging', 'change of identity', 'car accident', 'agelessness', 'trivia game']"
+tt3581652,West Side Story,,"Crime,Drama,Musical","Oct 18, 1961",6000000,43700000,43700000,87400000,81400000,"['remake', 'year 1961', 'new york city', 'gang', 'rival']"
+tt2404425,Woman in Gold,109.0,"Biography,Drama,History","Apr 1, 2015",11000000,33307793,58586407,91894200,80894200,"['justice', 'austrian history', 'holocaust', 'art museum', 'looting']"
+tt4682786,Collateral Beauty,97.0,"Drama,Romance","Dec 16, 2016",36000000,31016021,85309093,116325114,80325114,"['anguish', 'husband wife relationship', 'loss', 'death', 'letter']"
+tt2005151,War Dogs,114.0,"Comedy,Crime,Drama","Aug 19, 2016",50000000,43034523,86234503,129269026,79269026,"['ugly american', 'deal', 'contract', 'military', 'ammunition']"
+tt2387559,Delivery Man,105.0,"Comedy,Drama","Nov 22, 2013",22000000,30659817,70536870,101196687,79196687,"['dreamworks', 'disney', 'female police officer', 'pregnant female police officer', 'police']"
+tt6335394,The Island,60.0,"Documentary,Drama","Jul 22, 2005",120000000,35818913,163018913,198837826,78837826,['city']
+tt1065073,Boyhood,165.0,Drama,"Jul 11, 2014",4000000,25379975,57273049,82653024,78653024,"['domestic abuse', '12 year time span', 'separated parents', 'growing up', 'parenting']"
+tt0816442,The Book Thief,131.0,"Drama,War","Nov 8, 2013",19000000,21488481,76086711,97575192,78575192,"['book', 'world war two', 'nazi', 'nazi germany', 'book burning']"
+tt7186036,Volcano,104.0,"Comedy,Drama","Apr 25, 1997",90000000,47546796,120100000,167646796,77646796,"['one word title', 'rural setting', 'countryside', 'ukrainian countryside', 'eastern europe']"
+tt1980929,Begin Again,104.0,"Comedy,Drama,Music","Jun 27, 2014",8000000,16170632,68838736,85009368,77009368,"['singer', 'infidelity', 'singing', 'manhattan new york city', 'musician']"
+tt4218572,Widows,129.0,"Crime,Drama,Thriller","Nov 16, 2018",40000000,42402632,73866088,116268720,76268720,"['heist', 'car chase', 'based on tv series', 'politician', 'girl gang']"
+tt0993842,Hanna,111.0,"Action,Drama,Thriller","Apr 8, 2011",30000000,40259119,65343694,105602813,75602813,"['assassin', 'title at the end', 'revenge', 'rogue agent', 'split screen']"
+tt4071086,Wild,97.0,Drama,"Dec 3, 2014",15000000,37880356,52460543,90340899,75340899,"['sexuality', 'wolf', 'cunnilingus', 'female frontal nudity', 'female nudity']"
+tt1126591,Burlesque,119.0,"Drama,Music,Musical","Nov 24, 2010",55000000,39440655,90552675,129993330,74993330,"['burlesque', 'homosexual subtext', 'female protagonist', 'backstage', 'rival']"
+tt1571724,Honey,103.0,Drama,"Dec 5, 2003",18000000,30272254,62646763,92919017,74919017,"['no music', 'house', 'forest', 'honey', 'boy']"
+tt1371160,The Kid,111.0,Drama,"Jul 7, 2000",65000000,69688384,69688384,139376768,74376768,"['abused child', 'abusive parent', 'abusive father', 'abusive mother', 'child abuse']"
+tt2872718,Nightcrawler,117.0,"Crime,Drama,Thriller","Oct 31, 2014",8500000,32381218,50334418,82715636,74215636,"['sociopath', 'tv news', 'ethics', 'journalism ethics', 'journalism']"
+tt1265990,The Roommate,91.0,"Drama,Thriller","Feb 4, 2011",16000000,37300107,52545707,89845814,73845814,"['tied to a bed', 'psycho thriller', 'lesbian subtext', 'tied up', 'bound and gagged']"
+tt1872194,The Judge,141.0,"Crime,Drama","Oct 10, 2014",50000000,47119388,76119388,123238776,73238776,"['courtroom', 'dysfunctional family', 'trial', 'lawyer', 'indiana']"
+tt2097298,"McFarland, USA",129.0,"Biography,Drama,Sport","Feb 20, 2015",17000000,44480275,45707924,90188199,73188199,"['coach', 'hispanic', 'state championship', 'cross country running', 'running']"
+tt10152772,Cobra,,Drama,"May 23, 1986",25000000,49042224,49042224,98084448,73084448,['acting']
+tt1596346,Soul Surfer,112.0,"Biography,Drama,Family","Apr 8, 2011",18000000,43853424,47158652,91012076,73012076,"['based on autobiography', 'surfer', 'shark attack', 'shark', 'christian']"
+tt5580036,"I, Tonya",120.0,"Biography,Comedy,Drama","Dec 8, 2017",11000000,30014534,53797409,83811943,72811943,"['ice skating', 'mother daughter relationship', 'violence', 'abuse', 'competition']"
+tt1742044,Jersey Boys,134.0,"Biography,Drama,Music","Jun 20, 2014",40000000,47047013,65282732,112329745,72329745,"['song', 'based on stage musical', 'musical number', 'breaking the fourth wall', 'fake blood']"
+tt0475290,"Hail, Caesar!",106.0,"Comedy,Drama,Music","Feb 5, 2016",22000000,30080225,64160680,94240905,72240905,"['film within a film', 'communist conspiracy', 'screenwriter', 'western movie', 'studio system']"
+tt3469918,Jack,103.0,Drama,"Aug 9, 1996",45000000,58617334,58617334,117234668,72234668,"['male frontal nudity', 'male nudity', 'character name as title', 'bare chested male', 'son seeing mother naked']"
+tt6877488,Derailed,76.0,Drama,"Nov 11, 2005",22000000,36020063,57520063,93540126,71540126,[None]
+tt6063050,Acrimony,120.0,"Drama,Romance,Thriller","Mar 30, 2018",20000000,43549096,46627836,90176932,70176932,"['male nudity', 'villainess played by lead actress', 'female psychopath', 'divorce', 'college']"
+tt0491152,Something Borrowed,112.0,"Comedy,Drama,Romance","May 6, 2011",35000000,39046489,65084116,104130605,69130605,"['cheating fiancee', 'pregnant', 'parents son relationship', 'romantic triangle', 'reference to a chipmunk']"
+tt1657507,Colombiana,108.0,"Action,Drama,Thriller","Aug 26, 2011",40000000,36665854,72295262,108961116,68961116,"['assassin', 'drug lord', 'revenge', 'revenge killing', 'torture']"
+tt2053463,Side Effects,106.0,"Crime,Drama,Mystery","Feb 8, 2013",30000000,32172757,66742138,98914895,68914895,"['side effect', 'clinical trial', 'depression', 'psychiatrist', 'sleepwalking']"
+tt1582507,House at the End of the Street,101.0,"Drama,Horror,Thriller","Sep 21, 2012",6900000,31611916,44103982,75715898,68815898,"['dead body in a car trunk', 'female captive', 'scantily clad female', 'slut', 'nipples visible through clothing']"
+tt1640484,Jumping the Broom,112.0,"Comedy,Drama","May 6, 2011",7000000,37295394,38158601,75453995,68453995,"['columbia tristar', 'weekend', ""martha's vineyard"", 'wedding', 'older woman younger man relationship']"
+tt1306980,50/50,100.0,"Comedy,Drama,Romance","Sep 30, 2011",8000000,35016118,41334735,76350853,68350853,"['cancer', 'best friend', 'therapist', 'chemotherapy', 'survival rate']"
+tt1630036,Courageous,129.0,Drama,"Sep 30, 2011",2000000,34522221,35185884,69708105,67708105,"['faith', 'fatherhood', 'police', 'integrity', 'responsibility']"
+tt2409300,Killers,137.0,"Action,Crime,Drama","Jun 4, 2010",75000000,47059963,95572749,142632712,67632712,"['webcam', 'burnt man', 'politician', 'journalist', 'divorced man']"
+tt1681371,The One,89.0,"Comedy,Drama,Romance","Nov 2, 2001",49000000,43905746,72689126,116594872,67594872,"['friend', 'coming out', 'wedding', 'gay', 'homosexual']"
+tt4832640,Sultan,170.0,"Action,Drama,Sport","Jul 6, 2016",11000000,5599781,72989781,78589562,67589562,"['wrestler', 'wrestling', 'mixed martial arts', 'ego', 'male objectification']"
+tt4649416,Almost Christmas,111.0,"Comedy,Drama","Nov 11, 2016",17000000,42065185,42493506,84558691,67558691,"['christmas movie', 'family comedy', 'domestic comedy', 'christmas gathering', 'family gathering']"
+tt2726560,The Longest Ride,123.0,"Drama,Romance","Apr 10, 2015",34000000,37446117,63802928,101249045,67249045,"['usa', 'united states', 'college student', 'college', 'bull riding']"
+tt1462769,The Odd Life of Timothy Green,105.0,"Comedy,Drama,Family","Aug 15, 2012",40000000,51853450,55249159,107102609,67102609,"['adoption', 'dodgeball', 'young love', 'soccer game', 'soccer']"
+tt1583420,Larry Crowne,98.0,"Comedy,Drama,Romance","Jul 1, 2011",30000000,35608245,61449135,97057380,67057380,"['character name as title', 'unsuccessful', 'male protagonist', 'college', 'scooter']"
+tt4064912,Shine,95.0,"Drama,Music","Nov 22, 1996",5500000,35811509,36672493,72484002,66984002,['tragedy']
+tt1226273,Edge of Darkness,117.0,"Crime,Drama,Mystery","Jan 29, 2010",60000000,43313890,82812456,126126346,66126346,"['father daughter relationship', 'political corruption', 'remake by original director', '2000s', 'activist']"
+tt1072748,Winchester,99.0,"Biography,Drama,Fantasy","Feb 2, 2018",3500000,25091816,44378040,69469856,65969856,"['ghost', 'winchester house', 'widower', 'gothic horror', 'haunted house']"
+tt2952692,State of Play,87.0,"Documentary,Drama,Sport","Apr 17, 2009",60000000,37017955,88832210,125850165,65850165,"['work', 'video games', 'esports', 'korea', 'starcraft']"
+tt1212450,Lawless,116.0,"Crime,Drama","Aug 29, 2012",26000000,37397291,54393687,91790978,65790978,"['female frontal nudity', 'bouncing breasts', 'gangster', 'thompson sub machine gun', 'jar of moonshine']"
+tt3381610,Breakdown,110.0,"Drama,Thriller","May 2, 1997",36000000,50159144,50159144,100318288,64318288,"['ptsd post traumatic stress disorder', 'contract killer', 'vision', 'panic attack', 'hitman']"
+tt2978462,Dolphin Tale 2,107.0,"Drama,Family","Sep 12, 2014",36000000,42024533,57824533,99849066,63849066,"['no opening credits', 'pelican', 'dolphin', 'purple gloves', 'latex gloves']"
+tt2385003,Assassins,84.0,"Action,Drama,Thriller","Oct 6, 1995",50000000,30306268,83306268,113612536,63612536,"['murder', 'assassin', 'fight', 'revenge']"
+tt1441951,Quartet,94.0,"Comedy,Drama","Jan 11, 2013",11000000,18388357,56178935,74567292,63567292,"['reference to giuseppe verdi', 'retirement', 'opera', 'senility', 'divorced couple']"
+tt1322269,August: Osage County,121.0,"Comedy,Drama","Dec 25, 2013",25000000,37738810,50738810,88477620,63477620,"['incestuous relationship', 'pills', 'cancer', 'death of husband', 'family secret']"
+tt3231054,Risen,107.0,"Action,Adventure,Drama","Feb 19, 2016",20000000,36880033,46255763,83135796,63135796,"['biblical', 'roman soldier', 'tomb', 'resurrection', 'ascension day']"
+tt6722030,The Intruder,102.0,"Drama,Horror,Mystery","May 3, 2019",8000000,35095904,36005871,71101775,63101775,"['big breasts', 'cleavage', 'round ass', 'sexy butt', 'tight jeans']"
+tt2193215,The Counselor,117.0,"Crime,Drama,Thriller","Oct 25, 2013",25000000,16973715,71009334,87983049,62983049,"['amsterdam netherlands', 'drug smuggling', 'binoculars', 'severed head', 'no panties']"
+tt6802308,The 15:17 to Paris,94.0,"Biography,Drama,Thriller","Feb 9, 2018",30000000,36276286,56096200,92372486,62372486,"['train', 'terrorism', 'paris france', 'american', 'soldier']"
+tt5496554,Coming Home,90.0,Drama,"Jan 1, 1978",3000000,32653000,32653000,65306000,62306000,"['father daughter relationship', 'christmas', 'father son relationship', 'catholic', 'returning home']"
+tt6850820,Peppermint,101.0,"Action,Crime,Drama","Sep 7, 2018",25000000,35418723,51800758,87219481,62219481,"['revenge', 'loss of husband', 'female protagonist', 'corruption', 'woman beats up a man']"
+tt5271436,Snatched,47.0,"Drama,Horror,Mystery","May 12, 2017",42000000,45852178,57852177,103704355,61704355,[None]
+tt1542344,127 Hours,94.0,"Adventure,Biography,Drama","Nov 5, 2010",18000000,18335230,60217171,78552401,60552401,"['survival', 'alone', 'based on autobiography', 'aron ralston', 'mountain climber']"
+tt2229499,Don Jon,90.0,"Comedy,Drama,Romance","Sep 27, 2013",5500000,24477704,41268579,65746283,60246283,"['sex', 'watching porn', 'pornography', 'husband wife relationship', 'pornography addict']"
+tt0365907,A Walk Among the Tombstones,114.0,"Action,Crime,Drama","Sep 19, 2014",28000000,26017685,62108587,88126272,60126272,"['violence', 'drug dealer', 'revenge', 'murder of wife', 'ex cop']"
+tt1661382,Grudge Match,113.0,"Comedy,Drama,Sport","Dec 25, 2013",40000000,29807260,69807260,99614520,59614520,"['united states of america', 'usa', 'father son relationship', 'car', 'automobile']"
+tt0889573,The Switch,101.0,"Comedy,Drama,Romance","Aug 20, 2010",19000000,27758465,49858465,77616930,58616930,"['sperm donor', 'mother son relationship', 'best friend', 'new york city', 'father son relationship']"
+tt1458175,The Next Three Days,133.0,"Action,Crime,Drama","Nov 19, 2010",30000000,21148651,67255916,88404567,58404567,"['murder', 'planning', 'fire', 'escape artist', 'cash']"
+tt6168298,One Day,135.0,"Drama,Romance","Aug 19, 2011",15000000,13843771,59168692,73012463,58012463,[None]
+tt5029482,The Family,280.0,Drama,"Sep 13, 2013",30000000,36918811,51078541,87997352,57997352,"['china', 'f rated', 'playing basketball', 'one word title', 'playing cards']"
+tt1226753,The Debt,113.0,"Drama,Thriller","Aug 31, 2011",20000000,31177548,46604054,77781602,57781602,"['nazi war criminal', 'holocaust survivor', 'war criminal', 'tel aviv israel', 'secret mission']"
+tt4982356,The Forest,109.0,"Drama,Fantasy,Horror","Jan 8, 2016",10000000,26594261,40749230,67343491,57343491,"['children', 'forest', 'new teacher', 'bullying', 'axe']"
+tt4291590,Evolution,81.0,"Drama,Mystery,Sci-Fi","Jun 8, 2001",80000000,38311134,98341932,136653066,56653066,"['nurse', 'sea', 'pregnant boy', 'giving birth', 'swimming underwater']"
+tt1371111,Cloud Atlas,172.0,"Action,Drama,Mystery","Oct 26, 2012",102000000,27108272,130673154,157781426,55781426,"['slender legs', 'legs to die for', 'karma', 'female nudity', 'futuristic city']"
+tt2071441,Dangerous Liaisons,110.0,"Drama,Mystery,Romance","Dec 21, 1988",14000000,34700000,34700000,69400000,55400000,"['shanghai', 'foreign language adaptation', 'widow', 'chinese opera', 'shot in the back']"
+tt3316960,Still Alice,101.0,Drama,"Jan 16, 2015",5000000,18656400,41699612,60356012,55356012,"[""alzheimer's disease"", 'linguistics professor', 'mother daughter relationship', 'columbia university', 'new york city']"
+tt0780653,The Wolfman,103.0,"Drama,Fantasy,Horror","Feb 12, 2010",150000000,62189884,142634358,204824242,54824242,"['werewolf', 'asylum', 'full moon', 'the wolf man character', 'lawrence larry talbot character']"
+tt1666185,All Eyez on Me,139.0,"Biography,Drama,Music","Jun 16, 2017",45000000,44922302,54876855,99799157,54799157,"['los angeles california', 'singing in a car', 'bikini', 'male objectification', 'female objectification']"
+tt4481414,Gifted,101.0,Drama,"Apr 7, 2017",7000000,24801212,36964656,61765868,54765868,"['lawyer', 'child prodigy', 'gifted child', 'school', 'elementary school']"
+tt1405500,For Colored Girls,133.0,Drama,"Nov 5, 2010",21000000,37729698,38017873,75747571,54747571,"['sex scene', 'poem', 'f rated', 'african american protagonist', 'three word title']"
+tt4136084,Florence Foster Jenkins,111.0,"Biography,Comedy,Drama","Aug 12, 2016",29000000,27383770,56000339,83384109,54384109,"['bad singing', 'singing out of tune', 'concert', 'heiress', 'singer']"
+tt2168766,Adrift,,Drama,"Jun 1, 2018",35000000,31445011,57897191,89342202,54342202,"['faith', 'storm', 'rescue', 'teenager']"
+tt2801746,Hawaii,102.0,"Drama,Romance","Oct 10, 1966",15000000,34562222,34562222,69124444,54124444,"['male pubic hair', 'male nudity', 'male frontal nudity', 'friendship', 'pubic hair']"
+tt1817273,The Place Beyond the Pines,140.0,"Crime,Drama,Thriller","Mar 29, 2013",15000000,21403519,47011449,68414968,53414968,"['bank robbery', 'neo noir', 'original story', 'bank', 'high school student']"
+tt3640424,Allied,124.0,"Action,Drama,Romance","Nov 23, 2016",106000000,40098064,119266661,159364725,53364725,"['nazi', 'spy', 'french', 'betrayal', 'world war two']"
+tt0842926,The Kids Are All Right,106.0,"Comedy,Drama,Romance","Jul 9, 2010",4000000,20811365,36275469,57086834,53086834,"['female frontal nudity', 'pantyhose', 'lesbian', 'f rated', 'sex scene']"
+tt1706620,Snowpiercer,126.0,"Action,Drama,Sci-Fi","Jun 27, 2014",40000000,4563029,88069880,92632909,52632909,"['train', 'perpetual winter', 'closed ecological system', 'population control', 'dystopia']"
+tt1137450,Death Wish,107.0,"Action,Crime,Drama","Mar 2, 2018",30000000,34017028,48575965,82592993,52592993,"['miniskirt with heels', 'micro mini skirt', 'tattooed trash', 'hiked skirt', 'miniskirt']"
+tt2582782,Hell or High Water,102.0,"Action,Crime,Drama","Aug 12, 2016",12000000,27007844,37584304,64592148,52592148,"['texas', 'texas ranger', 'bank robber', 'native american', 'brother brother relationship']"
+tt2926198,Enough,96.0,"Drama,History","May 24, 2002",38000000,39177215,50970660,90147875,52147875,[None]
+tt4768504,Quo Vadis?,45.0,"Drama,Romance","Feb 23, 1951",8250000,30000000,30028513,60028513,51778513,[None]
+tt1921064,Pompeii,105.0,"Action,Adventure,Drama","Feb 21, 2014",80000000,23169033,108469033,131638066,51638066,"['pompeii', 'arena', 'italy', 'slave', 'mount vesuvius']"
+tt2554274,Crimson Peak,119.0,"Drama,Fantasy,Horror","Oct 16, 2015",55000000,31090320,74966854,106057174,51057174,"['incest', 'ghost', 'gothic', 'loss of mother', 'haunted mansion']"
+tt1126618,Morning Glory,107.0,"Comedy,Drama,Romance","Nov 10, 2010",40000000,31011732,59795070,90806802,50806802,"['workaholic', 'professional woman', 'tv morning show', 'tv journalist', 'fictional tv network']"
+tt0470752,Ex Machina,108.0,"Drama,Mystery,Sci-Fi","Apr 10, 2015",13000000,25440971,38358392,63799363,50799363,"['artificial intelligence', 'turing test', 'minimal cast', 'robot human relationship', 'robot']"
+tt1798709,Her,126.0,"Drama,Romance,Sci-Fi","Jan 10, 2014",23000000,25568251,48163815,73732066,50732066,"['loneliness', 'romance with artificial intelligence', 'divorce', 'future', 'artificial intelligence']"
+tt1647668,Million Dollar Arm,124.0,"Biography,Drama,Sport","May 16, 2014",25000000,36447959,39217912,75665871,50665871,"['baseball', 'india', 'based on true story', 'cricket the sport', 'sports agent']"
+tt1389139,When the Bough Breaks,107.0,"Crime,Drama,Horror","Sep 9, 2016",10000000,29747603,30768449,60516052,50516052,"['sex scene', 'surrogate mother', 'title based on nursery rhyme', 'woman in a bathtub', 'woman murders a man']"
+tt3623726,Ricki and the Flash,101.0,"Comedy,Drama,Music","Aug 7, 2015",18000000,26839498,41166033,68005531,50005531,"['female protagonist', 'motherhood', 'self pity', 'father daughter relationship', 'divorce']"
+tt3322364,Concussion,123.0,"Biography,Drama,Sport","Dec 25, 2015",35000000,34531832,50363790,84895622,49895622,"['concussion', 'football player', 'football', 'chronic traumatic encephalopathy', 'injection in arm']"
+tt5719700,Home Again,97.0,"Comedy,Drama,Romance","Sep 8, 2017",15000000,27020284,37336874,64357158,49357158,"['lbd', 'milf', 'little black dress', 'older woman younger man sex', 'dog']"
+tt1578275,The Dilemma,111.0,"Comedy,Drama","Jan 14, 2011",70000000,48475290,70546865,119022155,49022155,"['chicago bears', 'chicago blackhawks', 'hockey game', 'chicago illinois', 'marital infidelity']"
+tt1152398,Beastly,86.0,"Drama,Fantasy,Romance","Mar 4, 2011",17000000,27865571,38028230,65893801,48893801,"['tutor', 'maid', 'newscaster', 'the beast character', 'maurice character']"
+tt2582802,Whiplash,106.0,"Drama,Music","Oct 10, 2014",3300000,13092006,38969037,52061043,48761043,"['drummer', 'music school', 'new york city', 'conservatory', 'drum solo']"
+tt2675102,Brown Sugar,120.0,Drama,"Oct 11, 2002",8000000,27362712,28315272,55677984,47677984,['girl']
+tt6447400,Brothers,95.0,"Action,Drama,War","Dec 4, 2009",26000000,28544157,45043870,73588027,47588027,[None]
+tt1849111,Superstar,112.0,Drama,"Oct 8, 1999",14000000,30628981,30628981,61257962,47257962,"['unwanted fame', 'title appears in writing', 'one word title', '2010s', 'paris france']"
+tt1951212,Out of Time,98.0,"Drama,Mystery,Thriller","Oct 3, 2003",50000000,41083108,55489826,96572934,46572934,"['faith', 'paranormal phenomena', 'psychotronic film']"
+tt2178470,Yeh Jawaani Hai Deewani,160.0,"Comedy,Drama,Musical","May 31, 2013",8300000,3827466,50827466,54654932,46354932,"['girl wears eyeglasses', 'love', 'jumping into sea', 'wet clothes', 'swimming pool']"
+tt3722070,The Lady in the Van,104.0,"Biography,Comedy,Drama","Jan 15, 2016",6000000,10021175,42320503,52341678,46341678,"['nun', 'poverty', 'accident', '1970s', 'alter ego']"
+tt4030600,The Bye Bye Man,96.0,"Drama,Fantasy,Horror","Jan 13, 2017",7400000,22395806,31187727,53583533,46183533,"['bare chested male', 'hallucination', 'maggot', 'teen sex', 'male rear nudity']"
+tt1637706,Our Idiot Brother,90.0,"Comedy,Drama","Aug 26, 2011",5000000,24814830,25861249,50676079,45676079,"['dog', 'candle making', 'nude model', 'golden retriever', 'lesbian kiss']"
+tt2247476,When the Game Stands Tall,115.0,"Drama,Family,Sport","Aug 22, 2014",15000000,30127963,30138912,60266875,45266875,"['coach', 'high school football']"
+tt4572514,Patriots Day,133.0,"Action,Crime,Drama","Dec 21, 2016",40000000,31886361,52837989,84724350,44724350,"['police', 'terrorist', 'based on true story', 'manhunt', 'boston marathon']"
+tt3980966,Kidnap,,Drama,"Aug 4, 2017",21000000,30718107,34836080,65554187,44554187,[None]
+tt4226970,Hero,120.0,"Crime,Drama","Oct 2, 1992",42000000,19487173,66787173,86274346,44274346,"['murder', 'diplomatic immunity']"
+tt2402927,Carol,118.0,"Drama,Romance","Nov 20, 2015",11800000,12711491,42843521,55555012,43755012,"['lesbian romance', 'lesbian', 'road trip', 'child custody', 'photographer']"
+tt5057746,Network,140.0,"Drama,Thriller","Jan 1, 1976",3800000,23689877,23689877,47379754,43579754,['revenge']
+tt2199571,Run All Night,114.0,"Action,Drama,Thriller","Mar 13, 2015",50000000,26461644,66961644,93423288,43423288,"['redemption', 'father son estrangement', 'aerial camera shot', 'movie flop', 'albanian']"
+tt1727388,The Way Way Back,103.0,"Comedy,Drama","Jul 5, 2013",5000000,21502690,26853810,48356500,43356500,"['summer', 'water park', 'shy kid', 'unlikely friendship', 'friendship']"
+tt2436386,Project Almanac,106.0,"Drama,Mystery,Sci-Fi","Jan 30, 2015",12000000,22348241,32909437,55257678,43257678,"['time travel', 'teenager', 'alternate timeline', 'time machine', 'race against time']"
+tt3252624,The Watcher,75.0,Drama,"Sep 8, 2000",33000000,28946615,47267829,76214444,43214444,[None]
+tt2122313,The Circle,144.0,"Drama,Fantasy,Horror","Apr 28, 2017",18000000,20497844,40651864,61149708,43149708,"['high school', 'magic', 'friendship', 'witch', 'evil']"
+tt2514592,Mud,105.0,Drama,"Apr 26, 2013",10000000,21590086,31556959,53147045,43147045,['violence']
+tt5439796,Logan Lucky,118.0,"Comedy,Crime,Drama","Aug 18, 2017",29000000,27778642,44264271,72042913,43042913,"['prison escape', 'heist', 'bartender', 'prison', 'beauty pageant']"
+tt4669788,On the Basis of Sex,120.0,"Biography,Drama","Dec 25, 2018",20000000,24622687,38073377,62696064,42696064,"['misogyny', 'courtroom', 'judge', 'teacher', 'caretaker']"
+tt0485985,Red Tails,125.0,"Action,Adventure,Drama","Jan 20, 2012",58000000,49876377,50365498,100241875,42241875,"['pseudohistory', 'magical negro stereotype', '20th century', 'year 1944', '1940s']"
+tt1972779,The Best of Me,118.0,"Drama,Romance","Oct 17, 2014",26000000,26766213,41059418,67825631,41825631,"['heart transplant', 'based on novel', 'adolescent', 'bare chested male', 'beating']"
+tt5580266,The Hate U Give,133.0,"Crime,Drama","Oct 5, 2018",23000000,29719483,35067665,64787148,41787148,"['father daughter relationship', 'loss of friend', 'teenage boy', 'african american', 'racism']"
+tt2172934,3 Days to Kill,117.0,"Action,Drama,Thriller","Feb 21, 2014",28000000,30697999,38959900,69657899,41657899,"['pantyhose', 'spy', 'violence', 'leather dress', 'femme fatale']"
+tt2180419,Jackie,108.0,"Comedy,Drama,Romance","Dec 2, 2016",9000000,13960394,36588512,50548906,41548906,[None]
+tt2357129,Jobs,128.0,"Biography,Drama","Aug 16, 2013",18000000,16131410,43402515,59533925,41533925,"['feet on table', 'reference to steve jobs', 'believe in yourself', 'character name as title', 'based on real person']"
+tt8325050,Baby Boy,,Drama,"Jun 27, 2001",16000000,28734552,28734552,57469104,41469104,[None]
+tt2607640,Fortress,70.0,"Documentary,Drama,News","Sep 3, 1993",12000000,6730578,46730578,53461156,41461156,[None]
+tt3215846,Dreamcatcher,104.0,"Crime,Documentary,Drama","Mar 21, 2003",68000000,33685268,75685268,109370536,41370536,"['prostitute', 'prostitution', 'social heritage', 'social problem', 'social documentary']"
+tt2057392,Eye in the Sky,102.0,"Drama,Thriller,War","Mar 11, 2016",13000000,18704596,35402802,54107398,41107398,"['drone pilot', 'terrorist cell', 'drone strike', 'terrorist', 'collateral damage']"
+tt1517260,The Host,125.0,"Action,Adventure,Drama","Mar 29, 2013",50000000,26623701,64477051,91100752,41100752,"['alien', 'alien creature', 'parasite', 'body snatching', 'desert']"
+tt4809870,Love Happens,88.0,Drama,"Sep 18, 2009",18000000,22965110,36133014,59098124,41098124,['drinking']
+tt9684016,Alive,95.0,"Adventure,Biography,Drama","Jan 15, 1993",32000000,36299670,36299670,72599340,40599340,"['alive', 'ukraine', 'love']"
+tt2101441,Spring Breakers,94.0,"Comedy,Crime,Drama","Mar 15, 2013",5000000,14124286,31149251,45273537,40273537,"['spring break', 'party', 'debauchery', 'female killer', 'murder']"
+tt3521126,The Disaster Artist,104.0,"Biography,Comedy,Drama","Dec 1, 2017",10000000,21120616,28717667,49838283,39838283,"['friendship', 'acting', 'bromance', 'film within a film', 'based on true story']"
+tt3253430,Waitress,,Drama,"May 2, 2007",1500000,19097550,22217183,41314733,39814733,[None]
+tt3151724,Kingdom Come,75.0,"Drama,Thriller","Apr 11, 2001",7000000,23247539,23393939,46641478,39641478,['independent film']
+tt1876451,Sparkle,116.0,"Drama,Music","Aug 17, 2012",10000000,24397469,24660323,49057792,39057792,"['1960s', 'remake', 'character name as title', 'columbia tristar', 'female singer']"
+tt1655420,My Week with Marilyn,99.0,"Biography,Drama","Nov 23, 2011",10000000,14597405,34240572,48837977,38837977,"['marilyn monroe character', 'laurence olivier character', 'vivien leigh character', 'jack cardiff character', 'arthur miller character']"
+tt7379226,Awake,84.0,Drama,"Nov 30, 2007",8600000,14373825,32968648,47342473,38742473,[None]
+tt1694020,The Guilt Trip,95.0,"Comedy,Drama","Dec 19, 2012",40000000,37134215,41294674,78428889,38428889,"['mother son relationship', 'usa', 'united states', 'trip', 'cross country']"
+tt1972571,A Most Wanted Man,122.0,"Crime,Drama,Thriller","Jul 25, 2014",15000000,17237855,36068890,53306745,38306745,"['spy', 'intelligence', 'war on terror', 'secret service', 'surveillance camera']"
+tt2328900,Mary Queen of Scots,124.0,"Biography,Drama,History","Dec 7, 2018",25000000,16468499,46734733,63203232,38203232,"['pox', 'religion', 'prison', 'rear entry sex', 'protestant']"
+tt4105466,War,106.0,Drama,"Aug 24, 2007",25000000,22486409,40686409,63172818,38172818,"['night', 'farm', 'teenage boy', 'rebel', 'forced entry']"
+tt2318092,Endless Love,104.0,"Drama,Romance","Feb 14, 2014",20000000,23438250,34718173,58156423,38156423,"['love', 'woman wears a string bikini', 'bikini', 'brother sister relationship', 'high school graduation']"
+tt7388562,"Paul, Apostle of Christ",108.0,"Adventure,Biography,Drama","Mar 23, 2018",5000000,17547999,25529498,43077497,38077497,"['christianity', 'reference to paul the apostle', 'saint paul', 'reference to saint luke', '1st century']"
+tt8327616,Bandits,,Drama,"Oct 12, 2001",75000000,41523271,71523271,113046542,38046542,[None]
+tt3170832,Room,118.0,"Drama,Thriller","Oct 16, 2015",13000000,14677674,36262783,50940457,37940457,"['escape', 'kidnapping', 'mother son relationship', 'imprisonment', 'unlawful confinement']"
+tt1083452,Eddie the Eagle,106.0,"Biography,Comedy,Drama","Feb 26, 2016",23000000,15789389,45060480,60849869,37849869,"['ski jumper', 'coach', '1988 winter olympics', 'winter olympics', 'athletic training']"
+tt1659337,The Perks of Being a Wallflower,103.0,Drama,"Sep 21, 2012",13000000,17742948,33069303,50812251,37812251,"['coming of age', 'high school', 'gay', 'mental illness', 'depression']"
+tt1931435,The Big Wedding,89.0,"Comedy,Drama,Romance","Apr 26, 2013",32500000,21819348,48425971,70245319,37745319,"['wedding', 'divorce', 'family relationships', 'farce', 'adoption']"
+tt2006051,Ali,88.0,Drama,"Dec 25, 2001",109000000,58183966,87683966,145867932,36867932,[None]
+tt3488710,The Walk,123.0,"Adventure,Biography,Drama","Sep 30, 2015",35000000,10161183,61492104,71653287,36653287,"['tightrope walker', '1970s', 'skyscraper', 'based on true story', 'world trade center']"
+tt2034139,The Last Exorcism Part II,88.0,"Drama,Horror,Thriller","Mar 1, 2013",4000000,15179303,25448707,40628010,36628010,"['looking at oneself in a mirror', 'woman in a bathtub', 'supernatural power', 'psychotronic film', 'grindhouse film']"
+tt1139328,The Ghost Writer,128.0,"Drama,Mystery,Thriller","Feb 19, 2010",45000000,15541549,65532491,81074040,36074040,"['memoir', 'writer', 'ferry', 'political thriller', 'beach house']"
+tt1691149,Saving Grace,85.0,"Crime,Drama,Horror","Aug 4, 2000",4000000,12178602,27786849,39965451,35965451,[None]
+tt1438254,Charlie St. Cloud,99.0,"Drama,Fantasy,Romance","Jul 30, 2010",44000000,31206263,48478084,79684347,35684347,"['ghost', 'seeing dead people', 'talking with the dead', 'death of brother', 'brother brother relationship']"
+tt2042568,Inside Llewyn Davis,104.0,"Drama,Music","Dec 6, 2013",11000000,13248209,32943247,46191456,35191456,"['false promise of the american dream', 'folk singer', 'new york city', 'musician', 'couchsurfing']"
+tt5937296,Glory,101.0,Drama,"Dec 13, 1989",18000000,26593580,26593580,53187160,35187160,"['f rated', 'title spoken by character', 'title directed by female', 'european union flag', 'bulgaria']"
+tt2390361,Enough Said,93.0,"Comedy,Drama,Romance","Sep 18, 2013",8000000,17550872,25621449,43172321,35172321,"['empty nest syndrome', 'kissing', 'united states of america', 'united states', 'usa']"
+tt1433108,Faster,98.0,"Action,Crime,Drama","Nov 24, 2010",24000000,23240020,35792945,59032965,35032965,"['suspense', 'vigilante', 'hitman', 'veteran cop', 'vigilante cop']"
+tt5719748,Cold Pursuit,119.0,"Action,Crime,Drama","Feb 8, 2019",60000000,32138862,62599159,94738021,34738021,"['revenge', 'black comedy', 'remake of norwegian film', 'kehoe colorado', 'vigilante justice']"
+tt1710396,Joyful Noise,118.0,"Comedy,Drama,Music","Jan 13, 2012",27500000,30932113,31157914,62090027,34590027,"['choir', 'autism', 'chips', 'bare chested male', 'two word title']"
+tt6270540,Black or White,135.0,"Action,Drama,Thriller","Jan 30, 2015",9000000,21571189,21971021,43542210,34542210,"['color in title', 'violence', 'vigilante', 'male protagonist', 'widower']"
+tt2125435,Beasts of the Southern Wild,93.0,"Adventure,Drama,Fantasy","Jun 27, 2012",1800000,12795746,23265132,36060878,34260878,"['community', 'delta', 'climate change', 'child protagonist', 'southern u.s.']"
+tt2473602,Get on Up,139.0,"Biography,Drama,Music","Aug 1, 2014",30000000,30569935,33339868,63909803,33909803,"['african american', 'breaking the fourth wall', '1970s', '1960s', 'funky music']"
+tt7666988,Magnolia,85.0,"Drama,Family,Romance","Dec 17, 1999",37000000,22450975,48446802,70897777,33897777,[None]
+tt1602620,Amour,127.0,"Drama,Romance","Dec 19, 2012",9700000,6738954,36787044,43525998,33825998,"['stroke', 'aging', 'old couple', 'old love', 'carotid artery']"
+tt2223990,Draft Day,110.0,"Drama,Sport","Apr 11, 2014",25000000,28842237,29847480,58689717,33689717,"['national football league', 'smartphone', 'chevrolet', 'chevrolet camaro', 'gatorade']"
+tt7967412,Eye for an Eye,,Drama,"Jan 12, 1996",20000000,26792700,26792700,53585400,33585400,"['nursery', 'drug dealer', 'aging', 'drug addiction', 'galicia']"
+tt1034389,The Eagle,114.0,"Action,Adventure,Drama","Feb 11, 2011",25000000,19490041,38993548,58483589,33483589,"['legion', 'wall', ""hadrian's wall"", 'scotland', 'centurion']"
+tt4819134,Prophecy,92.0,Drama,"Jun 15, 1979",12000000,22673340,22673340,45346680,33346680,"['written by director', 'one word title', 'bhutan', 'monk', 'prophecy']"
+tt0947810,Green Zone,115.0,"Action,Drama,Thriller","Mar 12, 2010",100000000,35497337,97523020,133020357,33020357,"['political military conspiracy', 'interrogation by torture', 'american', 'female reporter', 'speech']"
+tt1741273,Secret in Their Eyes,111.0,"Crime,Drama,Mystery","Nov 20, 2015",20000000,20180155,32608019,52788174,32788174,"['bacon', 'exposed thighs', 'remake', 'murder of a girl', 'jarhead']"
+tt2334649,Fruitvale Station,85.0,"Biography,Drama,Romance","Jul 12, 2013",900000,16098998,17549645,33648643,32748643,"['murder of an innocent person', 'family tragedy', 'racism', 'police brutality', 'gay']"
+tt1506999,Haywire,93.0,"Action,Drama,Thriller","Jan 20, 2012",23000000,18942396,36374700,55317096,32317096,"['assassin', 'super soldier', 'rescue', 'revenge', 'strong female character']"
+tt1126590,Big Eyes,106.0,"Biography,Crime,Drama","Dec 25, 2014",10000000,14482031,27317872,41799903,31799903,"['painting', 'habitual liar', 'abusive husband', '1950s', 'secret']"
+tt1764183,Arbitrage,107.0,"Drama,Thriller","Sep 14, 2012",12000000,7919574,35830713,43750287,31750287,"['dead body with eyes open', 'false evidence', 'new york city', 'tough woman', 'female manager']"
+tt3257168,Shorts,95.0,Drama,"Aug 21, 2009",20000000,20919166,29870801,50789967,30789967,[None]
+tt4607118,Burnt,,"Comedy,Drama","Oct 30, 2015",20000000,13651946,36773510,50425456,30425456,[None]
+tt1821549,Nebraska,115.0,"Adventure,Comedy,Drama","Nov 15, 2013",12000000,17654912,24761360,42416272,30416272,"['billings montana', 'small town', 'confronting the past', 'grumpy old man', 'road movie']"
+tt8774508,The Last Stand,93.0,Drama,"Jan 18, 2013",30000000,12050299,48330757,60381056,30381056,[None]
+tt9024106,Unplanned,106.0,"Biography,Drama","Mar 29, 2019",6000000,18107621,18107621,36215242,30215242,"['anti abortion', 'planned parenthood', 'christian', 'abortion', 'mexican food']"
+tt5004902,The Age of Innocence,95.0,Drama,"Sep 17, 1993",34000000,32014993,32014993,64029986,30029986,[None]
+tt4161036,Pulse,84.0,"Drama,Fantasy,Sci-Fi","Aug 11, 2006",20500000,20264436,30241435,50505871,30005871,"['australian supernatural', 'australian fantasy']"
+tt2205401,Addicted,106.0,"Drama,Thriller","Oct 10, 2014",5000000,17390770,17499242,34890012,29890012,"['temptation', 'obsession', 'attraction', 'lust', 'adultery']"
+tt1559547,Beautiful Creatures,124.0,"Drama,Fantasy,Romance","Feb 14, 2013",50000000,19452138,60282876,79735014,29735014,"['male protagonist', 'psychotronic film', 'adolescent', 'abuse', 'fight']"
+tt1336608,Rock of Ages,123.0,"Comedy,Drama,Musical","Jun 15, 2012",70000000,38518613,61031932,99550545,29550545,"['rock', 'concert', 'pole dancer', 'panties', 'music industry']"
+tt9805168,Traitor,110.0,"Action,Drama,Romance","Aug 27, 2008",22000000,23530831,27882226,51413057,29413057,[None]
+tt1560747,The Master,138.0,Drama,"Sep 14, 2012",37500000,16247159,50647416,66894575,29394575,"['scientology', 'past life regression', 'psychological testing', 'cult', 'mentor protege relationship']"
+tt4103724,Forever My Girl,108.0,"Drama,Music,Romance","Jan 19, 2018",3500000,16376066,16376066,32752132,29252132,"['country singer', 'wedding day', 'father son relationship', 'playing guitar', 'father daughter relationship']"
+tt1651918,Nighthawks,102.0,Drama,"Apr 10, 1981",5000000,14600000,19600000,34200000,29200000,['criminal']
+tt3850214,Dope,103.0,"Comedy,Crime,Drama","Jun 19, 2015",7000000,17506470,18190831,35697301,28697301,"['african american', 'geek', 'hip hop', 'tomboy', 'bitcoin']"
+tt3746918,The Losers,112.0,Drama,"Apr 23, 2010",25000000,23591432,29863840,53455272,28455272,"['fable', 'agricultural', 'countryside', 'social class', 'village']"
+tt2209418,Before Midnight,109.0,"Drama,Romance","May 24, 2013",3000000,8110621,23251930,31362551,28362551,"['hotel', 'hotel room', 'writer', 'dinner', 'jealousy']"
+tt1860357,Deepwater Horizon,107.0,"Action,Drama,History","Sep 30, 2016",156000000,61433527,122603824,184037351,28037351,"['disaster movie', 'oil rig', 'deepwater horizon oil spill', 'capitalism', 'capitalist bully']"
+tt1767382,Silent House,86.0,"Drama,Horror,Mystery","Mar 9, 2012",2000000,12739737,16610760,29350497,27350497,"['girl', 'hearing noises', 'uninterrupted shot', 'haunted house', 'bound and gagged']"
+tt1625346,Young Adult,94.0,"Comedy,Drama","Dec 9, 2011",12000000,16311571,22750356,39061927,27061927,"['emotional breakdown', 'mental illness', 'drinking', 'narcissism', 'high school']"
+tt6476140,Serenity,106.0,"Drama,Mystery,Sci-Fi","Sep 30, 2005",39000000,25514517,40319440,65833957,26833957,"['fishing boat', 'video game world', 'neo noir', 'tuna', 'fishing']"
+tt6619272,The Contender,74.0,"Documentary,Drama,Sport","Oct 13, 2000",9000000,17804273,17804273,35608546,26608546,['chef']
+tt4698684,Hunt for the Wilderpeople,101.0,"Adventure,Comedy,Drama","Jun 24, 2016",2500000,5205471,23845533,29051004,26551004,"['coming of age', 'foster father foster son relationship', 'manhunt', 'new zealand', 'faked death']"
+tt7201536,Chain Reaction,100.0,Drama,"Aug 2, 1996",55000000,21226204,60209334,81435538,26435538,[None]
+tt1691916,Before I Fall,98.0,"Drama,Fantasy,Mystery","Mar 3, 2017",5000000,12241072,18945682,31186754,26186754,"['female protagonist', 'time loop', 'car crash', 'death', 'high school']"
+tt7014006,Eighth Grade,93.0,"Comedy,Drama","Jul 13, 2018",2000000,13539710,14341016,27880726,25880726,"['school', 'vlog', 'pool party', 'father daughter relationship', 'uncomfortable conversation']"
+tt1555064,Country Strong,117.0,"Drama,Music","Dec 22, 2010",15000000,20218921,20601987,40820908,25820908,"['songwriter', 'country music', 'singer', 'concert', 'singer songwriter']"
+tt5322012,Wish Upon,90.0,"Drama,Fantasy,Horror","Jul 14, 2017",12000000,14301505,23477345,37778850,25778850,"['teenage girl', 'garbage', 'girl riding a bicycle with training wheels', 'suicide by hanging', 'facial bruise']"
+tt7106782,The Namesake,77.0,Drama,"Mar 9, 2007",8500000,13610521,20288774,33899295,25399295,"['f rated', 'friendship', 'independent film']"
+tt1120985,Blue Valentine,112.0,"Drama,Romance","Dec 29, 2010",1000000,9737892,16566240,26304132,25304132,"['dysfunctional family', 'falling in love', 'unhappily married woman', 'unplanned pregnancy', 'marriage']"
+tt3077214,Suffragette,106.0,"Biography,Drama,History","Oct 23, 2015",14000000,4702420,34044909,38747329,24747329,"['protest', 'vandalism', 'activism', 'sexual harassment', 'sexism']"
+tt1878870,The Edge of Seventeen,104.0,"Comedy,Drama","Nov 18, 2016",9000000,14431633,19096003,33527636,24527636,"['adolescence', 'coming of age film', 'scantily clad female', 'panties', 'white panties']"
+tt5047858,The Box,100.0,"Drama,War","Nov 6, 2009",25000000,15051977,34356760,49408737,24408737,[None]
+tt1814621,Admission,107.0,"Comedy,Drama,Romance","Mar 22, 2013",13000000,18007317,18733666,36740983,23740983,"['college dean of admissions', 'reference to the internet', 'reference to uganda', 'reference to indonesia', 'reference to outer mongolia']"
+tt2083383,Trouble with the Curve,111.0,"Drama,Sport","Sep 21, 2012",60000000,35763137,47818913,83582050,23582050,"['baseball', 'baseball scout', 'baseball game', 'kiss on the lips', 'romantic kiss']"
+tt2080374,Steve Jobs,122.0,"Biography,Drama","Oct 9, 2015",30000000,17766658,35579007,53345665,23345665,"['computer', 'father daughter relationship', 'apple computer', 'dialogue driven', '1990s']"
+tt7125860,If Beale Street Could Talk,119.0,"Drama,Romance","Dec 14, 2018",12000000,14915773,19859167,34774940,22774940,"['prison', '1970s', 'love', 'based on novel', 'new york city']"
+tt4196450,The Birth of a Nation,120.0,"Biography,Drama,History","Oct 7, 2016",10000000,15861566,16891011,32752577,22752577,"['preacher', 'torture', 'illiterate', 'southern', 'rebellion']"
+tt3464902,The Lobster,119.0,"Comedy,Drama,Romance","Mar 25, 2016",4500000,9196278,18019834,27216112,22716112,"['dystopia', 'torture', 'dead rabbit', 'absurdism', ""narrator repeats character's words""]"
+tt1182350,You Will Meet a Tall Dark Stranger,98.0,"Comedy,Drama,Romance","Sep 22, 2010",15000000,3247816,34247816,37495632,22495632,"['call girl', 'manuscript', 'charlatan', 'prostitute', 'divorce']"
+tt1615147,Margin Call,107.0,"Drama,Thriller","Oct 21, 2011",3400000,5353586,20433227,25786813,22386813,"['financial crisis', 'financial disaster', 'financial thriller', 'capital management', 'investment fraud']"
+tt7895868,Secrets & Lies,,"Drama,Romance","Sep 28, 1996",4500000,13417292,13417292,26834584,22334584,[None]
+tt3125324,Beyond the Lights,116.0,"Drama,Music,Romance","Nov 14, 2014",7000000,14618727,14618727,29237454,22237454,"['singer', 'sex symbol', 'domestic abuse', 'suicide attempt', 'public humiliation']"
+tt4276820,The Founder,115.0,"Biography,Drama,History","Jan 20, 2017",15000000,12786053,24403192,37189245,22189245,"['swindle', 'burger', 'franchising', 'fast food', ""mcdonald's restaurant""]"
+tt2316649,Frailty,,Drama,"Apr 12, 2002",11000000,13110448,19947280,33057728,22057728,['father']
+tt2093091,Criminal,,"Action,Crime,Drama","Apr 15, 2016",31500000,14708696,38771262,53479958,21979958,['murder']
+tt1840417,The Words,102.0,"Drama,Mystery,Romance","Sep 7, 2012",6000000,11494838,16369708,27864546,21864546,"['story within a story', 'writer', 'book', 'narrator', 'plagiarism']"
+tt4895740,Frenzy,119.0,Drama,"Jun 21, 1972",3500000,12600000,12600000,25200000,21700000,"['violence', 'hallucination', 'dog', 'police', 'stool']"
+tt2798920,Annihilation,115.0,"Adventure,Drama,Horror","Feb 23, 2018",55000000,32732301,43070915,75803216,20803216,"['scientist', 'coma', 'expedition', 'biologist', 'lighthouse']"
+tt1399683,Winter's Bone,100.0,"Drama,Mystery","Jun 11, 2010",2000000,6531503,16131551,22663054,20663054,"['ozark mountains', 'family relationships', 'drug trade', 'girl', 'family crisis']"
+tt4550098,Nocturnal Animals,116.0,"Drama,Thriller","Nov 18, 2016",22500000,10663357,32398681,43062038,20562038,"['revenge', 'loss of wife', 'female frontal nudity', 'abortion', 'based on novel']"
+tt7153766,Unsane,98.0,"Drama,Horror,Mystery","Mar 23, 2018",1500000,7690044,14244931,21934975,20434975,"['mental institution', 'psychiatric ward', 'stalking', 'stalker', 'lesbian kiss']"
+tt4537896,White Boy Rick,111.0,"Crime,Drama","Sep 14, 2018",30000000,24004833,25947983,49952816,19952816,"['detroit michigan', 'drug trafficking', 'three word title', 'color in title', 'gender in title']"
+tt7059806,Almost Famous,95.0,"Comedy,Drama,Family","Sep 15, 2000",60000000,32522352,47371191,79893543,19893543,[None]
+tt3264438,She's the One,110.0,"Drama,Romance","Aug 23, 1996",3500000,9482579,13795053,23277632,19777632,"['best friend', 'host', 'morning show', 'best friends in love', 'bar']"
+tt1235522,Broken City,109.0,"Crime,Drama,Thriller","Jan 18, 2013",35000000,19701164,34480045,54181209,19181209,"['father son relationship', 'fellatio', 'title spoken by character', 'gay slur', 'nipple piercing']"
+tt3106750,The Glass House,95.0,"Drama,Thriller","Sep 14, 2001",22000000,17951431,22861785,40813216,18813216,"['cow lamp', 'glass house', 'stirring', 'emotional', 'moral']"
+tt3009444,Shame,90.0,Drama,"Dec 2, 2011",6500000,4002293,20412841,24415134,17915134,[None]
+tt4133310,Bella,80.0,"Drama,Family","Oct 26, 2007",3300000,8093373,12405473,20498846,17198846,['love']
+tt4073790,The Darkest Minds,104.0,"Action,Adventure,Drama","Aug 3, 2018",34000000,12695691,38361428,51057119,17057119,"['supernatural power', 'super power', 'super powers', 'telekinesis', 'mind control']"
+tt1532503,Beginners,105.0,"Comedy,Drama,Romance","Jun 3, 2011",3200000,5790894,14314407,20105301,16905301,"['gay relationship', 'older man younger man relationship', 'looking at oneself in a mirror', '2000s', 'death']"
+tt2718492,Ida,82.0,Drama,"May 2, 2014",2600000,3827060,15298355,19125415,16525415,"['poland', 'nun', '1960s', 'jew', 'convent']"
+tt1866249,The Sessions,95.0,"Biography,Comedy,Drama","Oct 19, 2012",1000000,6002451,11495204,17497655,16497655,"['pubic hair', 'ejaculation', 'sex in bed', 'oral sex', 'masturbation']"
+tt1920913,Elektra,,"Drama,Thriller","Jan 14, 2005",65000000,24409722,56824633,81234355,16234355,[None]
+tt5152894,Mommy,135.0,Drama,"Jan 23, 2015",4900000,3498695,17536004,21034699,16134699,[None]
+tt1255953,Incendies,131.0,"Drama,Mystery,War","Sep 17, 2010",6800000,6857096,16038343,22895439,16095439,"['twin brother and sister', 'family relationships', 'middle east', 'university', 'torture']"
+tt4183692,Woodlawn,123.0,"Drama,Sport","Oct 16, 2015",13000000,14394097,14403703,28797800,15797800,"['coach', 'christianity', 'racial integration', 'american football', 'racism']"
+tt2006295,The 33,127.0,"Biography,Drama,History","Nov 13, 2015",25000000,12227722,28400715,40628437,15628437,"['survival', 'rescue', 'latin america', 'street vendor', 'working class']"
+tt1527186,Melancholia,135.0,"Drama,Sci-Fi","Nov 11, 2011",9400000,3030848,21817298,24848146,15448146,"['depression', 'end of the world', 'sister sister relationship', 'golf course', 'destruction of planet']"
+tt5941692,Miss Bala,104.0,"Action,Crime,Drama","Feb 1, 2019",15000000,14998027,15362298,30360325,15360325,"['remake', 'bare midriff', 'gun', 'beauty pageant', 'brunette']"
+tt1431181,Another Year,129.0,"Comedy,Drama","Dec 29, 2010",8000000,3205706,20005613,23211319,15211319,"['london england', 'cigarette', 'friend', 'four seasons', 'autumn']"
+tt5649144,The Florida Project,111.0,Drama,"Oct 6, 2017",2000000,5904366,11295324,17199690,15199690,"['motel manager', 'poverty', 'disneyworld', 'little girl', 'motel']"
+tt7225112,The Collector,312.0,Drama,"Jul 31, 2009",3000000,7712114,10473836,18185950,15185950,[None]
+tt2473794,Mr. Turner,150.0,"Biography,Drama,History","Dec 19, 2014",14000000,3958546,25187026,29145572,15145572,"['painting', 'scrofula', 'sketching', 'sunrise', 'landscape']"
+tt1791682,While We're Young,97.0,"Comedy,Drama,Mystery","Mar 27, 2015",10000000,7582065,17503828,25085893,15085893,"['documentary filmmaker', 'hipster', 'documentary filmmaking', 'husband wife relationship', 'new york city']"
+tt2465146,And So It Goes,94.0,"Comedy,Drama,Romance","Jul 25, 2014",18000000,15160801,17920013,33080814,15080814,"['cell phone video', 'aerial camera shot', 'woman wears eyeglasses', 'movie flop', 'neighbor']"
+tt1335975,47 Ronin,128.0,"Action,Adventure,Drama","Dec 25, 2013",175000000,38362475,151716815,190079290,15079290,"['ronin', 'samurai', 'shogun', 'japan', 'seppuku']"
+tt6628394,Bad Times at the El Royale,141.0,"Crime,Drama,Mystery","Oct 12, 2018",32000000,17839115,29204379,47043494,15043494,"['neo noir', 'one way mirror', 'hotel', 'hotel room', 'cult leader']"
+tt1758810,The Snowman,119.0,"Crime,Drama,Mystery","Oct 20, 2017",35000000,6670765,43226146,49896911,14896911,"['promiscuous wife', 'snow', 'police investigation', 'promiscuous woman', 'hiked skirt']"
+tt2547584,The Light Between Oceans,133.0,"Drama,Romance","Sep 2, 2016",20000000,12545979,22281732,34827711,14827711,"['lighthouse', 'husband wife relationship', 'lighthouse keeper', 'loss of husband', '1920s']"
+tt2350496,The Lunchbox,104.0,"Drama,Romance","Feb 28, 2014",1700000,4231500,12231500,16463000,14763000,"['lunchbox', 'retirement', 'unconventional romance', 'open ended', 'delivery to wrong address']"
+tt4973502,Anywhere But Here,,"Drama,Thriller","Nov 12, 1999",23000000,18653615,18653615,37307230,14307230,['past']
+tt2910904,The Dressmaker,119.0,"Comedy,Drama","Sep 23, 2016",11900000,2022115,24041617,26063732,14163732,"['f rated', 'australia', 'bare chested male', 'costume designer', 'haute couture']"
+tt1661420,Polisse,127.0,"Crime,Drama","May 18, 2012",8900000,176988,22744132,22921120,14021120,"['title directed by female', 'ignorance', 'police', 'photographer', 'child protection']"
+tt2390250,Water,120.0,Drama,"Apr 28, 2006",3000000,5529144,11322573,16851717,13851717,[None]
+tt1673697,The Sapphires,103.0,"Biography,Comedy,Drama","Mar 22, 2013",9000000,2450867,20395040,22845907,13845907,"['vietnam war', '1960s', 'aboriginal', 'soul music', 'lead singer']"
+tt5671384,Youth,124.0,Drama,"Dec 4, 2015",13000000,2703296,24001573,26704869,13704869,['water']
+tt1966359,Father Figures,113.0,"Adventure,Comedy,Drama","Dec 22, 2017",25000000,17501244,21038441,38539685,13539685,"['fool', 'chump', 'craziness', 'silliness', 'idiot']"
+tt3553442,Whiskey Tango Foxtrot,112.0,"Biography,Comedy,Drama","Mar 4, 2016",35000000,23083334,25350747,48434081,13434081,"['afghanistan', 'journalist', 'war on terrorism', 'kabul afghanistan', 'frenchman']"
+tt1462041,Dream House,84.0,"Drama,Mystery,Thriller","Sep 30, 2011",50000000,21302340,41642166,62944506,12944506,"['psychiatric hospital', 'real life sisters playing sisters', 'last day on the job', 'dead family', 'custody battle']"
+tt1604171,Prom,104.0,"Comedy,Drama,Family","Apr 29, 2011",8000000,10130219,10763183,20893402,12893402,"['girl wearing a miniskirt', 'prom', 'rebel', 'class president', 'high school graduation']"
+tt1291584,Warrior,140.0,"Drama,Sport","Sep 9, 2011",25000000,13657115,24215385,37872500,12872500,"['father son relationship', 'jarhead', 'war machine', 'military industrial complex', 'tournament']"
+tt3007512,The Water Diviner,111.0,"Drama,History,War","Apr 24, 2015",22500000,4200117,31054727,35254844,12754844,"['world war one', '1910s', 'gallipoli', 'australian', 'battle of gallipoli']"
+tt6421110,Proud Mary,89.0,"Action,Crime,Drama","Jan 12, 2018",30000000,20868638,21709539,42578177,12578177,"['hitwoman', 'woman boy relationship', 'silencer', 'assassin', 'reloading a gun']"
+tt2217809,Gamer,92.0,Drama,"Sep 4, 2009",50000000,20534907,42002029,62536936,12536936,"['quake', 'video game addiction', 'mother son relationship', 'adolescence']"
+tt2347569,Frances Ha,86.0,"Comedy,Drama,Romance","May 17, 2013",3000000,4067398,11262769,15330167,12330167,"['best friend', 'father daughter relationship', 'mother daughter relationship', 'mumblecore', 'f rated']"
+tt5303564,Paparazzi,110.0,"Action,Drama,Romance","Sep 3, 2004",20000000,15712072,16612072,32324144,12324144,[None]
+tt4080028,Thirteen,100.0,Drama,"Aug 20, 2003",2000000,4601043,9505996,14107039,12107039,['girl']
+tt4706780,Red Dog,99.0,"Action,Drama,History","Dec 31, 2011",9100000,0,20927794,20927794,11827794,"['great patriotic war', 'german shepherd', 'military', 'uniform', 'based on true story']"
+tt1421051,Somewhere,97.0,"Comedy,Drama","Dec 22, 2010",7000000,1785645,17023121,18808766,11808766,"['parent child relationship', 'estranged father', 'father daughter relationship', 'pantyhose', 'title directed by female']"
+tt3787590,We Are Your Friends,96.0,"Drama,Music,Romance","Aug 28, 2015",2000000,3591417,10153415,13744832,11744832,"['dj', 'night club', 'group of friends', 'wannabe dj', 'narcissism']"
+tt4669986,Loving,123.0,"Biography,Drama,Romance","Nov 4, 2016",9000000,7710234,12898064,20608298,11608298,"['racial segregation', 'interracial couple', 'miscegenation', 'based on true story', 'virginia']"
+tt5804314,Let There Be Light,100.0,Drama,"Oct 27, 2017",3000000,7233471,7241309,14474780,11474780,"['atheist', 'marriage', 'near death experience', 'transformation', 'christianity']"
+tt1366338,Lowriders,98.0,"Adventure,Crime,Drama","May 12, 2017",916000,6179955,6188421,12368376,11452376,"['brother brother conflict', 'young man', 'voice over narration', 'interracial romance', 'mechanic']"
+tt7809816,Henry V,122.0,"Adventure,Biography,Drama","Nov 8, 1989",9000000,10161099,10176701,20337800,11337800,"['england', 'france', 'historic', 'battle', 'fury']"
+tt3749926,Bug,95.0,"Drama,Mystery,Thriller","May 25, 2007",4000000,7006708,8302995,15309703,11309703,['murder']
+tt1714206,The Spectacular Now,95.0,"Comedy,Drama,Romance","Aug 2, 2013",2500000,6852971,6916951,13769922,11269922,"['first kiss', 'coming of age', 'drunkenness', 'underage drinking', 'loss of virginity']"
+tt1389072,Downsizing,135.0,"Drama,Sci-Fi","Dec 22, 2017",68000000,24449754,54462971,78912725,10912725,"['lying woman', 'flaky woman', 'lying wife', 'divorce', 'miniaturization']"
+tt3566920,The Other Side of the Door,90.0,Drama,"Mar 4, 2016",5000000,3000342,12905107,15905449,10905449,['fight']
+tt1336617,Cyrus,91.0,"Comedy,Drama,Romance","Jun 18, 2010",7000000,7468936,10062896,17531832,10531832,"['roughhousing', 'compact disc', 'missing shoe', 'shoe', 'record']"
+tt4807408,The Best of Enemies,133.0,"Biography,Drama,History","Apr 5, 2019",10000000,10205616,10205616,20411232,10411232,"['ku klux klan', 'durham north carolina', 'activism', 'civil rights', 'race relations']"
+tt2058107,The Railway Man,116.0,"Biography,Drama,Romance","Apr 11, 2014",18000000,4438438,23910210,28348648,10348648,"['physical torture', 'pow camp', 'based on true story', 'reference to adolf hitler', 'japanese occupation']"
+tt10308134,Lovesick,4.0,"Comedy,Drama","Feb 18, 1983",10100000,10143618,10143618,20287236,10187236,"['love', 'couple', 'therapy', 'couples therapy', 'lovesick']"
+tt1571249,The Skeleton Twins,93.0,"Comedy,Drama,Romance","Sep 12, 2014",1000000,5284309,5797192,11081501,10081501,"['brother sister relationship', 'siblings', 'suicide attempt', 'adultery', 'estrangement']"
+tt1160419,Dune,,"Adventure,Drama,Sci-Fi","Dec 14, 1984",45000000,27447471,27447471,54894942,9894942,"['dune', 'based on novel', 'feudalism', 'adaptation', 'desert']"
+tt1720182,October Baby,107.0,Drama,"Mar 23, 2012",1000000,5355847,5391992,10747839,9747839,"['abortion', 'pro life', 'adoption', 'forgiveness', 'christian']"
+tt4663548,All Saints,108.0,Drama,"Aug 25, 2017",2000000,5802208,5941994,11744202,9744202,"['based on true story', 'hope', 'farming', 'faith', 'husband wife relationship']"
+tt1198101,Kites,123.0,"Action,Drama,Romance","May 21, 2010",9200000,1685269,17155193,18840462,9640462,"['desert', 'casino', 'love', 'tragic event', 'suicide']"
+tt1967545,Labor Day,111.0,"Drama,Romance","Jan 31, 2014",18000000,13371528,14189810,27561338,9561338,"['tied to a chair', 'escaped convict', 'neighbor', 'baseball', 'boy in a wheelchair']"
+tt3517850,12 Rounds,,"Action,Drama,Romance","Mar 27, 2009",20000000,12234694,17306648,29541342,9541342,"['love', 'boxing', 'father daughter relationship']"
+tt3606888,A Street Cat Named Bob,103.0,"Biography,Comedy,Drama","Nov 18, 2016",8000000,82703,17382693,17465396,9465396,"['cat', 'human animal relationship', 'london england', 'cat on shoulder', 'drug addict']"
+tt1243974,Aloha,105.0,"Comedy,Drama,Romance","May 29, 2015",37000000,21052030,25387091,46439121,9439121,"['written by director', 'hawaii', 'one word title', 'reference to kesha', 'blondie']"
+tt3705608,Cursed,112.0,"Drama,War","Feb 25, 2005",35000000,19294901,25114901,44409802,9409802,[None]
+tt1758741,People Like Us,55.0,Drama,"Jun 29, 2012",16000000,12431792,12617472,25049264,9049264,['f rated']
+tt4354276,The New World,90.0,Drama,"Dec 25, 2005",30000000,12712093,26184400,38896493,8896493,['group']
+tt1307068,Seeking a Friend for the End of the World,101.0,"Adventure,Comedy,Drama","Jun 22, 2012",10000000,7078738,11766959,18845697,8845697,"['end of the world', 'title directed by female', 'long title', 'road trip', 'human extinction']"
+tt1371155,Made in Dagenham,113.0,"Biography,Comedy,Drama","Nov 19, 2010",8000000,1095369,15644196,16739565,8739565,"['automobile manufacturing', 'f rated', 'ford of britain', 'ford motor company', 'whitehall']"
+tt1508675,Le Havre,93.0,"Comedy,Drama","Oct 21, 2011",5500000,611709,13480196,14091905,8591905,"['neighbor', 'container', 'illegal immigrant', 'bar', 'shoe shiner']"
+tt2235108,Dear White People,108.0,"Comedy,Drama,Romance","Oct 17, 2014",1250000,4404154,5403771,9807925,8557925,"['race relations', 'satire', 'ivy league university', 'controversy', 'election']"
+tt5124556,The Forsaken,86.0,"Drama,Horror,Thriller","Apr 27, 2001",5000000,6755271,6755271,13510542,8510542,['f rated']
+tt4224638,Before Sunrise,70.0,Drama,"Jan 27, 1995",2500000,5274005,5690220,10964225,8464225,[None]
+tt2321163,ABCD (Any Body Can Dance),160.0,"Drama,Music","Feb 8, 2013",1900000,222098,10137234,10359332,8459332,"['dance', 'dancing']"
+tt2582500,Shut In,91.0,"Drama,Mystery,Thriller","Nov 11, 2016",10000000,6900335,11360665,18261000,8261000,"['nightmare', 'boy', 'psychologist', 'single parent', 'bathtub']"
+tt5301662,Marshall,118.0,"Biography,Crime,Drama","Oct 13, 2017",12000000,10051659,10116816,20168475,8168475,"['1940s', 'lawyer', 'attorney', 'african american', 'racism']"
+tt2402597,Envy,90.0,Drama,"Apr 30, 2004",20000000,13548322,14566246,28114568,8114568,['desire']
+tt2582496,Me and Earl and the Dying Girl,105.0,"Comedy,Drama,Romance","Jun 12, 2015",8000000,6758416,9266180,16024596,8024596,"['terminal illness', 'leukemia', 'teenage boy', 'death', 'aspiring filmmaker']"
+tt5247022,Paterson,118.0,"Comedy,Drama,Romance","Dec 28, 2016",5000000,2141423,10727536,12868959,7868959,"['poetry', 'bus driver', 'twin', 'cupcake', 'walking a dog']"
+tt1869759,The Train,,Drama,"Mar 7, 1965",5800000,6800000,6800000,13600000,7800000,[None]
+tt1862079,Safety Not Guaranteed,86.0,"Comedy,Drama,Romance","Jun 8, 2012",750000,4010957,4422318,8433275,7683275,"['time machine', 'time travel', 'falling in love', 'intern', 'classified ad']"
+tt4573516,Sleight,89.0,"Action,Drama,Sci-Fi","Apr 28, 2017",250000,3930990,3934450,7865440,7615440,"['superhero', 'street magician']"
+tt1441326,Martha Marcy May Marlene,102.0,"Drama,Mystery,Thriller","Oct 21, 2011",1000000,2981038,5438911,8419949,7419949,"['cult', 'religion', 'caught having sex', 'cult member', 'physical abuse']"
+tt3416532,A Monster Calls,108.0,"Animation,Drama,Fantasy","Jan 6, 2017",43000000,3740823,46414530,50155353,7155353,"['telling a story', 'monster', 'boy', 'terminal illness', 'nightmare']"
+tt4034354,Swiss Army Man,97.0,"Adventure,Comedy,Drama","Jun 24, 2016",3000000,4210454,5837111,10047565,7047565,"['dead body', 'talking to a dead body', 'corpse', 'fart', 'dead body washed ashore']"
+tt5635048,Dirty Work,103.0,"Crime,Drama","Jun 12, 1998",13000000,10020081,10020081,20040162,7040162,['lifestyle']
+tt1618430,Dum Maaro Dum,128.0,"Action,Crime,Drama","Apr 22, 2011",5200000,564489,11633427,12197916,6997916,"['drugs', 'police', 'love', 'death', 'rave party']"
+tt3774114,Snowden,134.0,"Biography,Drama,Thriller","Sep 16, 2016",50000000,21587519,35380918,56968437,6968437,"['internet', 'mass surveillance', 'nsa', 'whistleblower', 'journalism']"
+tt8681390,Like Crazy,,Drama,"Oct 28, 2011",250000,3395391,3728400,7123791,6873791,[None]
+tt2025690,The Finest Hours,117.0,"Action,Drama,History","Jan 29, 2016",70000000,27569558,49252761,76822319,6822319,"['1950s', 'oil tanker', 'coast guard', 'sinking ship', 'survival']"
+tt1541995,Snow Flower and the Secret Fan,104.0,"Drama,History","Jul 15, 2011",6000000,1348205,11348205,12696410,6696410,"['based on a novel', 'china', 'fan', 'nineteenth century', 'reversal of fortune']"
+tt4501454,The Meddler,103.0,"Comedy,Drama,Romance","Apr 22, 2016",3200000,4267219,5526942,9794161,6594161,"['overbearing mother', 'lesbian wedding', 'mother daughter relationship', 'singing in a car', 'reference to atlantic city new jersey']"
+tt10214900,Dark Blue,,Drama,"Feb 21, 2003",15000000,9237470,12262065,21499535,6499535,"['police', 'ptsd post traumatic stress disorder']"
+tt2321549,The Babadook,94.0,"Drama,Horror","Nov 28, 2014",2000000,950792,7482387,8433179,6433179,"['book', 'single mother', 'mother son relationship', 'monster', 'fear']"
+tt1230168,Same Kind of Different as Me,119.0,"Biography,Drama","Oct 20, 2017",6500000,6423605,6423605,12847210,6347210,"['homeless man', 'friendship', 'kindness', 'husband wife relationship', 'homelessness']"
+tt10457702,Bound,,"Action,Drama","Oct 4, 1996",4500000,3802260,7011317,10813577,6313577,['rescue']
+tt0787524,The Man Who Knew Infinity,108.0,"Biography,Drama","Apr 29, 2016",10000000,3877922,12382122,16260044,6260044,"['academic', 'mathematics', 'mathematical series', 'mentor protege relationship', 'trinity college cambridge']"
+tt1772252,Conviction,,Drama,"Oct 15, 2010",12500000,6797696,11826980,18624676,6124676,[None]
+tt4622512,Battle of the Sexes,121.0,"Biography,Comedy,Drama","Sep 22, 2017",25000000,12638526,18445379,31083905,6083905,"['lesbianism', 'based on real events', 'tennis player', '1970s', 'battle of the sexes']"
+tt10227710,Brick,93.0,"Drama,Family,Romance","Mar 31, 2006",450000,2075743,4243996,6319739,5869739,['architect']
+tt1990314,Robot & Frank,89.0,"Comedy,Crime,Drama","Aug 17, 2012",2500000,3317468,4934356,8251824,5751824,"['burglary', 'robot', 'dementia', 'thief', 'heist']"
+tt2771280,Iris,,"Action,Drama,Sci-Fi","Dec 14, 2001",5500000,5580479,5580479,11160958,5660958,['thief']
+tt2170299,Bad Words,89.0,"Comedy,Drama","Mar 14, 2014",10000000,7779614,7843145,15622759,5622759,"['spelling bee', 'forty something', 'high school dropout', 'spelling', 'two word title']"
+tt1532958,Battle of the Year,110.0,"Drama,Music","Sep 20, 2013",20000000,8888355,16723377,25611732,5611732,"['mtv', 'braun gmbh', 'playstation vita', 'blu ray portable player', 'sony']"
+tt0878835,Please Give,87.0,"Comedy,Drama","Apr 30, 2010",3000000,4033574,4570178,8603752,5603752,"['reference to pubic hair', 'reference to howard stern', 'car', 'automobile', 'u.s. car']"
+tt1242460,We Need to Talk About Kevin,112.0,"Drama,Mystery,Thriller","Jan 13, 2012",7000000,1738692,10765283,12503975,5503975,"['incommunicability', 'tragic event', 'murder of daughter', 'flash forward', 'target']"
+tt4622770,Happiness,73.0,Drama,"Oct 16, 1998",3000000,2746453,5746453,8492906,5492906,['happiness']
+tt2910274,Obvious Child,84.0,"Comedy,Drama,Romance","Jun 6, 2014",1000000,3122616,3324070,6446686,5446686,"['abortion', 'pregnancy', 'f rated', 'divorced parents', 'based on short film']"
+tt1430615,Big Miracle,107.0,"Biography,Drama,Family","Feb 3, 2012",40000000,20157300,25268680,45425980,5425980,"['whale', 'alaska', 'save the whale', 'based on true story', 'ice']"
+tt6852284,Venus,95.0,"Comedy,Drama,Family","Dec 21, 2006",6000000,3347411,7818479,11165890,5165890,"['coming out', 'transgender', 'transgender parent', 'mother son relationship', 'father son relationship']"
+tt1320291,The Reef,94.0,"Adventure,Drama,Horror","Dec 31, 2010",10000000,0,15037867,15037867,5037867,"['shark', 'boat', 'australian horror', 'capsized boat', 'underwater scene']"
+tt3966404,Mustang,97.0,Drama,"Nov 20, 2015",1400000,845464,5552584,6398048,4998048,"['pretending to swim', 'istanbul turkey', 'forced wedding', 'virginity', 'teenage girl']"
+tt0804497,It's Kind of a Funny Story,101.0,"Comedy,Drama,Romance","Oct 8, 2010",8000000,6363628,6632950,12996578,4996578,"['fear of failure', 'depression', 'based on novel', 'friendship', 'psychiatric ward']"
+tt7016298,Animal Kingdom,121.0,"Drama,Fantasy,Horror","Aug 13, 2010",4200000,1044039,8078683,9122722,4922722,[None]
+tt3829920,Only the Brave,134.0,"Action,Biography,Drama","Oct 20, 2017",38000000,18340051,24555177,42895228,4895228,"['helicopter', 'wildfire', 'baby', 'firefighter', 'forest fire']"
+tt1206543,Out of the Furnace,116.0,"Crime,Drama,Thriller","Dec 4, 2013",22000000,11330849,15434375,26765224,4765224,"['drug dealer', 'ramapo new jersey', 'social decay', 'fight club', 'ambiguous ending']"
+tt1544600,The Grace Card,101.0,Drama,"Feb 25, 2011",200000,2430735,2430735,4861470,4661470,"['christian propaganda', 'pastor', 'police', 'christian film', 'forgiveness']"
+tt4337690,90 Minutes in Heaven,121.0,Drama,"Sep 11, 2015",5000000,4816142,4816142,9632284,4632284,"['heaven', 'pronounced dead', 'recovery', 'hospital', 'praying']"
+tt1742336,Your Sister's Sister,90.0,"Comedy,Drama","Jun 15, 2012",120000,1597486,3090593,4688079,4568079,"['title directed by female', 'tequila', 'f rated', 'drunken sex', 'pancakes']"
+tt1869425,Filly Brown,80.0,"Drama,Music","Apr 19, 2013",1250000,2850357,2940411,5790768,4540768,['producer']
+tt1669617,Home Run,82.0,"Drama,Family,Sport","Apr 19, 2013",1200000,2859955,2859955,5719910,4519910,[None]
+tt5834262,Hotel Artemis,94.0,"Action,Drama,Sci-Fi","Jun 8, 2018",15000000,6708137,12758799,19466936,4466936,"['year 2028', 'nurse', 'los angeles california', 'written by director', 'riot']"
+tt6512428,Indivisible,119.0,"Drama,War","Oct 26, 2018",2700000,3511417,3588305,7099722,4399722,"['iraq war', 'christian propaganda', 'based on true story']"
+tt3605418,Knock Knock,99.0,"Drama,Thriller","Oct 9, 2015",2000000,36336,6328516,6364852,4364852,"['female nudity', 'female on male rape', 'threesome', 'sex scene', 'female psychopath']"
+tt6265828,A Ghost Story,92.0,"Drama,Fantasy,Romance","Jul 7, 2017",100000,1594798,2769782,4364580,4264580,"['death of husband', 'loss of husband', 'grief', 'loss', 'loneliness']"
+tt1810683,Little Boy,106.0,"Drama,History,War","Apr 24, 2015",20000000,6485961,17769299,24255260,4255260,"['faith', 'racial discrimination', 'world war two', 'spirituality', 'father son relationship']"
+tt2870708,Wish I Was Here,106.0,"Comedy,Drama","Jul 18, 2014",6000000,3591299,6591365,10182664,4182664,"['dream sequence', 'crowdfunded', 'sex scene', 'furry', 'office worker']"
+tt1878917,The Pledge,118.0,"Drama,Family","Jan 19, 2001",45000000,19719930,29406132,49126062,4126062,"['patriotism', 'veteran']"
+tt1216491,Kill the Messenger,112.0,"Biography,Crime,Drama","Oct 10, 2014",5000000,2450846,6656705,9107551,4107551,"['based on true story', 'journalist', 'nicaraguan contras', 'smear campaign', 'cocaine']"
+tt1772288,Danny Collins,106.0,"Biography,Comedy,Drama","Mar 20, 2015",10000000,5637066,8465845,14102911,4102911,"['boyfriend girlfriend relationship', 'f word', 'doctor', 'blog', 'reference to mike nichols and elaine may']"
+tt1602098,Albert Nobbs,113.0,"Drama,Romance","Dec 21, 2011",7500000,3014696,8539003,11553699,4053699,"['woman pretending to be a man', 'hotel', '19th century', 'painter', 'waiter']"
+tt1321511,Oldboy,104.0,"Action,Drama,Mystery","Mar 25, 2005",3000000,707391,6239723,6947114,3947114,"['father daughter incest', 'incest', 'male nudity', 'female nudity', 'solitary confinement']"
+tt4341582,Queen of Katwe,124.0,"Biography,Drama,Sport","Sep 23, 2016",15000000,8874389,10055481,18929870,3929870,"['chess', 'chess tournament', 'uganda', 'kampala', 'based on true story']"
+tt1796616,Split Second,50.0,Drama,"May 1, 1992",7000000,5430822,5430822,10861644,3861644,[None]
+tt6053438,First Reformed,113.0,"Drama,Mystery,Thriller","May 18, 2018",3500000,3448256,3874772,7323028,3823028,"['priest as protagonist', 'church', 'suicide', 'christianity', 'reference to god']"
+tt1972591,King Arthur: Legend of the Sword,126.0,"Action,Adventure,Drama","May 12, 2017",175000000,39175066,139630336,178805402,3805402,"['folklore', 'excalibur', 'tyrant', 'knights of the round table', 'historical fiction']"
+tt1566501,For Greater Glory: The True Story of Cristiada,145.0,"Drama,History,War","Jun 1, 2012",12000000,5669081,10026255,15695336,3695336,"['faith', 'mexico', 'catholic', 'rebellion', 'religious persecution']"
+tt1893211,Choke,122.0,"Action,Drama,Romance","Sep 26, 2008",3400000,2926565,4124277,7050842,3650842,"['mixed martial arts', 'fighter', 'cage', 'hope', 'opinion']"
+tt1207922,Beyond the Mat,,"Drama,Sport","Oct 22, 1999",500000,2047570,2047570,4095140,3595140,['school']
+tt1289419,N-Secure,105.0,"Crime,Drama,Thriller","Oct 15, 2010",1600000,2595644,2595644,5191288,3591288,"['urban', 'blaxploitation', 'murder', 'insecurity', 'betrayal']"
+tt0857190,The Sweeney,112.0,"Action,Crime,Drama","Mar 1, 2013",4500000,26345,8000366,8026711,3526711,"['sex scene', 'bank', 'flying squad', 'internal affairs', 'london metropolitan police']"
+tt3882396,Irreversible,100.0,Drama,"Mar 7, 2003",5400000,792200,8133256,8925456,3525456,['student']
+tt0935075,Rabbit Hole,91.0,Drama,"Dec 17, 2010",5000000,2229058,6205034,8434092,3434092,"['mourning for son', 'comic book artist', 'tragedy', 'accidental death', 'screenplay adapted by author']"
+tt3268668,Captive,97.0,"Action,Crime,Drama","Sep 18, 2015",2000000,2583301,2791973,5375274,3375274,"['female protagonist', 'one word title', 'african american protagonist', 'african american', 'single mother']"
+tt3311168,Control,50.0,"Crime,Documentary,Drama","Oct 10, 2007",6400000,871577,8902141,9773718,3373718,[None]
+tt2349460,Grace Unplugged,102.0,"Drama,Music","Oct 4, 2013",1700000,2507159,2507159,5014318,3314318,"['christianity', 'religious', 'worship', 'love', 'reference to taylor swift']"
+tt1549572,Another Earth,92.0,"Drama,Romance,Sci-Fi","Jul 22, 2011",175000,1321194,2102779,3423973,3248973,"['duplicate earth', 'duplicate', 'anti depressant', 'suicide attempt', 'guilt']"
+tt1412528,Table 19,87.0,"Comedy,Drama,Romance","Mar 3, 2017",5000000,3614896,4620399,8235295,3235295,"['drug use', 'sex', 'wedding invitation', 'crying woman', 'cigarette lighter']"
+tt1943765,Morgan,89.0,"Drama,Romance","Sep 2, 2016",8000000,3915251,7298786,11214037,3214037,"['training', 'date', 'male rear nudity', 'male nudity', 'bare chested male']"
+tt2304771,Mandela: Long Walk to Freedom,141.0,"Biography,Drama,History","Nov 29, 2013",35000000,8323085,29890402,38213487,3213487,"['nelson mandela', 'president', 'resistance', 'africa', 'apartheid']"
+tt1440292,Submarine,97.0,"Comedy,Drama,Romance","Jun 3, 2011",1900000,467602,4581937,5049539,3149539,"['mother son relationship', 'teen angst', 'boyfriend girlfriend relationship', 'loss of virginity', 'school']"
+tt1462054,Letters to God,110.0,"Drama,Family","Apr 9, 2010",3000000,2848587,3237452,6086039,3086039,"['letter', 'faith', 'cancer', 'prayer', 'hope']"
+tt6000478,"Roman J. Israel, Esq.",122.0,"Crime,Drama,Thriller","Nov 17, 2017",22000000,11962712,12967012,24929724,2929724,"['lawyer', 'court', 'murder', 'los angeles california', 'courtroom']"
+tt1791528,Inherent Vice,148.0,"Comedy,Crime,Drama","Dec 12, 2014",20000000,8110975,14772346,22883321,2883321,"['ex boyfriend ex girlfriend relationship', 'drug trade', 'voice over narration', 'southern california', 'investigator']"
+tt7158430,Hearts Beat Loud,97.0,"Comedy,Drama,Music","Jun 8, 2018",2000000,2386254,2420962,4807216,2807216,"['father daughter relationship', 'music performance', 'father daughter friendship', 'widower', 'dead mother']"
+tt4902904,The Resurrection of Gavin Stone,91.0,"Comedy,Drama,Family","Jan 20, 2017",2000000,2303792,2303792,4607584,2607584,"['community service', 'megachurch', 'passion play', 'loincloth', 'child actor']"
+tt2133372,Whatever it Takes,87.0,"Documentary,Drama","Mar 24, 2000",15000000,8735529,8735529,17471058,2471058,[None]
+tt4431574,Hamlet,,Drama,"May 12, 2000",2000000,1577287,2419669,3996956,1996956,['home']
+tt6577814,Screwed,100.0,"Comedy,Drama,Romance","May 12, 2000",12000000,6982680,6982680,13965360,1965360,"['gay kiss', 'male rear nudity', 'male nudity', 'male masturbation', 'one word title']"
+tt1675192,Take Shelter,121.0,"Drama,Horror,Thriller","Sep 30, 2011",4750000,1728953,4972016,6700969,1950969,"['schizophrenia', 'mental illness', 'ambiguous ending', 'psychological', 'storm']"
+tt4113020,Adam,123.0,Drama,"Jul 29, 2009",3200000,2283291,2834485,5117776,1917776,"['male frontal nudity', 'male nudity', 'bathtub', 'male objectification']"
+tt1833881,Chloe,73.0,"Drama,Music,Romance","Mar 26, 2010",13000000,3075255,11831131,14906386,1906386,"['singer songwriter', 'nashville tennessee', 'character name in title']"
+tt1714210,Weekend,97.0,"Drama,Romance","Sep 23, 2011",190000,484592,1577585,2062177,1872177,"['fellatio', 'nudity', 'nightclub', 'intimacy', 'oral sex']"
+tt5597162,Groove,87.0,"Drama,Music,Musical","Jun 9, 2000",500000,1115313,1167524,2282837,1782837,['star']
+tt3172532,The Diary of a Teenage Girl,102.0,"Comedy,Drama,Romance","Aug 7, 2015",2000000,1477002,2279959,3756961,1756961,"['sex', ""mother's boyfriend"", 'lesbian kiss', 'oral sex', 'sexual promiscuity']"
+tt1682180,Stoker,99.0,"Drama,Thriller","Mar 1, 2013",12000000,1703125,12034913,13738038,1738038,"['dead body in a freezer', 'playing piano', 'dead body', 'nude drawing', 'psychopath']"
+tt2401878,Anomalisa,90.0,"Animation,Comedy,Drama","Dec 30, 2015",8000000,3759286,5706168,9465454,1465454,"['multiple characters voiced by same person', 'one night stand', 'stop motion animation', 'hotel room', 'sex in hotel room']"
+tt6985094,The Juror,114.0,Drama,"Feb 2, 1996",44000000,22730924,22730924,45461848,1461848,['court']
+tt2692904,Locke,85.0,Drama,"Apr 25, 2014",2000000,1370646,2088390,3459036,1459036,"['driving', 'marital trouble', 'birmingham england', 'break up over the phone', 'cheating husband']"
+tt6288250,Patti Cake$,109.0,"Drama,Music","Aug 18, 2017",1000000,800148,1471090,2271238,1271238,"['female rapper', 'singing in a car', 'aspiring rapper', 'female protagonist', 'friendship']"
+tt5649108,Thoroughbreds,92.0,"Comedy,Crime,Drama","Mar 9, 2018",5000000,3072605,3187302,6259907,1259907,"['psycho girl', 'creamy legs', 'girl wearing a mini skirt', 'feminine hair', 'miniskirt and sneakers']"
+tt2492700,Godsend,107.0,Drama,"Apr 30, 2004",30000000,14334645,16910708,31245353,1245353,[None]
+tt2634438,Panic,85.0,"Drama,Mystery,Thriller","Dec 1, 2000",1000000,779137,1425707,2204844,1204844,"['bare breasts', 'interracial sex', 'interracial relationship', 'journalist', 'sex trade']"
+tt6037866,Slam,115.0,Drama,"Oct 9, 1998",1000000,1009819,1087521,2097340,1097340,['sister']
+tt2479800,Palo Alto,100.0,Drama,"May 9, 2014",1000000,767732,1156309,1924041,924041,"['high school student', 'soccer coach', 'high school', ""girls' soccer"", 'teenager']"
+tt1971352,Compliance,90.0,"Biography,Crime,Drama","Aug 17, 2012",270000,319285,830700,1149985,879985,"['sexual humiliation', 'forced to strip', 'fast food restaurant', 'female frontal nudity', 'prank call']"
+tt2076220,Holy Motors,115.0,"Drama,Fantasy","Oct 17, 2012",4000000,641054,4230426,4871480,871480,"['graveyard', 'fake beard and mustache', 'erotic dance', 'musical sequence', 'experimental film']"
+tt1518812,Meek's Cutoff,104.0,"Drama,Western","Apr 8, 2011",2000000,977772,1869928,2847700,847700,"['blackfoot indian', 'bucket', 'cayuse indian', 'horseback riding', 'bible']"
+tt1235170,The Future,91.0,"Drama,Fantasy,Romance","Jul 29, 2011",1000000,568662,1239174,1807836,807836,"['talking cat', 'cat', 'tech support', 't shirt', 'quitting a job']"
+tt2771372,Veronica Mars,107.0,"Crime,Drama,Mystery","Mar 14, 2014",6000000,3322127,3485383,6807510,807510,"['california', 'based on television series', 'sequel', 'private detective', 'crowdfunded']"
+tt1726592,Before I Go to Sleep,92.0,"Drama,Horror,Mystery","Oct 31, 2014",22000000,3242457,19563579,22806036,806036,"['amnesia', 'infidelity', 'memory', 'therapist', 'female nudity']"
+tt1570989,Tiny Furniture,98.0,"Comedy,Drama,Romance","Nov 12, 2010",50000,391674,424149,815823,765823,"['black stockings', 'hipster', 'adult returns home', 'title directed by female', 'shower']"
+tt3099498,Tusk,102.0,"Comedy,Drama,Horror","Sep 19, 2014",3000000,1821983,1887554,3709537,709537,"['walrus', 'canada', 'mutilation', 'search', 'deception']"
+tt5822766,Love and Other Catastrophes,100.0,"Comedy,Drama","Mar 28, 1997",250000,212285,743216,955501,705501,"['male nudity', 'accident', 'sports car', 'male rear nudity', 'dating']"
+tt1748207,Sound of My Voice,85.0,"Drama,Mystery,Sci-Fi","Apr 27, 2012",135000,408015,429448,837463,702463,"['cult', 'cult leader', 'scantily clad female', 'manipulation', 'female editor']"
+tt2910814,The Signal,97.0,"Drama,Mystery,Sci-Fi","Feb 22, 2008",50000,251150,406299,657449,607449,"['road trip', 'girlfriend in a coma', 'computer hacker', 'prosthetic leg', 'alien contact']"
+tt9607270,The Blue Bird,84.0,Drama,"Jan 1, 1976",1200000,887000,887000,1774000,574000,[None]
+tt1531663,Everything Must Go,97.0,"Comedy,Drama","May 13, 2011",5000000,2712131,2821010,5533141,533141,"['phoenix arizona', 'scottsdale arizona', 'filmed in phoenix arizona', 'peacock tv', 'filmed in scottsdale arizona']"
+tt1684628,Circumstance,107.0,Drama,"Aug 26, 2011",900000,454121,958978,1413099,513099,"['iranian', 'teenager', 'closeted lesbian', 'religious police', 'family relationships']"
+tt1571222,A Dangerous Method,99.0,"Biography,Drama,Romance","Nov 23, 2011",20000000,5702083,14807531,20509614,509614,"['spanking a woman', 'bare breast', 'friendship', 'dream interpretation', 'beating with a belt']"
+tt2101341,Dead Man Down,118.0,"Action,Crime,Drama","Mar 8, 2013",30000000,10895295,19599974,30495269,495269,"['suspense', 'cigarette', 'crime lord', 'new york city', 'dead body']"
+tt1636833,Black and White,90.0,Drama,"Apr 5, 2000",10000000,5241315,5241315,10482630,482630,[None]
+tt1602613,Only God Forgives,90.0,"Crime,Drama","Jul 19, 2013",4800000,775849,4494560,5270409,470409,"['thai boxing', 'vengeful', 'vengeance', 'thai police', 'punishment']"
+tt3769234,Simon,,Drama,"Apr 7, 2006",1300000,4055,1738663,1742718,442718,[None]
+tt4625198,Sunday,11.0,"Documentary,Drama,Family","Aug 22, 1997",450000,410919,450349,861268,411268,['reality']
+tt1801552,Gotti,112.0,"Biography,Crime,Drama","Jun 15, 2018",10000000,4286367,6089100,10375467,375467,"['gangster', 'crime lord', 'based on true story', 'terminal illness', 'funeral']"
+tt1594562,The Innkeepers,101.0,"Drama,Horror,Mystery","Feb 3, 2012",750000,78396,1011535,1089931,339931,"['haunted hotel', 'psychotronic film', 'woman wrapped in a towel', 'hotel', 'inn']"
+tt10095498,Get Real,45.0,Drama,"Apr 30, 1999",2000000,1152411,1152411,2304822,304822,['nerd']
+tt2359024,Blue Ruin,90.0,"Crime,Drama,Thriller","Apr 25, 2014",420000,258384,437002,695386,275386,"['crowdfunded', 'vengeance', 'neo noir', 'written by director', 'automobile']"
+tt1211890,Middle of Nowhere,97.0,Drama,"Oct 12, 2012",200000,236806,236806,473612,273612,"['prison', 'triple f rated', 'written by director', 'writer producer director', 'prison visit']"
+tt6619196,Clean,70.0,"Comedy,Drama,Horror","Apr 28, 2006",10000,138711,138711,277422,267422,['robot']
+tt4266638,Krisha,83.0,Drama,"Mar 18, 2016",30000,144822,144822,289644,259644,"['actress shares first name with character', 'based on short film', 'character name as title', 'written directed and produced by cast member', 'mother son estrangement']"
+tt2265398,Drinking Buddies,90.0,"Comedy,Drama,Romance","Aug 23, 2013",500000,343706,407100,750806,250806,"['brewery', 'co worker', 'group of friends', 'boyfriend girlfriend relationship', 'woman wears panties']"
+tt2884206,I Origins,106.0,"Drama,Romance,Sci-Fi","Jul 18, 2014",1000000,336472,852399,1188871,188871,"['eye', 'evolution', 'reincarnation', 'elevator', 'eye identification']"
+tt1872026,Cure,93.0,Drama,"Jul 6, 2001",10000,94596,94596,189192,179192,[None]
+tt4238858,The Fits,72.0,"Drama,Music","Jun 3, 2016",170000,166425,169242,335667,165667,"['f rated', 'basketball', 'measuring someone', 'weight scales', 'sister sister relationship']"
+tt6164502,November,115.0,"Drama,Fantasy,Horror","Jul 22, 2005",250000,191862,191862,383724,133724,"['mechanism comes to life', 'folklore', 'witch', 'peasant', 'plague']"
+tt9125468,Sugar Town,75.0,"Drama,Horror,Sci-Fi","Sep 17, 1999",250000,178095,178095,356190,106190,[None]
+tt2304459,23 Blast,98.0,"Drama,Family,Sport","Oct 24, 2014",1000000,549185,549185,1098370,98370,"['high school football', 'based on true story', 'united states of america', 'united states', 'usa']"
+tt2366608,Lost River,95.0,"Drama,Fantasy,Mystery","Apr 7, 2015",2000000,45431,2009644,2055075,55075,"['retro', 'suspense', 'underwater scene', 'curse', 'house of horrors']"
+tt2389182,Cheap Thrills,88.0,"Comedy,Crime,Drama","Mar 21, 2014",100000,59424,59424,118848,18848,"['extramarital affair', 'adultery', 'unfaithfulness', 'sex', 'masturbation']"
+tt1880418,Newlyweds,95.0,"Comedy,Drama","Jan 13, 2012",9000,4584,4584,9168,168,['written and directed by cast member']
+tt1758575,Blue Like Jazz,108.0,"Comedy,Drama","Apr 13, 2012",1200000,595018,595018,1190036,-9964,"['college', 'texas', 'church', 'screenplay adapted by author', 'color in title']"
+tt4393036,Emily,83.0,Drama,"Jan 27, 2017",27000,3547,3547,7094,-19906,"['marriage', 'philosophy', 'religion', 'quarter life crisis', 'coffee']"
+tt3157318,Dawn of the Crescent Moon,95.0,"Drama,Sci-Fi,Thriller","Jul 17, 2015",75000,8799,8799,17598,-57402,"['supernatural thriller', 'supernatural', 'small town', 'small city', 'actor performing own stunts']"
+tt1610996,Absentia,87.0,"Drama,Horror,Mystery","Dec 31, 2011",70000,0,8555,8555,-61445,"['tunnel', 'grief', 'missing husband', 'sister sister relationship', 'reappearance']"
+tt2998154,Possession,82.0,Drama,"Aug 16, 2002",25000000,10103647,14805812,24909459,-90541,"['possession', 'cartel', 'mafia']"
+tt2014407,The Calling,84.0,"Documentary,Drama","Mar 1, 2002",160000,32092,32092,64184,-95816,[None]
+tt2171902,Happy Valley,98.0,"Documentary,Drama,Sport","Mar 28, 2008",250000,67665,67665,135330,-114670,['child']
+tt1562568,Higher Ground,109.0,Drama,"Aug 23, 2011",1800000,841056,842693,1683749,-116251,"['toe sucking', 'foot fetish', ""woman licking another woman's foot"", 'faith', 'f rated']"
+tt2292959,The Canyons,99.0,"Drama,Thriller","Aug 2, 2013",250000,59671,62375,122046,-127954,"['erotic thriller', 'psychopath', 'group sex', 'sex scene', 'foursome']"
+tt1858800,The Quiet,,Drama,"Aug 25, 2006",900000,381420,381420,762840,-137160,"['american dream', 'chicago illinois', 'marriage', 'deception', 'independent film']"
+tt1822311,Sparrows Dance,81.0,"Comedy,Drama,Romance","Aug 23, 2013",175000,2602,2602,5204,-169796,"['actress', 'residuals income', 'plumber', 'agoraphobia', 'fear of open spaces']"
+tt1810759,Solitude,96.0,"Biography,Documentary,Drama","Jan 7, 2005",200000,6260,6260,12520,-187480,[None]
+tt3509804,The Word,97.0,"Drama,Thriller","Mar 14, 2014",200000,3648,3648,7296,-192704,"['one word title', 'title directed by female', 'triple f rated', 'female protagonist', 'teenager']"
+tt6988290,Test,106.0,Drama,"Jun 6, 2014",250000,18823,18823,37646,-212354,['battle']
+tt1314190,3 Backyards,88.0,Drama,"Mar 11, 2011",300000,39475,39475,78950,-221050,[None]
+tt3721936,American Honey,163.0,"Adventure,Drama,Romance","Sep 30, 2016",3500000,663247,2611750,3274997,-225003,"['road movie', 'jealousy', 'truck stop', 'runaway', 'road trip']"
+tt2912776,The Looking Glass,110.0,"Drama,Music","Oct 23, 2015",300000,1711,1711,3422,-296578,['mother']
+tt2187884,Escape from Tomorrow,90.0,"Drama,Fantasy,Horror","Oct 11, 2013",650000,171962,171962,343924,-306076,"['middle aged man', 'diarrhea', 'coughing up a hairball', 'spitting in face', 'loss of job']"
+tt1788391,Kill List,95.0,"Crime,Drama,Horror","Feb 3, 2012",800000,29063,462206,491269,-308731,"['hitman', 'folk horror', 'child killed', 'contract killer', 'ritual sacrifice']"
+tt4169300,Shattered Glass,94.0,Drama,"Oct 31, 2003",6000000,2207975,3456602,5664577,-335423,[None]
+tt2176013,Jab Tak Hai Jaan,176.0,"Drama,Romance","Nov 13, 2012",9200000,3047539,5806666,8854205,-345795,"['love', 'army', 'bomb', 'indian army', 'accident']"
+tt2400463,The Invitation,100.0,"Drama,Horror,Mystery","Apr 8, 2016",1000000,231738,354836,586574,-413426,"['dinner party', 'old friend', 'suicide', 'death cult', 'shooting']"
+tt2176228,As It Is in Heaven,86.0,Drama,"Jul 11, 2014",450000,13486,13486,26972,-423028,['death']
+tt3614530,Jem and the Holograms,118.0,"Adventure,Drama,Family","Oct 23, 2015",5000000,2184640,2368937,4553577,-446423,"['sister sister relationship', 'record company', 'band', 'based on toy', 'based on cartoon']"
+tt2852376,Heli,105.0,"Crime,Drama,Romance","Dec 31, 2013",1000000,0,552614,552614,-447386,"['torture', 'bare breasts', 'nudity', 'male nudity', 'female nudity']"
+tt2052015,Water & Power,88.0,"Crime,Drama","May 2, 2014",600000,42557,42557,85114,-514886,[None]
+tt2768766,Faith Connections,115.0,"Biography,Documentary,Drama","Sep 12, 2014",550000,9111,9111,18222,-531778,"['male frontal nudity', 'male nudity', 'male rear nudity', 'nudity', 'faith']"
+tt2776878,Thank You for Your Service,109.0,"Biography,Drama,War","Oct 27, 2017",20000000,9479390,9985316,19464706,-535294,"['violence', 'flashback', 'soldier', 'dog fight', 'u.s. soldier']"
+tt1592873,LOL,97.0,"Comedy,Drama,Romance","May 4, 2012",11000000,0,10431506,10431506,-568494,"['female protagonist', 'teen protagonist', 'teen romance', 'voice over narration', 'scene during opening credits']"
+tt1645080,The Art of Getting By,83.0,"Drama,Romance","Jun 17, 2011",4000000,1430241,1989035,3419276,-580724,"['principal', 'artist', 'high school', 'rebellious teenager', 'teenage angst']"
+tt1017451,The Runaways,106.0,"Biography,Drama,Music","Mar 19, 2010",9500000,3573673,5278632,8852305,-647695,"['f rated', 'revisionist history', 'triple f rated', 'feminist film', 'cherry bomb']"
+tt1667307,Damsels in Distress,99.0,"Comedy,Drama,Romance","Apr 6, 2012",3000000,1007535,1324299,2331834,-668166,"['college', 'college campus', 'fraternity', 'depression', 'dance craze']"
+tt5068886,Q,96.0,"Drama,Thriller","Nov 19, 1982",1200000,255000,255000,510000,-690000,"['one letter title', '6 year old']"
+tt3569356,Not Cool,93.0,"Comedy,Drama,Romance","Sep 19, 2014",800000,35688,35688,71376,-728624,"['actor playing female role', 'directed by star', 'fart', 'eating feces', 'penis']"
+tt2486682,The Square,108.0,"Documentary,Drama,History","Apr 9, 2010",1900000,406216,740932,1147148,-752852,['battle']
+tt0763831,A Thousand Words,91.0,"Comedy,Drama","Mar 9, 2012",40000000,18450127,20790486,39240613,-759387,"['liar', 'supernatural power', 'psychotronic film', 'movie flop', 'slimehouse']"
+tt1907639,Hardflip,112.0,"Action,Drama","Jun 1, 2012",1000000,96734,96734,193468,-806532,"['skateboard', 'loss of mother', 'san diego california', 'single mother', 'suicide attempt']"
+tt3277624,Creative Control,97.0,"Drama,Sci-Fi","Mar 11, 2016",1000000,63014,63014,126028,-873972,"['augmented reality', 'speculative fiction', 'nervous breakdown', 'art exhibition', 'cocaine']"
+tt1769363,The Giant Mechanical Man,95.0,"Comedy,Drama,Romance","Apr 27, 2012",900000,7396,7396,14792,-885208,"['mechanical man', 'temporary job', 'mime', 'stilts', 'stage makeup']"
+tt2994190,Camp X-Ray,117.0,"Drama,War","Oct 17, 2014",1000000,9837,101053,110890,-889110,"['guantanamo bay', 'female protagonist', 'unlikely friendship', 'covered in feces', 'reference to harry potter']"
+tt6096190,Brotherly Love,118.0,Drama,"Apr 24, 2015",1900000,478595,478595,957190,-942810,[None]
+tt3869446,Special,,Drama,"Nov 21, 2008",1000000,7202,26822,34024,-965976,['f rated']
+tt3145220,Hits,96.0,"Comedy,Drama","Feb 13, 2015",1000000,15156,15156,30312,-969688,"['small town', 'youtube', 'internet', 'courtroom', 'independent film']"
+tt1015471,The Sisterhood of Night,104.0,"Drama,Mystery,Thriller","Apr 10, 2015",1000000,6870,6870,13740,-986260,"['accused of witchcraft', 'strained mother daughter relationship', 'high school girl', 'high school', 'teenage girl']"
+tt4733536,American Hero,86.0,"Action,Comedy,Drama","Dec 11, 2015",1000000,0,26,26,-999974,"['non comic book superhero', 'superhero', 'father son relationship', 'reconciliation', 'female nudity']"
+tt1341167,Four Lions,97.0,"Comedy,Crime,Drama","Nov 5, 2010",3750000,310007,2436111,2746118,-1003882,"['crow', 'exploding animal', 'yorkshire', 'home video', 'toy ak 47']"
+tt1588334,"Jeff, Who Lives at Home",83.0,"Comedy,Drama","Mar 16, 2012",10000000,4269426,4708127,8977553,-1022447,"['stalking', 'adult lives at home', 'bathroom', 'motel room', 'car crashing into a tree']"
+tt4082068,Dheepan,115.0,"Crime,Drama","May 6, 2016",9000000,248795,7704357,7953152,-1046848,"['tamil', 'caretaker', 'france', 'sri lankan', 'janitor']"
+tt2248739,Departure,109.0,"Drama,Romance","Mar 7, 2017",1100000,0,27561,27561,-1072439,"['male masturbation', 'gay crush', 'masturbation', 'gay', 'gay interest']"
+tt2723576,The Sleepwalker,91.0,Drama,"Nov 21, 2014",1100000,2636,2636,5272,-1094728,"['male objectification', 'taking a shower', 'sex from behind', 'male bare butt', 'clothed female naked male sex']"
+tt1562847,Amigo,124.0,"Drama,War","Aug 19, 2011",1500000,184705,184705,369410,-1130590,"['luzon', 'philippines', 'year 1900', 'revolutionary army', 'american abroad']"
+tt1869716,The East,116.0,"Adventure,Drama,Thriller","May 31, 2013",6500000,2274649,3027956,5302605,-1197395,"['anarchist', 'ecoterrorism', 'environmental crime', 'public sex', 'nude swimming']"
+tt7235388,The Man,,Drama,"Sep 9, 2005",20000000,8330720,10393696,18724416,-1275584,[None]
+tt7844060,Lady in White,98.0,"Comedy,Drama","Apr 22, 1988",4700000,1705139,1705139,3410278,-1289722,"['japanese woman', 'job', 'first job', 'workplace', 'co worker']"
+tt3018070,Stonewall,129.0,"Drama,History","Jul 26, 1996",2000000,304602,304602,609204,-1390796,"['homosexuality', '1960s', 'year 1969', 'homophobia', 'gay culture']"
+tt9776362,Never Let Me Go,,Drama,"Sep 15, 2010",15000000,2434652,11173718,13608370,-1391630,[None]
+tt2017486,Closer to the Moon,112.0,"Comedy,Crime,Drama","Apr 17, 2014",1500000,0,5396,5396,-1494604,"['romanian', 'police officer', 'year 1959', 'bucharest romania', 'post world war two']"
+tt9275702,Salvador,71.0,Drama,"Apr 23, 1986",4500000,1500000,1500000,3000000,-1500000,['artist']
+tt2494362,Bone Tomahawk,132.0,"Adventure,Drama,Horror","Oct 23, 2015",2000000,0,475846,475846,-1524154,"['rescue', 'ambush', 'wilderness', 'native american', 'held captive']"
+tt1441953,Testament of Youth,129.0,"Biography,Drama,History","Jun 5, 2015",10000000,1822250,6646669,8468919,-1531081,"['brother sister relationship', '1910s', 'loss of brother', 'nurse', 'female writer']"
+tt2690138,The D Train,101.0,"Comedy,Drama","May 8, 2015",3000000,669688,772366,1442054,-1557946,"['actor plays himself', 'clothed female naked male scene', 'gay character', 'girl wears panties', 'man in a shower']"
+tt1512235,Super,96.0,"Action,Comedy,Drama","Apr 1, 2011",2500000,327716,593933,921649,-1578351,"['tragicomedy', 'black comedy', 'female on male rape', 'superhero', 'comic book']"
+tt5328352,Everybody's Fine,105.0,Drama,"Dec 4, 2009",20000000,9208876,9208876,18417752,-1582248,"['remake', 'remake of european film', 'chinese remake', 'chinese remake of european film', 'chinese remake of italian film']"
+tt2474024,The Last Five Years,94.0,"Comedy,Drama,Musical","Feb 13, 2015",2000000,147299,205298,352597,-1647403,"['actress', 'novelist', '5 year time span', 'marriage', 'boyfriend girlfriend relationship']"
+tt5024572,Rock Star,,"Action,Drama,Romance","Sep 7, 2001",38000000,16991902,19317765,36309667,-1690333,[None]
+tt5662990,Blindness,115.0,Drama,"Oct 3, 2008",25000000,3073392,20052958,23126350,-1873650,[None]
+tt1763303,The First Time,95.0,"Comedy,Drama,Romance","Oct 19, 2012",2000000,17061,17061,34122,-1965878,"['loss of virginity', 'high school', 'awkwardness', 'teenage girl', 'teenage boy']"
+tt2226519,Plush,99.0,"Drama,Music,Thriller","Sep 13, 2013",2000000,3080,28864,31944,-1968056,"['guitarist', 'gay interest', 'sex scene', 'obsessed fan', 'seduction']"
+tt2460506,Mi America,90.0,"Crime,Drama","Oct 16, 2016",2100000,3330,3330,6660,-2093340,['city']
+tt1196939,Gracie,71.0,"Crime,Drama,Fantasy","Jun 1, 2007",9000000,2956339,3922043,6878382,-2121618,"['suspense', 'neo noir', 'surrealism', 'allegory', 'character name in title']"
+tt8421518,Frontera,82.0,"Crime,Drama,Family","Sep 5, 2014",2300000,59696,59696,119392,-2180608,[None]
+tt1470020,Redemption Road,95.0,Drama,"Aug 26, 2011",2300000,29384,29384,58768,-2241232,"['death of loved one', 'loss of loved one', 'loss of father', 'singer', 'musician']"
+tt3859304,The Bronze,100.0,"Comedy,Drama,Sport","Mar 18, 2016",3500000,615816,615816,1231632,-2268368,"['male full frontal nudity', 'home movie', 'trampoline', 'gymnast', 'olympics']"
+tt8680254,Richard III,,Drama,"Dec 29, 1995",9200000,2684904,4199334,6884238,-2315762,['stage']
+tt2076384,Freeway,90.0,Drama,"Aug 23, 1996",3000000,295493,295493,590986,-2409014,"['car tuning', 'police officer', 'suicide', 'hospital', 'bowling']"
+tt1839642,The Face of Love,92.0,"Drama,Mystery,Romance","Mar 7, 2014",4000000,385069,1158877,1543946,-2456054,"['husband wife relationship', 'dead husband', 'lookalike', 'memory', 'beach']"
+tt4453750,Before We Go,84.0,"Documentary,Drama,News","Sep 4, 2015",3000000,37151,483938,521089,-2478911,[None]
+tt1244659,Extraordinary Measures,106.0,Drama,"Jan 22, 2010",31000000,12482741,15826984,28309725,-2690275,"['handicapped child', 'disease', 'race against time', 'cure', 'imagination']"
+tt3454828,The Gospel of John,160.0,Drama,"Sep 26, 2003",11000000,4068087,4234355,8302442,-2697558,"['jesus christ', 'john the apostle']"
+tt1282046,Fort McCoy,100.0,"Drama,History,War","Aug 15, 2014",3000000,78948,78948,157896,-2842104,['f rated']
+tt1509803,Griff the Invisible,90.0,"Comedy,Drama,Romance","Aug 19, 2011",2900000,20778,25935,46713,-2853287,"['character name as title', 'nickname as title', 'forename in title', 'three word title', 'barefoot male']"
+tt1922679,Open Road,85.0,"Action,Drama,Thriller","May 21, 2013",3000000,0,47469,47469,-2952531,"['abandoned by father', 'searching for father', 'brazilian abroad', 'artist', 'car trouble']"
+tt1719071,Another Happy Day,119.0,"Comedy,Drama","Nov 18, 2011",4000000,9120,978527,987647,-3012353,"['multi generational', 'female stockinged legs', 'grey pantyhose', 'pantyhose', 'male objectification']"
+tt1002563,The Young Messiah,111.0,"Drama,Fantasy","Mar 11, 2016",16800000,6469813,7313697,13783510,-3016490,"['israel', 'jesus christ character', '1st century', 'messiah', 'based on novel']"
+tt2893490,Manglehorn,97.0,Drama,"Jun 19, 2015",4000000,132270,797439,929709,-3070291,"['character name as title', 'bank clerk', 'father son relationship', 'swallowing a key', 'earthquake']"
+tt1976009,Victor Frankenstein,110.0,"Drama,Horror,Sci-Fi","Nov 25, 2015",40000000,5775076,31124367,36899443,-3100557,"[""frankenstein's monster"", 'scientist', 'victorian era', 'gothic horror', 'based on novel']"
+tt1748179,Red Lights,114.0,"Drama,Fantasy,Horror","Jul 13, 2012",17700000,49521,14518884,14568405,-3131595,"['psychic', 'revelation', 'obsession', 'younger version of character', 'road trip']"
+tt4898888,Anna,110.0,Drama,"Jun 6, 2014",4357373,0,1200000,1200000,-3157373,"['surrealism', 'falling from height', 'rooftop', 'false accusation of theft', 'false accusation']"
+tt1425922,Black Nativity,93.0,"Drama,Family,Music","Nov 27, 2013",17500000,7018188,7285135,14303323,-3196677,"['christmas', 'nativity', 'f rated', 'color in title', 'based on the bible']"
+tt2403393,Desert Dancer,104.0,"Biography,Drama,Music","Apr 10, 2015",4000000,155271,596335,751606,-3248394,"['tehran iran', 'man beaten', 'flashback', 'repressed culture', 'basij']"
+tt9000062,Maggie,88.0,Drama,"May 8, 2015",4500000,187112,1027760,1214872,-3285128,[None]
+tt1464580,Stake Land,98.0,"Drama,Horror,Sci-Fi","Apr 22, 2011",4000000,33245,679482,712727,-3287273,"['post apocalypse', 'vampire', 'vampire hunter', 'survival', 'religious fanaticism']"
+tt2800038,Atlas Shrugged: Who Is John Galt?,99.0,"Drama,Mystery,Sci-Fi","Sep 12, 2014",5000000,851690,851690,1703380,-3296620,"['individual versus society', 'businesswoman', 'freedom', 'individual rights', 'female protagonist']"
+tt9073702,August,72.0,Drama,"Jul 11, 2008",3400000,12636,12636,25272,-3374728,[None]
+tt0999913,Straw Dogs,110.0,"Action,Drama,Thriller","Sep 16, 2011",25000000,10324441,11253821,21578262,-3421738,"['rape', 'sexual humiliation', 'rape victim', 'gang rape', 'panties pulled down']"
+tt2739338,The Christmas Candle,100.0,"Drama,Family","Nov 15, 2013",7000000,1632000,1933829,3565829,-3434171,"['candle', 'village', 'christmas', 'miracle', 'angel']"
+tt2866774,Romeo Is Bleeding,93.0,"Biography,Documentary,Drama","Feb 4, 1994",10000000,3275585,3275585,6551170,-3448830,['artist']
+tt1441395,Under the Skin,108.0,"Drama,Horror,Sci-Fi","Apr 4, 2014",13300000,2614251,7229933,9844184,-3455816,"['female nudity', 'alien', 'desire', 'human prey', 'femme fatale']"
+tt6107548,Late Night,102.0,"Comedy,Drama","Jun 7, 2019",4000000,246305,246305,492610,-3507390,"['f rated', 'fictional television talk show host', 'television writer', 'fictional tv show', 'fictional late night tv show']"
+tt2388637,Ain't Them Bodies Saints,96.0,"Crime,Drama,Romance","Aug 16, 2013",5000000,391611,1075009,1466620,-3533380,"['taking the blame for someone else', 'storytelling', 'directorial debut', 'fugitive', 'outlaw couple']"
+tt8706988,The Messenger,100.0,"Drama,Thriller,War","Nov 13, 2009",6500000,1109660,1744952,2854612,-3645388,['occupation']
+tt3182596,Factory Girl,90.0,"Drama,Romance","Feb 2, 2007",7000000,1661464,1661464,3322928,-3677072,[None]
+tt2752688,Rosewater,103.0,"Biography,Drama","Nov 14, 2014",10000000,3128941,3185717,6314658,-3685342,"['prison', 'journalism', 'hijab', 'reference to mahmoud ahmedinejad', 'based on true story']"
+tt1529572,Trust,106.0,"Crime,Drama,Thriller","Apr 1, 2011",4000000,120016,120016,240032,-3759968,"['lying about age', 'internet chat', 'father daughter relationship', 'teenager', 'internet grooming']"
+tt7137380,Destroyer,121.0,"Action,Crime,Drama","Dec 25, 2018",9000000,1533324,3681096,5214420,-3785580,"['female police detective', 'undercover cop', 'bank robbery', 'revenge', 'title directed by female']"
+tt2751576,Out of the Blue,108.0,"Comedy,Drama","Oct 19, 2007",4600000,728,731767,732495,-3867505,['party']
+tt5492502,Cargo,91.0,Drama,"Oct 21, 2011",4200000,0,313230,313230,-3886770,"['fishing boat', 'brother brother relationship', 'gay', 'refugee']"
+tt1585997,Severance,,"Drama,Sci-Fi","May 18, 2007",10000000,137221,5950002,6087223,-3912777,"['taxi', 'office', 'double identity', 'city', 'apartment']"
+tt1599354,Sonny,90.0,Drama,"Dec 27, 2002",4000000,17639,17639,35278,-3964722,['title directed by female']
+tt1844203,Inescapable,93.0,"Action,Drama,Mystery","Feb 22, 2013",4000000,4327,4327,8654,-3991346,"['title directed by female', 'title written by female', 'year 2011', 'f rated']"
+tt1726669,Killer Joe,102.0,"Crime,Drama,Thriller","Jul 27, 2012",10000000,1291645,4659110,5950755,-4049245,"['lingerie', 'female pubic hair', 'bra and panties', 'female nudity', 'psychopath']"
+tt4537086,Bait,49.0,"Drama,Thriller","Sep 15, 2000",35000000,15325127,15471969,30797096,-4202904,[None]
+tt2345737,The Rover,103.0,"Action,Crime,Drama","Jun 13, 2014",8500000,1109199,3180252,4289451,-4210549,"['australia', 'brother brother relationship', 'money', 'post apocalypse', 'road trip']"
+tt1667310,Deadfall,95.0,"Crime,Drama,Thriller","Dec 7, 2012",6000000,66351,1673635,1739986,-4260014,"['snowmobile chase', 'snowmobile jump', 'snowmobile', 'motel', 'snowman']"
+tt8602886,Sunshine,,Drama,"Jul 20, 2007",40000000,3688560,32030610,35719170,-4280830,[None]
+tt1212428,The Lost City of Z,141.0,"Adventure,Biography,Drama","Apr 14, 2017",30000000,8574339,17121823,25696162,-4303838,"['jungle', 'amazonia', 'based on true story', 'based on book', 'explorer']"
+tt1620935,Bleed for This,117.0,"Biography,Drama,Sport","Nov 18, 2016",16000000,5083906,6603926,11687832,-4312168,"['comeback', 'broken neck', 'boxing', 'male objectification', 'rhode island']"
+tt1226837,Beautiful Boy,120.0,"Biography,Drama","Oct 12, 2018",25000000,7634767,13031424,20666191,-4333809,"['drug addict', 'addiction', 'based on memoir', 'father son relationship', 'mother son relationship']"
+tt1798243,Rudderless,105.0,"Comedy,Drama,Music","Oct 17, 2014",5000000,56001,567219,623220,-4376780,"['intergenerational friendship', 'school shooting', 'loss of child', 'loss of a son', 'loss of a child']"
+tt5340300,Lean on Pete,121.0,"Adventure,Drama","Apr 6, 2018",8000000,1163056,2455027,3618083,-4381917,"['teenage boy', 'based on novel', 'horse racing', 'hospital', 'single father']"
+tt1491044,The Iceman,106.0,"Biography,Crime,Drama","May 3, 2013",10000000,1930282,3623609,5553891,-4446109,"['serial murderer', 'based on true story', 'contract killer', 'murder of a girl', 'crime family']"
+tt0810922,Take Me Home Tonight,97.0,"Comedy,Drama,Romance","Mar 4, 2011",19000000,6928068,7576604,14504672,-4495328,"['sex scene', 'brother sister relationship', ""reference to guns n' roses"", 'black comedy', 'white boy raps']"
+tt2402105,Dom Hemingway,93.0,"Comedy,Crime,Drama","Apr 2, 2014",7000000,523511,1857458,2380969,-4619031,"['male frontal nudity', 'hairy chested male', 'sex scene', 'male nudity', 'nudity']"
+tt2298738,Miss Julie,85.0,"Drama,Romance","May 5, 2015",5500000,0,863895,863895,-4636105,"['eastern europe', 'based on play']"
+tt1658801,Freeheld,103.0,"Biography,Drama,Romance","Oct 2, 2015",7000000,546201,1732228,2278429,-4721571,"['lesbian kiss', 'gay bar', 'partner', 'cancer', 'public hearing']"
+tt2095649,Grace of Monaco,103.0,"Biography,Drama,Romance","Dec 1, 2015",30000000,0,25199891,25199891,-4800109,"['monaco', '1960s', 'betrayal', 'charles de gaulle character', 'alfred hitchcock character']"
+tt1274586,Dying of the Light,94.0,"Drama,Thriller","Dec 5, 2014",5000000,0,74639,74639,-4925361,"['islamic communism', 'cigarette smoking', 'bucharest romania', 'winter', 'doctor']"
+tt1555814,Grace,98.0,"Crime,Drama,Horror","Aug 14, 2009",5000000,8297,8297,16594,-4983406,"['pedophile', 'death penalty', 'psycho', 'boogeyman', 'hannibal lecter']"
+tt8136112,Restless,53.0,Drama,"Sep 16, 2011",8000000,163753,2772511,2936264,-5063736,[None]
+tt1130964,The 5th Quarter,90.0,"Biography,Drama,Sport","Mar 25, 2011",6000000,408159,408159,816318,-5183682,"['year 2006', 'gym', 'athletic training', 'football practice', 'man crying']"
+tt1164999,Biutiful,148.0,"Drama,Romance","Jan 28, 2011",35000000,5101237,24687524,29788761,-5211239,"['male ponytail', 'babysitter', 'marriage', 'illness', 'washing hands']"
+tt3974782,Othello,100.0,Drama,"Dec 14, 1995",11000000,2844379,2844379,5688758,-5311242,"['deception', 'revenge', 'shakespearean']"
+tt2398231,The Homesman,122.0,"Drama,Western","Nov 14, 2014",16000000,2429989,8217571,10647560,-5352440,"['suicide by hanging', 'suicide', 'driven insane', 'abusive marriage', 'hanging']"
+tt2937898,A Most Violent Year,125.0,"Crime,Drama,Thriller","Dec 31, 2014",20000000,5749134,8846875,14596009,-5403991,"['new york city', 'american dream', 'oil', 'year 1981', 'immigrant']"
+tt1251743,Salvation Boulevard,96.0,"Action,Comedy,Drama","Jul 15, 2011",5500000,28468,28468,56936,-5443064,"['handcuffed man', 'rear end collision', 'burglar alarm', 'artist', 'scene during opening credits']"
+tt2914838,R100,99.0,"Comedy,Drama","Jan 23, 2015",5500000,24956,24956,49912,-5450088,"['dominatrix', 'bare chested male bondage', 'black pantyhose', 'nylons', 'pantyhose']"
+tt2182972,Song One,86.0,"Drama,Music","Jan 23, 2015",6000000,32251,437089,469340,-5530660,"['musician', 'recording', 'sibling']"
+tt1418646,Beneath Hill 60,122.0,"Drama,History,War","Jun 17, 2014",9000000,0,3440939,3440939,-5559061,"['trench warfare', 'british military', 'world war one', 'year 1916', '1910s']"
+tt3922818,The Space Between Us,120.0,"Adventure,Drama,Romance","Feb 3, 2017",30000000,7885294,16481405,24366699,-5633301,"['astronaut', 'futuristic', 'space mission', 'nasa', 'high school student']"
+tt1629757,Chasing Mavericks,116.0,"Biography,Drama,Sport","Oct 26, 2012",20000000,6002756,8300821,14303577,-5696423,"['bare chested male', 'surfing', 'surfboard', 'notebook', 'letter']"
+tt1772408,Trade of Innocents,88.0,"Drama,Thriller","Oct 5, 2012",5800000,15091,15091,30182,-5769818,"['human trafficking', 'tween girl', 'angkor wat', 'sex tourism', 'sex slavery']"
+tt3429692,Lake of Fire,,"Drama,Family,Romance","Oct 3, 2007",6000000,25317,26007,51324,-5948676,[None]
+tt1124037,Free State of Jones,139.0,"Action,Biography,Drama","Jun 24, 2016",50000000,20810036,23237252,44047288,-5952712,"['civil war', 'american civil war', 'election fraud', 'interracial marriage', 'based on true story']"
+tt1742334,Sabotage,109.0,"Action,Crime,Drama","Mar 28, 2014",35000000,10508518,18376443,28884961,-6115039,"['strip club', 'topless female nudity', 'stripper', 'tough girl', 'kicked in the crotch']"
+tt1403177,Hesher,106.0,"Comedy,Crime,Drama","May 13, 2011",7000000,382946,382946,765892,-6234108,"['bully', 'vomiting', 'funeral', 'male in underwear', 'long haired male']"
+tt6072228,Willard,,Drama,"Mar 14, 2003",20000000,6882696,6882696,13765392,-6234608,[None]
+tt2027265,A Better Life,110.0,Drama,"Jun 24, 2011",10000000,1759252,1884251,3643503,-6356497,"['prison', 'restaurant', 'debt', 'hit in the face', 'stealing money']"
+tt6594436,The Immigrant,65.0,Drama,"May 16, 2014",16000000,2013456,7585011,9598467,-6401533,[None]
+tt1414378,Tracker,102.0,"Action,Adventure,Drama","Dec 31, 2011",6500000,0,3149,3149,-6496851,"['new zealand', 'veteran', 'tracker', 'murderer', 'most dangerous game']"
+tt2631186,Baahubali: The Beginning,159.0,"Action,Drama","Jul 10, 2015",40000000,6738000,26736665,33474665,-6525335,"['india', 'kingdom', 'dual role', 'hindu', 'good versus evil']"
+tt7374952,El Chicano,108.0,Drama,"May 3, 2019",8000000,700261,700261,1400522,-6599478,"['hood', 'superhero']"
+tt2649554,Midnight Special,112.0,"Action,Drama,Mystery","Mar 18, 2016",18000000,3712282,7680250,11392532,-6607468,"['on the run', 'father son relationship', 'woods', 'texas', 'goggles']"
+tt3687310,Criminal Activities,94.0,"Crime,Drama,Thriller","Nov 20, 2015",7000000,0,386744,386744,-6613256,"['cleveland ohio', 'set up', 'revenge', 'bully', 'army buddy']"
+tt4540710,Miss Sloane,132.0,"Drama,Thriller","Nov 25, 2016",18000000,3500605,7719630,11220235,-6779765,"['consultant', 'lawyer', 'pills', 'lobbyist', 'congressional hearing']"
+tt4412528,Two Lovers and a Bear,96.0,"Adventure,Drama,Romance","Jan 31, 2017",6840000,0,22273,22273,-6817727,"['arctic', 'snow', 'blizzard', 'polar bear', 'snowmobile']"
+tt2379653,3,115.0,"Comedy,Drama","Sep 16, 2011",7200000,59774,295492,355266,-6844734,"['sex scene', 'topless female nudity', 'female nudity']"
+tt1020558,Centurion,97.0,"Action,Adventure,Drama","Aug 27, 2010",15000000,123570,7885048,8008618,-6991382,"['roman soldier', 'legion', 'general', 'sole survivor', 'britain']"
+tt9151404,Coriolanus,,Drama,"Jan 20, 2012",10000000,749641,2179623,2929264,-7070736,['hero']
+tt1815799,Beloved,133.0,"Drama,Musical,Romance","Oct 16, 1998",53000000,22852487,22852487,45704974,-7295026,"['september 11 2001', 'male nudity', 'threesome', 'bisexual', 'homosexual']"
+tt2147225,Black November,95.0,"Action,Crime,Drama","Jan 9, 2015",7500000,0,32572,32572,-7467428,"['two word title', 'color in title']"
+tt4519438,The Merchant of Venice,,Drama,"Dec 29, 2004",30000000,3765585,18765585,22531170,-7468830,"['sephardic', 'merchant of venice', 'shakespearian actor']"
+tt2923316,American Heist,94.0,"Action,Crime,Drama","Jul 21, 2015",10000000,0,2341218,2341218,-7658782,"['prison', 'bank', 'mechanic', 'heist', 'child in peril']"
+tt2494384,Aloft,112.0,Drama,"May 22, 2015",8000000,53086,237688,290774,-7709226,"['troubled marriage', 'arctic', 'falcon', 'dysfunctional family', 'canada']"
+tt2345112,Parkland,93.0,"Drama,History,Mystery","Oct 4, 2013",10000000,641439,1616353,2257792,-7742208,"['john f. kennedy assassination', 'secret service', 'assassination', 'motorcade', 'year 1963']"
+tt1496422,The Paperboy,107.0,"Crime,Drama,Mystery","Oct 5, 2012",12500000,677200,4027663,4704863,-7795137,"['male nudity', 'florida', 'paperboy', 'reporter', 'swimsuit']"
+tt1777595,50 to 1,110.0,Drama,"Mar 21, 2014",10000000,1069454,1069454,2138908,-7861092,"['horse movie', 'horse racing', 'racehorse', 'horserace', 'winning']"
+tt6243140,Ravenous,104.0,"Drama,Horror,Sci-Fi","Mar 19, 1999",12000000,2062406,2062406,4124812,-7875188,"['quebec canada', 'small town', 'rural', 'apocalypse', 'survivor']"
+tt0817177,Flipped,90.0,"Comedy,Drama,Romance","Aug 6, 2010",14000000,1755212,4289993,6045205,-7954795,"['multiple perspectives', 'falling in love', 'narrated by a girl', 'teenage love', 'bachelor auction']"
+tt2112277,Swelter,96.0,"Action,Crime,Drama","Aug 12, 2014",8000000,0,44197,44197,-7955803,"['neo western', 'neo noir', 'gangster', 'police shootout', 'police officer killed']"
+tt5700962,Akira,134.0,"Drama,Romance","Apr 27, 2001",8000000,19585,19585,39170,-7960830,['love']
+tt1319716,It's a Wonderful Afterlife,100.0,"Comedy,Drama,Fantasy","Oct 8, 2010",10000000,0,1642939,1642939,-8357061,"['murder', 'indian', 'police', 'f rated', 'overweight woman']"
+tt6925204,Genius,,Drama,"Jun 10, 2016",17000000,1361045,7265283,8626328,-8373672,[None]
+tt3658772,Misconduct,106.0,"Crime,Drama,Mystery","Feb 5, 2016",11000000,0,2352511,2352511,-8647489,"['pharmaceutical company', 'photo', 'girlfriend', 'ex boyfriend', 'kidnapping']"
+tt1376195,Gunless,89.0,"Action,Comedy,Drama","Apr 30, 2010",9900000,458054,458054,916108,-8983892,"['gunslinger', 'duel', 'wild west', 'bounty hunter', 'blacksmith']"
+tt2364897,The Disappointments Room,85.0,"Drama,Horror,Thriller","Sep 9, 2016",15000000,2423467,3503761,5927228,-9072772,"['cat', 'blood', 'pulled from theater', 'supernatural serial murderer', 'attic']"
+tt0954947,The Killer Inside Me,109.0,"Crime,Drama,Horror","Jun 18, 2010",13000000,217277,3617277,3834554,-9165446,"['bare butt', 'brief female frontal nudity', 'neo noir', 'nude photograph', 'female rear nudity']"
+tt6208138,Motherhood,74.0,"Drama,Romance","Oct 23, 2009",10000000,93388,723388,816776,-9183224,['cheating']
+tt3059814,Redemption,115.0,"Drama,Music,Thriller","Jun 28, 2013",23000000,36686,13593473,13630159,-9369841,[None]
+tt1183923,Welcome to the Rileys,110.0,Drama,"Oct 29, 2010",10000000,152857,355919,508776,-9491224,"['girl wears panties', 'crying man', 'man refuses sex', 'stripper', 'prostitute']"
+tt7201846,Edmond,110.0,"Comedy,Drama,History","Jul 14, 2006",10000000,131719,241719,373438,-9626562,"['one word title', 'based on real person', 'forename as title', 'year 1895', 'voice over']"
+tt2553908,"Cinco de Mayo, La Batalla",125.0,"Drama,History,War","May 3, 2013",10000000,173472,173472,346944,-9653056,['legend']
+tt4254584,Kicks,80.0,"Adventure,Drama","Sep 9, 2016",10000000,150191,150191,300382,-9699618,"['drugs', 'smoking weed', 'cigarette smoking', 'one word title', 'shooting']"
+tt2113659,Elsa & Fred,93.0,"Comedy,Drama,Romance","Nov 7, 2014",10000000,67657,197901,265558,-9734442,"['elderly man', 'elderly woman', 'american remake', 'american remake of spanish film', 'american remake of argentinian film']"
+tt1210039,Blood Done Sign My Name,128.0,Drama,"Feb 19, 2010",10000000,109383,109383,218766,-9781234,"['murder', 'based on autobiography', 'racism', 'based on novel', 'based on true story']"
+tt2325977,Strangerland,112.0,"Drama,Mystery,Thriller","Jul 10, 2015",10000000,17472,161097,178569,-9821431,"['australia', 'calling someone a pain in the ass', 'pharmacist', 'drugstore', 'tattoo']"
+tt1730687,Darling Companion,103.0,"Comedy,Drama,Romance","Apr 20, 2012",12000000,793352,1200346,1993698,-10006302,"['woman wears eyeglasses', 'usa', 'united states', 'dog', 'search']"
+tt7097350,Kiss of Death,124.0,"Comedy,Drama","Apr 21, 1995",40000000,14942422,14942422,29884844,-10115156,[None]
+tt1781827,Hands of Stone,111.0,"Action,Biography,Drama","Aug 26, 2016",20000000,4712792,5031975,9744767,-10255233,"['rematch', '1980s', 'boxing', 'sex scene', 'fight']"
+tt7905148,Trade,113.0,Drama,"Sep 28, 2007",12000000,214202,1513388,1727590,-10272410,"['transgender', 'love', 'mansion party', 'train', 'attorney']"
+tt0376136,The Rum Diary,119.0,"Comedy,Drama","Oct 28, 2011",45000000,13109815,21544732,34654547,-10345453,"['based on novel', 'journalist', 'puerto rico', 'san juan puerto rico', 'newspaper']"
+tt5815346,Zoom,158.0,"Comedy,Drama,Romance","Aug 11, 2006",35000000,11989328,12506188,24495516,-10504484,['love']
+tt1233192,Brighton Rock,111.0,"Crime,Drama,Thriller","Aug 26, 2011",11000000,229653,229653,459306,-10540694,"['prayer', 'spiv', 'waitress', 'gang', 'brighton']"
+tt2497618,The Hoax,77.0,"Crime,Documentary,Drama","Apr 6, 2007",25000000,7164995,7164995,14329990,-10670010,['homeowner association']
+tt6922090,The Claim,,Drama,"Dec 29, 2000",13000000,622023,1375635,1997658,-11002342,[None]
+tt1588358,Brother,97.0,"Drama,Family,Sport","Jul 20, 2001",12000000,450594,450594,901188,-11098812,"['football', 'dream', 'slum', 'tryout', 'opportunity']"
+tt1355631,The Infiltrator,127.0,"Biography,Crime,Drama","Jul 13, 2016",47500000,15436808,20718104,36154912,-11345088,"['undercover agent', 'money laundering', 'corruption', 'drug cartel', 'based on true story']"
+tt1440161,A Little Bit of Heaven,106.0,"Comedy,Drama,Fantasy","May 4, 2012",12500000,10011,1100287,1110298,-11389702,"['depiction of god', 'afterlife', 'cool', 'mexican actor playing american character', 'happiness']"
+tt2097826,Bathory,88.0,Drama,"Dec 31, 2008",15000000,0,3436763,3436763,-11563237,['death']
+tt1270262,The Devil's Double,109.0,"Biography,Drama,Thriller","Jul 29, 2011",19100000,1361512,5965646,7327158,-11772842,"['debauchery', 'rape', 'psychopath', 'nudity', 'stripping']"
+tt1486193,5 Days of War,113.0,"Action,Drama,War","Aug 19, 2011",12000000,17479,87793,105272,-11894728,"['cameraman', '21st century', 'year 2007', 'journalist', 'south ossetia']"
+tt3453052,10 Days in a Madhouse,111.0,Drama,"Nov 11, 2015",12000000,14616,14616,29232,-11970768,"['abuse', 'physical cruelty', 'mental cruelty', 'rape', 'beatings']"
+tt2515030,Escobar: Paradise Lost,120.0,"Crime,Drama,History","Jun 26, 2015",17000000,195792,3917679,4113471,-12886529,"['pablo escobar', 'tragic ending', 'drug lord', 'colombia', 'dream']"
+tt0466893,Margaret,150.0,Drama,"Sep 30, 2011",14000000,47185,623292,670477,-13329523,"['psychological drama', 'jewish woman', 'bus', 'loss of virginity', 'accident investigation']"
+tt2086799,Amen,72.0,Drama,"Jan 24, 2003",14000000,274299,274299,548598,-13451402,['girl']
+tt4554426,The Lucky Ones,45.0,"Drama,Thriller","Sep 26, 2008",14000000,266967,266967,533934,-13466066,['fighting']
+tt2005374,The Frozen Ground,105.0,"Crime,Drama,Mystery","Aug 23, 2013",19200000,0,5617460,5617460,-13582540,"['based on true story', 'serial killer', 'alaska', 'strip club', 'homicide detective']"
+tt1423894,Barney's Version,134.0,"Comedy,Drama","Jan 14, 2011",30000000,7502560,8845575,16348135,-13651865,"['actress', 'moaning', 'topless', 'female nudity', 'nudity']"
+tt1535612,The Son of No One,90.0,"Action,Crime,Drama","Nov 4, 2011",15000000,30680,1148578,1179258,-13820742,"['man wears eyeglasses', 'letter', 'murder', 'housing project', 'subjective camera']"
+tt2032557,The Reluctant Fundamentalist,130.0,"Drama,Thriller","Apr 26, 2013",15000000,528731,528731,1057462,-13942538,"['istanbul turkey', 'title directed by female', 'nipples visible through clothing', 'male nudity', 'hairy chest']"
+tt2249221,Zulu,110.0,"Crime,Drama,Thriller","Dec 31, 2013",16000000,0,1844228,1844228,-14155772,"['police officer', 'cape town south africa', 'male rear nudity', 'bare chested male', 'nude woman murdered']"
+tt2233624,Kin,45.0,"Drama,Music","Aug 31, 2018",30000000,5718096,10096821,15814917,-14185083,"['creature', 'desert', 'sea', 'experimental film', 'one word title']"
+tt10397306,Madison,,"Adventure,Drama,Family","Apr 22, 2005",15500000,517262,517262,1034524,-14465476,"['father daughter relationship', 'track cycling', 'child athlete', 'father daughter conflict', 'erfurt germany']"
+tt4411618,In Dubious Battle,110.0,Drama,"Feb 17, 2017",15000000,0,214182,214182,-14785818,"['period drama', 'period piece', 'historical drama', 'costume drama', 'communist']"
+tt1551641,Winnie Mandela,104.0,"Biography,Drama,History","Sep 6, 2013",15000000,61847,61847,123694,-14876306,"['character name as title', 'forename as title', 'winnie mandela character', 'nelson mandela character', 'south africa']"
+tt5647250,On the Road,121.0,Drama,"Mar 22, 2013",25000000,720828,9313302,10034130,-14965870,"['male objectification', 'bare chested male', 'tour', 'hairy chest', 'post coital scene']"
+tt1321860,The Beaver,91.0,Drama,"May 6, 2011",21000000,970816,5046038,6016854,-14983146,"['depression', 'suicidal', 'hospital', 'marriage problems', 'marriage']"
+tt2503954,Broken Horses,101.0,"Action,Crime,Drama","Sep 1, 2015",15000000,0,3471,3471,-14996529,"['neo western', 'contemporary western']"
+tt4778988,LBJ,98.0,"Biography,Drama,History","Nov 3, 2017",20000000,2468683,2507181,4975864,-15024136,"['lyndon b. johnson character', 'robert f. kennedy character', 'john f. kennedy character', 'john f. kennedy assassination', 'acronym in title']"
+tt3719896,My All-American,118.0,"Biography,Drama,Sport","Nov 13, 2015",20000000,2246000,2246000,4492000,-15508000,"['bare chested male', 'high school sweethearts', 'football movie', 'football team', 'american football']"
+tt4057758,Renaissance,,"Drama,Romance,Sci-Fi","Sep 22, 2006",18000000,70644,2401413,2472057,-15527943,"['clone', 'mirror', 'looking at oneself in a mirror', 'sex', 'storytelling']"
+tt8282116,Silence,90.0,Drama,"Dec 23, 2016",46500000,7100177,23726626,30826803,-15673197,"['rape', 'sexual assault', 'survivor', 'obstacles overcome']"
+tt4301034,By the Sea,80.0,Drama,"Nov 13, 2015",20000000,538460,3727746,4266206,-15733794,"['pedophile', 'killed during sex', 'corrupt policeman', 'poverty', 'misery']"
+tt0491203,Tulip Fever,105.0,"Drama,History,Romance","Sep 1, 2017",25000000,2455635,6792768,9248403,-15751597,"['painter', 'marriage', 'thief', 'drunkenness', 'prostitute']"
+tt3088580,Phantom,76.0,Drama,"Mar 1, 2013",18000000,1034589,1199510,2234099,-15765901,"['experimental', 'low budget film', 'two hander', 'minimal cast', 'storytelling']"
+tt2156825,Stone,90.0,"Crime,Drama,Thriller","Oct 8, 2010",22000000,1810078,4065020,5875098,-16124902,"['boy', 'pistol', 'bullet', 'kidnapping', 'assassin']"
+tt1413495,Paranoia,106.0,"Drama,Thriller","Aug 16, 2013",40000000,7388654,16340767,23729421,-16270579,"['spying', 'thumbprint', 'traffic', 'man wears a swimsuit', 'man wrapped in a towel']"
+tt1837703,The Fifth Estate,128.0,"Biography,Drama,Thriller","Oct 18, 2013",26000000,3254172,6154172,9408344,-16591656,"['internet', 'pantyhose', 'red pantyhose', 'female stockinged legs', 'female stockinged feet']"
+tt4782052,The Salton Sea,87.0,"Crime,Drama,Mystery","Apr 26, 2002",18000000,676698,676698,1353396,-16646604,['f rated']
+tt2720826,Birth of the Dragon,95.0,"Action,Biography,Drama","Aug 25, 2017",31000000,6901965,7220490,14122455,-16877545,"['bruce lee character', 'bruceploitation', 'four word title', 'animal in title']"
+tt3212232,I Am Wrath,92.0,"Action,Crime,Drama","Apr 15, 2016",18000000,0,309608,309608,-17690392,"['shooting a surveillance camera', 'flag draped coffin', 'newscast', 'lighting a cigarette', 'police line up']"
+tt8653840,Flawless,97.0,Drama,"Nov 24, 1999",27000000,4485485,4485485,8970970,-18029030,"['coming of age', 'high school', 'fashion', 'lgbt', 'female writer']"
+tt1175709,All Good Things,101.0,"Crime,Drama,Mystery","Dec 3, 2010",20000000,582024,873617,1455641,-18544359,"['murder', 'home movie footage', 'murder investigation', 'double life', 'sex scene']"
+tt2980210,A Hologram for the King,98.0,"Comedy,Drama,Romance","Apr 22, 2016",35000000,4212494,11846010,16058504,-18941496,"['backhoe', 'male in a shower', 'skin diving', 'overhead camera shot', 'cell phone']"
+tt3840898,The Tempest,169.0,"Comedy,Drama","Dec 10, 2010",20000000,277943,277943,555886,-19444114,"['magic', 'monster', 'spirit', 'magician', 'enchanter']"
+tt0443533,The History of Love,134.0,"Drama,Romance,War","Nov 18, 2016",20000000,0,476624,476624,-19523376,"['photograph', 'googling for information', 'google search', 'reference to google', 'reference to facebook']"
+tt1233301,Ironclad,121.0,"Action,Adventure,Drama","Jul 8, 2011",25000000,0,5297411,5297411,-19702589,"['13th century', 'england', 'knight', 'castle', 'king']"
+tt2140037,Jane Got a Gun,98.0,"Action,Drama,Western","Jan 29, 2016",25000000,1513793,3771345,5285138,-19714862,"['gun store', 'female fighter', 'quick draw', 'gunfight', 'revenge motive']"
+tt5932728,The Professor and the Madman,124.0,"Biography,Drama,Mystery","May 10, 2019",25000000,0,5227233,5227233,-19772767,"['winston churchill character', 'lexicographer', 'oxford english dictionary', 'courtroom sketch', 'opening action scene']"
+tt3182620,Bitter Harvest,103.0,"Drama,Romance,War","Feb 24, 2017",21000000,557241,606162,1163403,-19836597,"['ukraine', 'famine', 'holodomor', 'genocide', 'soviet']"
+tt2425486,Gloria,110.0,"Comedy,Drama,Romance","Jan 22, 1999",30000000,4167493,4967493,9134986,-20865014,"['female nudity', 'male frontal nudity', 'female frontal nudity', 'nudity', 'penis']"
+tt3289724,Welcome to Marwen,116.0,"Biography,Comedy,Drama","Dec 21, 2018",45000000,10763520,12874922,23638442,-21361558,"['shoe fetish', 'tea pot collection', 'shoe collection', 'female amputee', 'fictional town']"
+tt1961665,Where the Truth Lies,,Drama,"Oct 14, 2005",25000000,872142,1415656,2287798,-22712202,['school']
+tt1125929,Love Ranch,117.0,"Biography,Comedy,Drama","Jun 30, 2010",25000000,137885,146149,284034,-24715966,"['female full frontal nudity', 'ex convict', 'woman wears a bikini', 'woman wears lingerie', 'blowjob']"
+tt1836838,Red Sky,,"Drama,Romance","Mar 10, 2015",25000000,0,91116,91116,-24908884,"['friendship', 'sex scene', 'infidelity', 'female nudity', 'cheating girlfriend']"
+tt1075747,Jonah Hex,81.0,"Action,Drama,Fantasy","Jun 18, 2010",47000000,10547117,11022696,21569813,-25430187,"['ulysses s. grant character', 'apache', 'apache indian', 'kiowa', 'jonah hex character']"
+tt2231253,Wild Card,92.0,"Action,Crime,Drama","Jan 30, 2015",30000000,3200,4315789,4318989,-25681011,"['female frontal nudity', 'female nudity', 'gang rape', 'penis cut', 'brutality']"
+tt4700594,The Scarlet Letter,111.0,"Drama,History","Oct 13, 1995",50000000,10359006,10359006,20718012,-29281988,[None]
+tt2814362,United Passions,110.0,"Drama,History,Sport","Jun 5, 2015",30000000,918,168832,169750,-29830250,"['fifa', 'world cup', 'football', 'soccer', 'association']"
+tt6163970,Jade,,Drama,"Oct 13, 1995",50000000,9812870,9812870,19625740,-30374260,['death']
+tt1316616,There Be Dragons,122.0,"Biography,Drama,War","May 6, 2011",36000000,1069334,4020990,5090324,-30909676,"['spanish civil war', 'forgiveness', 'communism', 'journalist', 'dying father']"
+tt10378772,Supernova,,Drama,"Jan 14, 2000",60000000,14218868,14816494,29035362,-30964638,['group']
+tt5592256,Turbulence,120.0,"Action,Drama,Thriller","Jan 10, 1997",55000000,11532774,11532774,23065548,-31934452,"['hostage', 'airplane', 'gun', 'suit and tie']"
+tt2361317,Live by Night,129.0,"Action,Crime,Drama","Dec 25, 2016",65000000,10378555,21774432,32152987,-32847013,"['organized crime', 'prohibition', 'love', 'revenge', 'kkk']"
+tt1674784,Trespass,91.0,"Crime,Drama,Thriller","Oct 14, 2011",35000000,16816,786532,803348,-34196652,"['home invasion', 'family in danger', 'betrayal', 'threat to kill', 'dysfunctional family']"
+tt1837636,Queen of the Desert,128.0,"Adventure,Biography,Drama","Apr 14, 2017",36000000,0,1578543,1578543,-34421457,"['englishwoman', 'bedouin', 'world war one', 'arabian desert', 'ottoman empire']"
+tt5424576,Shanghai,120.0,Drama,"Oct 2, 2015",50000000,46425,15505922,15552347,-34447653,[None]
+tt5770620,The Lovers,97.0,"Comedy,Drama,Romance","Mar 13, 2015",35000000,0,53899,53899,-34946101,"['marriage', 'husband wife relationship', 'adultery', 'eyeglasses', 'prologue']"
+tt2392373,Kursk,,Drama,"Jun 21, 2019",40000000,0,4212799,4212799,-35787201,['explosion']
+tt2032572,USS Indianapolis: Men of Courage,128.0,"Action,Drama,History","Nov 11, 2016",40000000,0,1663785,1663785,-38336215,"['disaster film', 'disaster movie', 'uss indianapolis', 'romantic subplot', 'naval uniform']"
+tt1789070,The Last Shot,101.0,"Drama,Family,Sport","Sep 24, 2004",40000000,463730,463730,927460,-39072540,[None]
+tt6111842,Nomad,83.0,Drama,"Mar 16, 2007",40000000,79123,79123,158246,-39841754,['school']
+tt1014763,Child 44,137.0,"Crime,Drama,History","Apr 17, 2015",50000000,1224330,8004221,9228551,-40771449,"['murder of a child', 'totalitarian state', 'totalitarian regime', 'soviet union', 'serial killer']"
+tt4743226,Air Strike,120.0,"Action,Adventure,Drama","Oct 26, 2018",65000000,0,516279,516279,-64483721,"['world war two', 'sino japanese war', 'japanese occupation of china', 'kuomintang', 'chinese history']"
