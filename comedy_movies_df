@@ -1,599 +1,595 @@
-tconst,primary_title,runtime_minutes,genres,release_date,production_budget,domestic_gross,worldwide_gross,total_gross,total_profit,tags
-tt2294629,Frozen,102.0,"Adventure,Animation,Comedy","Nov 22, 2013",150000000,400738009,1272469910,1673207919,1523207919,"['magic', 'snowman', 'sister sister relationship', 'ice', 'snow']"
-tt2293640,Minions,91.0,"Adventure,Animation,Comedy","Jul 10, 2015",74000000,336045770,1160336173,1496381943,1422381943,"['minion', 'invented language', 'one word title', 'villain', 'teddy bear']"
-tt2277860,Finding Dory,97.0,"Adventure,Animation,Comedy","Jun 17, 2016",200000000,486295561,1021215193,1507510754,1307510754,"['father son relationship', 'no opening credits', 'female protagonist', 'talking whale', 'fish']"
-tt0435761,Toy Story 3,103.0,"Adventure,Animation,Comedy","Jun 18, 2010",200000000,415004880,1068879522,1483884402,1283884402,"['toy', 'college', 'escape', 'day care', 'evil teddy bear']"
-tt2283362,Jumanji: Welcome to the Jungle,119.0,"Action,Adventure,Comedy","Dec 20, 2017",90000000,404508916,964496193,1369005109,1279005109,"['woman with a bare midriff', 'sexy legs', 'tattooed trash', 'legs', 'bare midriff']"
-tt1690953,Despicable Me 2,98.0,"Adventure,Animation,Comedy","Jul 3, 2013",76000000,368065385,975216835,1343282220,1267282220,"['minion', 'woman agent', '2010s', '21st century', 'overprotective father']"
-tt3469046,Despicable Me 3,89.0,"Adventure,Animation,Comedy","Jun 30, 2017",75000000,264624300,1034727750,1299352050,1224352050,"['twin brother', 'minion', 'hair', 'twins', 'twin']"
-tt2948356,Zootopia,108.0,"Adventure,Animation,Comedy","Mar 4, 2016",150000000,341268248,1019429616,1360697864,1210697864,"['anthropomorphic animal', 'con artist', 'rabbit', 'police', 'mammal']"
-tt2709768,The Secret Life of Pets,87.0,"Adventure,Animation,Comedy","Jul 8, 2016",75000000,368384330,886750534,1255134864,1180134864,"['rodent', 'animal', 'frog', 'fight', 'betrayal']"
-tt1431045,Deadpool,108.0,"Action,Adventure,Comedy","Feb 12, 2016",58000000,363070709,801025593,1164096302,1106096302,"['breaking the fourth wall', 'anti hero', 'sex scene', 'mercenary', 'revenge']"
-tt5463162,Deadpool 2,119.0,"Action,Adventure,Comedy","May 18, 2018",110000000,324591735,786680557,1111272292,1001272292,"['reference to canada', 'anti hero', 'cleavage', 'japanese girl', 'based on comic book']"
-tt3501632,Thor: Ragnarok,130.0,"Action,Adventure,Comedy","Nov 3, 2017",180000000,315058289,846980024,1162038313,982038313,"['superhero', 'marvel comics', 'marvel cinematic universe', 'female villain', 'sequel']"
-tt1667889,Ice Age: Continental Drift,88.0,"Adventure,Animation,Comedy","Jul 13, 2012",95000000,161321843,879765137,1041086980,946086980,"['pirate', 'iceberg', 'continental drift', 'pirate ship', 'ice age']"
-tt2015381,Guardians of the Galaxy,121.0,"Action,Adventure,Comedy","Aug 1, 2014",170000000,333172112,770867516,1104039628,934039628,"['outer space', 'bounty hunter', 'tree', 'talking animal', 'raccoon']"
-tt2380307,Coco,105.0,"Adventure,Animation,Comedy","Nov 22, 2017",175000000,209726015,798008101,1007734116,832734116,"['afterlife', 'day of the dead', 'mexico', 'musician', 'death']"
-tt0892791,Shrek Forever After,93.0,"Adventure,Animation,Comedy","May 21, 2010",165000000,238736787,756244673,994981460,829981460,"['ogre', 'donkey', 'alternate timeline', 'friend', 'deal']"
-tt3470600,Sing,108.0,"Animation,Comedy,Family","Dec 21, 2016",75000000,270329045,634454789,904783834,829783834,"['singing', 'theatre', 'jukebox musical', 'furry', 'singing contest']"
-tt1277953,Madagascar 3: Europe's Most Wanted,93.0,"Adventure,Animation,Comedy","Jun 8, 2012",145000000,216391482,746921271,963312753,818312753,"['animal', 'circus', 'penguin', 'lemur', 'giraffe']"
-tt1453405,Monsters University,104.0,"Adventure,Animation,Comedy","Jun 21, 2013",200000000,268488329,743588329,1012076658,812076658,"['1980s', 'monster', 'university', 'fraternity', 'cheating']"
-tt1411697,The Hangover Part II,102.0,"Comedy,Mystery","May 26, 2011",80000000,254464305,586464305,840928610,760928610,"['wedding', 'strip club', 'pubic hair', 'hangover', 'bachelor party']"
-tt3521164,Moana,107.0,"Adventure,Animation,Comedy","Nov 23, 2016",150000000,248757044,637517365,886274409,736274409,"['island', 'ocean', 'polynesia', 'polynesian', 'saving the world']"
-tt1323594,Despicable Me,95.0,"Animation,Comedy,Family","Jul 9, 2010",69000000,251513985,543464573,794978558,725978558,"['girl', 'moon', 'white picket fence', 'pyramid', 'minion']"
-tt1637725,Ted,106.0,"Comedy,Fantasy","Jun 29, 2012",50000000,218665740,556016627,774682367,724682367,"['teddy bear', 'animated character', 'gross out comedy', 'absurd comedy', 'buddy comedy']"
-tt3375556,Iron Man,84.0,"Comedy,Drama,Family","May 2, 2008",186000000,318604126,585171547,903775673,717775673,['boy']
-tt1483010,Logan,94.0,"Comedy,Drama,Family","Mar 3, 2017",127000000,226277068,615461394,841738462,714738462,"['teenager', 'tire swing', 'notebook', 'writing a novella', 'reference to santa claus']"
-tt5095030,Ant-Man and the Wasp,118.0,"Action,Adventure,Comedy","Jul 6, 2018",130000000,216648740,623144660,839793400,709793400,"['action heroine', 'car chase', 'truth serum', 'house arrest', 'father daughter relationship']"
-tt6139732,Aladdin,128.0,"Adventure,Comedy,Family","Nov 11, 1992",28000000,217350219,504050219,721400438,693400438,"['hero', 'monkey', 'genie character', 'tiger', 'parrot']"
-tt5220122,Hotel Transylvania 3: Summer Vacation,97.0,"Adventure,Animation,Comedy","Jul 13, 2018",65000000,167500092,527079962,694580054,629580054,"['witch', 'train', 'pet', 'dragon', 'dog']"
-tt1409024,Men in Black 3,106.0,"Action,Adventure,Comedy","May 25, 2012",215000000,179020854,654213485,833234339,618234339,"['escape from prison', 'neil armstrong character', 'alien', 'time travel', 'cape canaveral florida']"
-tt0472181,The Smurfs,103.0,"Adventure,Animation,Comedy","Jul 29, 2011",110000000,142614158,563749323,706363481,596363481,"['based on franco belgian comic book', 'playstation 3', 'no opening credits', 'playstation 3 controller', ""m&m's""]"
-tt0478970,Ant-Man,117.0,"Action,Adventure,Comedy","Jul 17, 2015",130000000,180202163,518858449,699060612,569060612,"['miniaturized man', 'shrinking', 'heist', 'ant', 'sabotage']"
-tt3874544,The Boss Baby,97.0,"Adventure,Animation,Comedy","Mar 31, 2017",125000000,175003033,510878762,685881795,560881795,"['baby', 'puppy', 'cookie', 'puppy love', 'mother son relationship']"
-tt2510894,Hotel Transylvania 2,89.0,"Animation,Comedy,Family","Sep 25, 2015",80000000,169700110,469500298,639200408,559200408,"['hotel', 'vampire', 'party', 'bird', 'dracula']"
-tt3783958,La La Land,128.0,"Comedy,Drama,Music","Dec 9, 2016",20000000,151101803,426351163,577452966,557452966,"['musician', 'los angeles california', 'actress', 'pianist', 'aspiring actress']"
-tt1216475,Cars 2,106.0,"Adventure,Animation,Comedy","Jun 24, 2011",200000000,191450875,560155383,751606258,551606258,"['car race', 'car', 'best friend', 'spy', 'conspiracy']"
-tt1291150,Teenage Mutant Ninja Turtles,101.0,"Action,Adventure,Comedy","Aug 8, 2014",125000000,191204754,485004754,676209508,551209508,"['turtle', 'ninja', 'sewer', 'mutant', '18 wheeler']"
-tt1436562,Rio,96.0,"Adventure,Animation,Comedy","Apr 15, 2011",90000000,143619809,487519809,631139618,541139618,"['brazil', 'bird', 'macaw', 'ornithologist', 'minnesota']"
-tt0398286,Tangled,100.0,"Adventure,Animation,Comedy","Nov 24, 2010",260000000,200821936,586477240,787299176,527299176,"['rapunzel', 'based on fairy tale', 'disney', 'flower', 'heroine']"
-tt1772341,Wreck-It Ralph,101.0,"Adventure,Animation,Comedy","Nov 2, 2012",165000000,189412677,496511521,685924198,520924198,"['villain', 'arcade', 'medal', 'jealousy', 'party']"
-tt1289401,Ghostbusters,116.0,"Action,Comedy,Fantasy","Jun 8, 1984",30000000,242212467,295212467,537424934,507424934,"['vomiting', 'reboot', 'flatulence', 'farting', 'fart joke']"
-tt2357291,Rio 2,101.0,"Adventure,Animation,Comedy","Apr 11, 2014",130000000,131538435,492846291,624384726,494384726,"['father son relationship', 'dog', 'tomboy', 'heroine', 'south america']"
-tt1667150,What Women Want,116.0,"Comedy,Romance,Sci-Fi","Dec 15, 2000",65000000,182805123,374105123,556910246,491910246,['remake of american film']
-tt2294449,22 Jump Street,112.0,"Action,Comedy,Crime","Jun 13, 2014",50000000,191719337,331333876,523053213,473053213,"['college', 'undercover', 'drugs', 'tattoo', 'hidden camera']"
-tt2848292,Pitch Perfect 2,115.0,"Comedy,Music","May 15, 2015",29000000,184296230,287625468,471921698,442921698,"['f rated', 'sequel', 'a cappella', 'reference to philippines', 'triple f rated']"
-tt0837562,Hotel Transylvania,91.0,"Animation,Comedy,Family","Sep 28, 2012",85000000,148313048,378505812,526818860,441818860,"['monster', 'hotel', 'plane', 'party', 'dragon']"
-tt2802144,Kingsman: The Secret Service,129.0,"Action,Adventure,Comedy","Feb 13, 2015",94000000,128261724,404561724,532823448,438823448,"['spy', 'training', 'female rear nudity', 'class differences', 'death of father']"
-tt1478338,Bridesmaids,125.0,"Comedy,Romance","May 13, 2011",32500000,169211718,289632023,458843741,426343741,"['casual sex', 'loud sex', 'partial female nudity', 'sex scene', 'talking during sex']"
-tt0448115,Shazam!,132.0,"Action,Adventure,Comedy","Apr 5, 2019",85000000,139606856,362899733,502506589,417506589,"['superhero', 'dc extended universe', 'caped superhero', 'origin of hero', 'shared universe']"
-tt5117670,Peter Rabbit,95.0,"Adventure,Animation,Comedy","Feb 9, 2018",50000000,115234093,347136477,462370570,412370570,"['rabbit', 'deer', 'mouse', 'fox', 'pig']"
-tt4862056,Us,75.0,Comedy,"Mar 22, 2019",20000000,175006930,254210310,429217240,409217240,['childhood']
-tt4116284,The Lego Batman Movie,104.0,"Action,Animation,Comedy","Feb 10, 2017",80000000,175750384,310660018,486410402,406410402,"['lego', 'batmobile', 'dc comics', 'based on comic book', 'batman character']"
-tt4649466,Kingsman: The Golden Circle,141.0,"Action,Adventure,Comedy","Sep 22, 2017",104000000,100234838,408803696,509038534,405038534,"['fighting', 'one against many', 'man cut in half', 'spy', 'sequel']"
-tt1615918,Alvin and the Chipmunks: Chipwrecked,87.0,"Adventure,Animation,Comedy","Dec 16, 2011",80000000,133107389,349088523,482195912,402195912,"['swimming pool', 'pool', 'suitcase', 'shoe', ""shaking one's butt""]"
-tt2279373,The SpongeBob Movie: Sponge Out of Water,92.0,"Adventure,Animation,Comedy","Feb 6, 2015",74000000,162994032,311013181,474007213,400007213,"['dinosaur', 'formula', 'plankton', 'secret formula', 'bubble']"
-tt1985949,The Angry Birds Movie,97.0,"Action,Animation,Comedy","May 20, 2016",73000000,107509366,352327887,459837253,386837253,"['egg', 'based on video game', 'pig', 'losing temper', 'race against time']"
-tt6966692,Green Book,130.0,"Biography,Comedy,Drama","Nov 16, 2018",23000000,85080171,322034439,407114610,384114610,"['on the road', 'hotel', 'jail', 'piano', 'pianist']"
-tt5028340,Mary Poppins Returns,130.0,"Comedy,Family,Fantasy","Dec 19, 2018",130000000,171958438,341528518,513486956,383486956,"['nanny', 'animated sequence', 'magic', 'second part', 'dolphin']"
-tt3104988,Crazy Rich Asians,120.0,"Comedy,Romance","Aug 15, 2018",30000000,174532921,238099711,412632632,382632632,"['nouveau riche', 'materialism', 'elitism', 'taiwan', 'rich man poor woman']"
-tt1723121,We're the Millers,110.0,"Comedy,Crime","Aug 7, 2013",37000000,150394119,267816276,418210395,381210395,"['stripper', 'girl in panties', 'wet panties', 'thong panties', 'white panties']"
-tt5275314,My Best Friend's Wedding,91.0,"Comedy,Romance","Jun 20, 1997",46000000,126813153,298923419,425736572,379736572,"['wedding', 'remake', 'chinese remake', 'chinese remake of american film', 'remake of american film']"
-tt1679335,Trolls,92.0,"Adventure,Animation,Comedy","Nov 4, 2016",125000000,153707064,344150134,497857198,372857198,"['glitter', 'depression', 'troll doll', '3d animation', 'female protagonist']"
-tt9691476,Snow White and the Seven Dwarfs,,"Comedy,Drama,Fantasy","Dec 21, 1937",1488000,184925486,184925486,369850972,368362972,[None]
-tt3606752,Cars 3,102.0,"Adventure,Animation,Comedy","Jun 16, 2017",175000000,152901115,383541369,536442484,361442484,"['tow truck', 'moping', 'young versus old', 'year 2017', 'year 2016']"
-tt3416828,Ice Age: Collision Course,94.0,"Adventure,Animation,Comedy","Jul 22, 2016",105000000,64063008,402156682,466219690,361219690,"['meteorite', 'outer space', 'unidentified flying object', 'ice age', 'prehistoric times']"
-tt1375670,Grown Ups,102.0,Comedy,"Jun 25, 2010",75000000,162001186,272223430,434224616,359224616,"['reunited friends', 'funeral', 'old friends reunited', 'ash scattering', 'pregnant wife']"
-tt0970866,Little Fockers,98.0,"Comedy,Romance","Dec 22, 2010",100000000,148438600,310650574,459089174,359089174,"['projectile vomiting', 'family character name in title', 'reference to pubic hair', 'woman wears a bikini', 'woman wears a bra and panties']"
-tt1045658,Silver Linings Playbook,122.0,"Comedy,Drama,Romance","Nov 16, 2012",21000000,132092958,236412453,368505411,347505411,"['bipolar disorder', 'adulterous wife', 'unconventional romance', 'family relationships', 'young widow']"
-tt2404463,The Heat,117.0,"Action,Comedy,Crime","Jun 28, 2013",43000000,159581587,229727774,389309361,346309361,"['drug lord', 'fbi agent', 'police brutality', 'shot in the crotch', 'hanging upside down']"
-tt1397514,Journey 2: The Mysterious Island,94.0,"Action,Adventure,Comedy","Feb 10, 2012",79000000,103860290,318146162,422006452,343006452,"['lost city', 'atlantis', 'lost world', 'island', 'second part']"
-tt2692250,Night at the Museum: Secret of the Tomb,98.0,"Adventure,Comedy,Family","Dec 19, 2014",127000000,113746621,353756621,467503242,340503242,"['night watchman', 'museum of natural history manhattan new york city', 'star died before release', 'museum', 'tablet']"
-tt1001526,Megamind,95.0,"Action,Animation,Comedy","Nov 5, 2010",130000000,148415853,321887208,470303061,340303061,"['time bomb', 'non comic book superhero', 'character name as title', 'superhero parody', 'reference to superman character']"
-tt1911658,Penguins of Madagascar,92.0,"Adventure,Animation,Comedy","Nov 26, 2014",132000000,83350911,366942531,450293442,318293442,"['fireworks', 'talking animal', 'polar bear', 'wolf', 'cat']"
-tt1985966,Cloudy with a Chance of Meatballs 2,95.0,"Adventure,Animation,Comedy","Sep 27, 2013",78000000,119793567,274392649,394186216,316186216,"['island', 'anthropomorphic food', 'villain', 'double cross', 'numbered sequel']"
-tt6178382,Twins,8.0,"Adventure,Biography,Comedy","Dec 9, 1988",15000000,111936388,216600000,328536388,313536388,[None]
-tt2017020,The Smurfs 2,105.0,"Adventure,Animation,Comedy","Jul 31, 2013",110000000,71017784,348547523,419565307,309565307,"['based on cartoon', 'sequel', 'new york city', '3 dimensional', 'live action cgi hybrid']"
-tt3110958,Now You See Me 2,129.0,"Action,Adventure,Comedy","Jun 10, 2016",90000000,65075540,328325007,393400547,303400547,"['hands tied behind back', 'handcuffed together', 'magic', 'escape', 'magician']"
-tt2191701,Grown Ups 2,101.0,Comedy,"Jul 12, 2013",80000000,133668525,247023808,380692333,300692333,"['reference to the warriors', 'voyeurism', 'voyeur', 'sexual desire', 'sexual attraction']"
-tt1232829,21 Jump Street,109.0,"Action,Comedy,Crime","Mar 16, 2012",42000000,138447667,202812429,341260096,299260096,"['undercover cop', 'underage drinking', 'remake', 'buddy movie', 'drug']"
-tt1284575,Bad Teacher,92.0,"Comedy,Romance","Jun 24, 2011",19000000,100292856,215448997,315741853,296741853,"['bad teacher', 'fired from a job', 'bribery', 'cheating on a test', 'breast enlargement']"
-tt5033998,Charlie's Angels,,"Action,Adventure,Comedy","Nov 3, 2000",90000000,125305545,259736090,385041635,295041635,"['feminism', 'tattooed criminal', 'betrayal', 'tattoo', 'female masculine short hair']"
-tt1261945,Sex and the City 2,146.0,"Comedy,Drama,Romance","May 27, 2010",95000000,95347692,294680778,390028470,295028470,"['chick flick', 'woman flashing her leg', 'voyeurism', 'voyeur', 'kissing a married woman']"
-tt1499658,Horrible Bosses,98.0,"Comedy,Crime","Jul 8, 2011",35000000,117538559,212417601,329956160,294956160,"['black comedy', 'scantily clad female', 'white panties', 'voyeur', 'black panties']"
-tt1489889,Central Intelligence,107.0,"Action,Comedy,Crime","Jun 17, 2016",50000000,127440871,217194805,344635676,294635676,"['profanity', 'high school', 'rogue agent', 'accountant', 'facebook']"
-tt2452042,The Peanuts Movie,88.0,"Adventure,Animation,Comedy","Nov 6, 2015",99000000,130178411,250091610,380270021,281270021,"['peanuts', 'popularity', 'school', 'imagination', 'beagle']"
-tt1109624,Paddington,95.0,"Adventure,Comedy,Family","Jan 16, 2015",55000000,76223578,258789097,335012675,280012675,"['bear', 'paddington station london', 'talking bear', 'taxidermist', 'title spoken by character']"
-tt1915581,Magic Mike,110.0,"Comedy,Drama","Jun 29, 2012",7000000,113721571,170549753,284271324,277271324,"['male stripper', 'male objectification', 'male nudity', 'abs', 'stripper']"
-tt0817230,Valentine's Day,125.0,"Comedy,Romance","Feb 12, 2010",52000000,110485654,217569328,328054982,276054982,"['grandmother grandson relationship', 'grandfather grandson relationship', 'car', 'barefoot male', 'man wrapped in a towel']"
-tt1620981,The Addams Family,,"Animation,Comedy,Family","Nov 22, 1991",30000000,113502246,191502246,305004492,275004492,"['wedding', 'cgi animation', 'lion', 'grandmother', 'reboot']"
-tt2024432,Identity Thief,111.0,"Adventure,Comedy,Crime","Feb 8, 2013",35000000,134506920,175361578,309868498,274868498,"['credit card', 'odd couple', 'male female friendship', 'impersonator', 'rental car']"
-tt4651520,Bad Moms,100.0,Comedy,"Jul 29, 2016",20000000,113257297,180998716,294256013,274256013,"['female full frontal nudity', 'pubic hair', 'female nudity', 'nudity', 'crying woman']"
-tt1979388,The Good Dinosaur,93.0,"Adventure,Animation,Comedy","Nov 25, 2015",187500000,123087120,333771037,456858157,269358157,"['dinosaur', 'interspecies friendship', 'human dinosaur friendship', 'apatosaurus', 'river']"
-tt1116184,Jackass 3D,95.0,"Action,Comedy,Documentary","Oct 15, 2010",20000000,117229692,171685793,288915485,268915485,"['full frontal male nudity', 'hairy chest', 'bare chested male', 'male frontal nudity', 'male rear nudity']"
-tt3411444,Ferdinand,108.0,"Adventure,Animation,Comedy","Dec 15, 2017",111000000,84410380,289847930,374258310,263258310,"['bull', 'bullfighting', 'farm', 'flowers', 'village']"
-tt1408253,Ride Along,99.0,"Action,Comedy,Crime","Jan 17, 2014",25000000,134202565,153733800,287936365,262936365,"['male protagonist', 'buick automobile', 'cadillac automobile', 'chevrolet', 'ford motor company']"
-tt4877122,The Emoji Movie,86.0,"Adventure,Animation,Comedy","Jul 28, 2017",50000000,86089513,216562312,302651825,252651825,"['food', 'emoji', 'dancing', 'text messages', 'high school']"
-tt3837024,Aliens,88.0,"Comedy,Mystery,Sci-Fi","Jul 18, 1986",17000000,85160248,183316455,268476703,251476703,[None]
-tt1229340,Anchorman 2: The Legend Continues,119.0,Comedy,"Dec 18, 2013",50000000,127352707,172185754,299538461,249538461,"['father son relationship', 'interracial relationship', 'interracial kiss', 'interracial sex', 'kicked in groin']"
-tt1231583,Due Date,95.0,"Adventure,Comedy","Nov 5, 2010",65000000,100539043,211739043,312278086,247278086,"['car chase', 'grand canyon national park', 'birth', 'actor', 'car rollover']"
-tt4765284,Pitch Perfect 3,93.0,"Comedy,Music","Dec 22, 2017",45000000,104897530,185736412,290633942,245633942,"['kidnapping', 'father daughter relationship', 'father daughter conflict', 'american abroad', 'american in france']"
-tt2974918,Alvin and the Chipmunks: The Road Chip,92.0,"Adventure,Animation,Comedy","Dec 18, 2015",90000000,85886987,249517956,335404943,245404943,"['alvin and the chipmunks characters', 'chipmunk', 'new orleans louisiana', 'animal protagonist', 'on the road']"
-tt1605630,American Reunion,113.0,Comedy,"Apr 6, 2012",50000000,56758835,236799211,293558046,243558046,"['high school reunion', 'outdoor sex', 'upskirt', 'thong', 'panties']"
-tt2203939,The Other Woman,109.0,"Comedy,Romance","Apr 25, 2014",40000000,83911193,195111193,279022386,239022386,"['revenge', 'multiple girlfriends', 'wife meets mistress', 'cheating husband', 'unfaithful husband']"
-tt1033575,The Descendants,115.0,"Comedy,Drama","Nov 16, 2011",20000000,82624961,175507800,258132761,238132761,"['father daughter relationship', 'boating accident', 'hawaii', 'cheating wife', 'dying mother']"
-tt0864835,Mr. Peabody & Sherman,92.0,"Adventure,Animation,Comedy","Mar 7, 2014",145000000,111506430,269806430,381312860,236312860,"['talking dog', 'inventor', 'time travel', 'father son relationship', 'george washington character']"
-tt1860353,Turbo,96.0,"Adventure,Animation,Comedy","Jul 17, 2013",135000000,83028130,286896578,369924708,234924708,"['snail', 'animal character name as title', 'movie flop', 'male protagonist', 'computer animation']"
-tt1192628,Rango,107.0,"Adventure,Animation,Comedy","Mar 4, 2011",135000000,123477607,245724600,369202207,234202207,"['water', 'sheriff', 'chameleon', 'lizard', 'desert']"
-tt1411704,Hop,95.0,"Adventure,Animation,Comedy","Apr 1, 2011",63000000,108085305,188657593,296742898,233742898,"['hugh hefner character', 'david hasselhoff character', 'altered version of studio logo', 'anthropomorphic rabbit', 'chick']"
-tt2120120,Pixels,105.0,"Action,Comedy,Sci-Fi","Jul 24, 2015",90000000,78765986,244041804,322807790,232807790,"['arcade game', 'alien', 'product placement', 'donkey kong', 'pac man']"
-tt2637276,Ted 2,115.0,Comedy,"Jun 26, 2015",68000000,81476385,217214143,298690528,230690528,"['lawyer', 'fight', 'scene after end credits', 'trial', 'talking teddy bear']"
-tt3564472,Girls Trip,122.0,"Comedy,Drama","Jul 21, 2017",28000000,115108515,140886353,255994868,227994868,"['male nudity', 'big penis', 'cheating husband', 'no panties', 'clothed female naked male']"
-tt1302067,Yogi Bear,80.0,"Adventure,Animation,Comedy","Dec 17, 2010",80000000,100246011,204774690,305020701,225020701,"['park', 'bear', 'mayor', 'sabotage', 'documentary filmmaker']"
-tt0804509,The Mule,100.0,"Comedy,Drama","Dec 14, 2018",50000000,103804407,170857676,274662083,224662083,['based on novel']
-tt8633834,The Bucket List,60.0,"Adventure,Comedy","Dec 25, 2007",45000000,93466502,174807445,268273947,223273947,[None]
-tt4575576,Christopher Robin,104.0,"Adventure,Animation,Comedy","Aug 3, 2018",75000000,99215042,197504758,296719800,221719800,"['father daughter relationship', 'live action and animation', 'bear', 'pig', 'live action cgi hybrid']"
-tt1700841,Sausage Party,89.0,"Adventure,Animation,Comedy","Aug 12, 2016",19000000,97670358,141344255,239014613,220014613,"['adult animation', 'sex scene', 'orgy', 'lesbian', 'adult humor']"
-tt1013743,Knight and Day,109.0,"Action,Adventure,Comedy","Jun 23, 2010",117000000,76423035,258751370,335174405,218174405,"['woman wears a bikini', 'cell phone trace', 'aircraft cockpit', 'woman in jeopardy', 'cell phone']"
-tt0990407,The Green Hornet,119.0,"Action,Comedy,Crime","Jan 14, 2011",110000000,98780042,229155503,327935545,217935545,"['action hero', 'car accident', 'anti hero', 'car crash', 'car hit by a truck']"
-tt6182908,Smallfoot,96.0,"Adventure,Animation,Comedy","Sep 28, 2018",80000000,83240103,213691277,296931380,216931380,"['yeti', 'snow', 'icy landscape', 'ice', 'feet']"
-tt3152624,Trainwreck,125.0,"Comedy,Drama,Romance","Jul 17, 2015",35000000,110212700,141123897,251336597,216336597,"['actress playing herself', 'actress shares first name with character', 'written by star', 'micro mini', 'observation glass']"
-tt4653310,Driving Miss Daisy,100.0,"Comedy,Drama","Dec 13, 1989",7500000,106593296,106593296,213186592,205686592,"['pulitzer prize source', 'atlanta georgia', 'jewish woman', 'african american', 'remake']"
-tt1204342,The Muppets,103.0,"Adventure,Comedy,Family","Nov 23, 2011",45000000,88625922,160971922,249597844,204597844,"['puppet', 'the muppets', 'puppetry', 'nightmare', 'charlie chaplin character']"
-tt2096672,Dumb and Dumber To,109.0,"Adventure,Comedy","Nov 14, 2014",40000000,86208010,156553592,242761602,202761602,"['friendship', 'sequel', 'four word title', 'toe sucking', 'cat']"
-tt1279935,Date Night,88.0,"Comedy,Crime,Romance","Apr 9, 2010",55000000,98711404,152269033,250980437,195980437,"['downtown', 'desire', 'thug', 'criminal', 'kingpin']"
-tt1411238,No Strings Attached,108.0,"Comedy,Romance","Jan 21, 2011",25000000,70662220,149228078,219890298,194890298,"['male objectification', 'older man younger woman relationship', 'female doctor', 'male rear nudity', 'sex comedy']"
-tt1621045,Think Like a Man,122.0,"Comedy,Romance","Apr 20, 2012",12000000,91547205,113373764,204920969,192920969,"['animated credits', 'four word title', 'african american', 'african american protagonist', 'interracial friendship']"
-tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,112.0,"Action,Adventure,Comedy","Jun 3, 2016",135000000,82051601,245328374,327379975,192379975,"['sequel', 'based on comic book', 'based on comic', 'turtle', 'based on cartoon']"
-tt2278388,The Grand Budapest Hotel,99.0,"Adventure,Comedy,Crime","Mar 7, 2014",31000000,59076019,163981261,223057280,192057280,"['hotel', 'lobby boy', 'prison escape', 'first person narration', 'painting']"
-tt1386588,The Other Guys,107.0,"Action,Comedy,Crime","Aug 6, 2010",100000000,119219978,170936470,290156448,190156448,"['detective', 'police', 'new york city', 'original story', 'buddy']"
-tt1987680,The Upside,126.0,"Comedy,Drama","Jan 11, 2019",37500000,108235497,119024536,227260033,189760033,"['quadriplegia', 'remake', 'american remake', 'car chase', 'male friendship']"
-tt10340148,Midnight in Paris,75.0,"Comedy,Documentary,Drama","May 20, 2011",30000000,56816662,162502774,219319436,189319436,[None]
-tt4624424,Storks,87.0,"Adventure,Animation,Comedy","Sep 23, 2016",70000000,72679278,183353431,256032709,186032709,"['baby', 'stork', 'delivery stork', 'baby girl', 'boss']"
-tt2398241,Smurfs: The Lost Village,90.0,"Adventure,Animation,Comedy","Apr 7, 2017",60000000,45020282,197578586,242598868,182598868,"['cgi animation', 'based on comic book', 'heroine', 'sacrificing', 'strong female lead']"
-tt1051904,Goosebumps,103.0,"Adventure,Comedy,Family","Oct 16, 2015",58000000,80069458,158905324,238974782,180974782,"['monster', 'ferris wheel', 'abandoned amusement park', 'ventriloquist dummy', 'prom']"
-tt6498340,End of Days,72.0,"Comedy,Documentary,Drama","Nov 24, 1999",100000000,66889043,212026975,278916018,178916018,[None]
-tt2869728,Ride Along 2,102.0,"Action,Comedy,Crime","Jan 15, 2016",40000000,90862685,124827316,215690001,175690001,"['male protagonist', 'acura', 'bentley the car', 'buick automobile', 'ford motor company']"
-tt1596363,The Big Short,130.0,"Biography,Comedy,Drama","Dec 11, 2015",28000000,70259870,133162752,203422622,175422622,"['finance', 'bank', 'mortgage', 'banking', 'short selling']"
-tt2268016,Magic Mike XXL,115.0,"Comedy,Drama,Music","Jul 1, 2015",14500000,66013057,123660597,189673654,175173654,"['male objectification', 'stripper', 'nightclub', 'dancing', 'sequel']"
-tt1645170,The Dictator,83.0,Comedy,"May 16, 2012",65000000,59650222,180148897,239799119,174799119,"['dictator', 'impostor', 'sunglasses', 'overalls', 'political satire']"
-tt1469304,Baywatch,116.0,"Action,Comedy,Crime","May 25, 2017",60000000,58060186,175863783,233923969,173923969,"['based on tv series', 'lifeguard', 'muscleman', 'shore', 'seaside']"
-tt1047540,Parental Guidance,105.0,"Comedy,Family","Dec 25, 2012",25000000,77267296,120832383,198099679,173099679,"['misbehavior', 'grandfather granddaughter relationship', 'fired', 'grandfather grandson relationship', 'grandmother granddaughter relationship']"
-tt6359956,A Bad Moms Christmas,104.0,"Adventure,Comedy","Nov 1, 2017",28000000,72110659,127710550,199821209,171821209,"['male objectification', 'male striptease', 'second part', 'reference to santa claus', 'seductive dance']"
-tt1222817,Zookeeper,102.0,"Comedy,Family,Romance","Jul 8, 2011",80000000,80360866,170805525,251166391,171166391,"['porcupine', 'columbia tristar', 'mgm', 'slimehouse', 'zoo']"
-tt1412386,The Best Exotic Marigold Hotel,124.0,"Comedy,Drama,Romance","May 4, 2012",10000000,46383639,134639780,181023419,171023419,"['old man', 'old woman', 'mumbai india', 'english abroad', 'hotel']"
-tt1077368,Dark Shadows,113.0,"Comedy,Fantasy,Horror","May 11, 2012",150000000,79727149,238202668,317929817,167929817,"['vampire', 'camera shot of feet', 'foot closeup', 'female stockinged soles', 'female stockinged feet']"
-tt1632708,Friends with Benefits,109.0,"Comedy,Romance","Jul 22, 2011",35000000,55802754,146595891,202398645,167398645,"['female rear nudity', 'oral sex', 'blow job', 'no panties', 'break up']"
-tt2177771,The Monuments Men,118.0,"Comedy,Drama,History","Feb 7, 2014",70000000,78031620,158702748,236734368,166734368,"['art', 'art expert', 'nazi stolen art', '1940s', 'world war two']"
-tt1535438,Hope Springs,100.0,"Comedy,Drama,Romance","Aug 8, 2012",30000000,63536011,133085295,196621306,166621306,"['scene during end credits', 'story continued during end credits', 'man wears eyeglasses', 'woman wears eyeglasses', 'economy motel']"
-tt1981677,Pitch Perfect,112.0,"Comedy,Music,Romance","Sep 28, 2012",17000000,65001093,116044347,181045440,164045440,"['a cappella', 'female protagonist', 'bechdel test passed', 'hit with a burrito', 'college roommate']"
-tt2140373,Saving Mr. Banks,125.0,"Biography,Comedy,Drama","Dec 13, 2013",35000000,83299761,114962525,198262286,163262286,"['disney', 'author', 'loss of father', 'reference to walt disney', 'suppression of emotion']"
-tt1320261,Gulliver's Travels,85.0,"Adventure,Comedy,Family","Dec 25, 2010",112000000,42779261,232017848,274797109,162797109,"[""reference to gulliver's travels"", 'reference to gulliver', 'gulliver', 'close up of eye', 'close up of eyes']"
-tt2091256,Captain Underpants: The First Epic Movie,89.0,"Action,Animation,Comedy","Jun 2, 2017",38000000,73921000,126577874,200498874,162498874,"['principal', 'superhero', 'character name in title', 'underwear', 'superhero spoof']"
-tt2103254,Tammy,97.0,"Comedy,Romance","Jul 2, 2014",20000000,84525432,96407655,180933087,160933087,"['overweight woman', 'character name as title', 'damaged car', 'chubby woman', 'car damage']"
-tt8027144,Boomerang,90.0,Comedy,"Jul 1, 1992",42000000,70052444,131052444,201104888,159104888,['fight']
-tt1038919,The Bounty Hunter,110.0,"Action,Comedy,Romance","Mar 19, 2010",45000000,67061228,135808837,202870065,157870065,"['bounty hunter', 'downward spiral', 'man wrapped in a towel', 'columbia tristar', 'u.s. car']"
-tt2381941,Focus,105.0,"Comedy,Crime,Drama","Feb 27, 2015",65000000,53862963,168065700,221928663,156928663,"['older man younger woman relationship', 'con artist', 'interracial relationship', 'con man', 'deception']"
-tt1655442,The Artist,100.0,"Comedy,Drama,Romance","Nov 25, 2011",16000000,44667095,128256712,172923807,156923807,"['homage', 'showbiz comedy', '1920s', 'movie studio', 'movie star']"
-tt8672656,Get Hard,90.0,Comedy,"Mar 27, 2015",40000000,90411453,106511453,196922906,156922906,[None]
-tt1821658,The Nut Job,85.0,"Adventure,Animation,Comedy","Jan 17, 2014",30000000,64251538,122529966,186781504,156781504,"['slimehouse', 'raccoon', 'squirrel', 'bank robbery', 'heist']"
-tt0359950,The Secret Life of Walter Mitty,114.0,"Adventure,Comedy,Drama","Dec 25, 2013",91000000,58236838,187861183,246098021,155098021,"['life magazine', 'magazine', 'photographer', 'daydream', 'x rayed skeleton']"
-tt1667353,Mirror Mirror,106.0,"Adventure,Comedy,Drama","Mar 30, 2012",85000000,64935167,173613482,238548649,153548649,"['queen', 'snow', 'princess', 'forest', 'king']"
-tt1068242,Footloose,113.0,"Comedy,Drama,Music","Feb 17, 1984",8200000,80000000,80000000,160000000,151800000,"['bible quotes', 'woman with a black eye', 'implied sex', 'youth curfew', 'father slaps daughter']"
-tt1588173,Warm Bodies,98.0,"Comedy,Horror,Romance","Feb 1, 2013",30000000,66380662,115121608,181502270,151502270,"['zombie', 'teenager', 'undead', 'memory', 'talking zombie']"
-tt8575408,Hide and Seek,91.0,Comedy,"Jan 28, 2005",25000000,51100486,123696741,174797227,149797227,[None]
-tt2704998,Game Night,100.0,"Action,Comedy,Crime","Feb 23, 2018",37000000,69179066,117378084,186557150,149557150,"['board game', 'game', 'kidnapping', 'black comedy', 'husband wife relationship']"
-tt1204975,Last Vegas,105.0,"Comedy,Drama","Jan 28, 2013",28000000,63914167,112914167,176828334,148828334,"['usa', 'united states', 'new york city', 'friendship', 'death of wife']"
-tt1272878,2 Guns,109.0,"Action,Comedy,Crime","Aug 2, 2013",61000000,75612460,132493015,208105475,147105475,"['female nudity', 'border', 'bank', 'close up of breasts', 'police officer']"
-tt1596350,This Means War,103.0,"Action,Comedy,Romance","Feb 17, 2012",65000000,54760791,156974557,211735348,146735348,"['spy', 'spy versus spy', 'chutes park', 'bloody face', 'punched in the face']"
-tt1636826,Project X,88.0,Comedy,"Mar 2, 2012",12000000,54731865,103028188,157760053,145760053,"['birthday party', 'sex', 'party', 'high school senior', 'teen movie']"
-tt0810913,Jack and Jill,91.0,Comedy,"Nov 11, 2011",79000000,74158157,150519217,224677374,145677374,"['worst picture razzie winner', 'commercial', 'elizabeth i character', 'tickling', 'character names as title']"
-tt7368554,The Interpreter,113.0,"Comedy,Drama","Apr 22, 2005",90000000,72708161,162753837,235461998,145461998,"['road movie', 'holocaust survivor', 'father son relationship', 'bare chested male', 'barefoot female']"
-tt1389137,We Bought a Zoo,124.0,"Comedy,Drama,Family","Dec 23, 2011",50000000,75624550,118729073,194353623,144353623,"['based on true story', 'zoo', 'inspection', 'tween girl', '2010s']"
-tt3833460,Bride Wars,90.0,Comedy,"Jan 9, 2009",30000000,58715510,115150424,173865934,143865934,['remake of american film']
-tt0471042,Tower Heist,104.0,"Action,Comedy,Crime","Nov 4, 2011",85000000,78046570,150422946,228469516,143469516,"['manager', 'high rise', 'heist', 'ponzi scheme', 'fbi agent']"
-tt3450650,Paul Blart: Mall Cop 2,94.0,"Action,Comedy,Crime","Apr 17, 2015",38000000,71091594,107650646,178742240,140742240,"['2010s', 'security', 'guard', 'security guard', 'black']"
-tt6112220,The Butterfly Effect,85.0,"Comedy,Crime,Drama","Jan 23, 2004",13000000,57924679,95638592,153563271,140563271,"['dancing', 'father daughter relationship', 'young adults', 'police', 'violence']"
-tt1698641,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",81.0,"Comedy,Family","Oct 10, 2014",28000000,66954149,101379287,168333436,140333436,"['long title', 'bad day', 'birthday', 'job interview', 'birthday party']"
-tt4501244,Why Him?,111.0,Comedy,"Dec 23, 2016",38000000,60323786,117425156,177748942,139748942,"['family relationships', 'father daughter relationship', 'male objectification', 'awkward situation', 'birthday party']"
-tt7401588,Instant Family,118.0,"Comedy,Drama","Nov 16, 2018",48000000,67363237,119736188,187099425,139099425,"['parenting', 'support group', 'adoptive family', 'adoptive mother adoptive son relationship', 'amusement park']"
-tt3532216,American Made,115.0,"Action,Biography,Comedy","Sep 29, 2017",50000000,51342000,135569212,186911212,136911212,"['based on real person', 'airplane pilot', 'year 1978', 'colombia', '1980s']"
-tt6253546,Role Models,132.0,"Comedy,Drama","Nov 7, 2008",28000000,67300955,94500826,161801781,133801781,['life']
-tt3760922,My Big Fat Greek Wedding 2,94.0,"Comedy,Romance","Mar 25, 2016",18000000,59689605,92096558,151786163,133786163,"['male objectification', 'repeat sequel', 'mascot costume', 'wedding', 'greek']"
-tt2531344,Blockers,102.0,Comedy,"Apr 6, 2018",21000000,60311495,94045328,154356823,133356823,"['sex scene', 'nubile', 'nubile girl', 'virgin wants to have sex', 'listening to a couple having sex']"
-tt7040874,A Simple Favor,117.0,"Comedy,Crime,Drama","Sep 14, 2018",20000000,53548586,97628717,151177303,131177303,"['drowning', 'missing woman', 'female friendship', 'missing friend', 'missing person']"
-tt1524930,Vacation,99.0,"Adventure,Comedy","Jul 29, 2015",31000000,58884188,102306500,161190688,130190688,"['vacation', 'road trip', 'dysfunctional family', 'amusement park', 'sequel']"
-tt1086772,Blended,117.0,"Comedy,Romance","May 23, 2014",45000000,46290741,127990741,174281482,129281482,"['basketball', 'baseball game', 'baseball bat', 'baseball', 'father daughter relationship']"
-tt1860213,Dirty Grandpa,102.0,Comedy,"Jan 22, 2016",11500000,35593113,105078449,140671562,129171562,"['grandfather grandson relationship', 'cowgirl sex position', 'nymphomaniac', 'sleeping naked', 'female removes her clothes']"
-tt4438848,Neighbors 2: Sorority Rising,92.0,Comedy,"May 20, 2016",35000000,55340730,108757621,164098351,129098351,"['gay marriage proposal', 'next door neighbor', 'drug dealer', 'gay best friend', 'party']"
-tt1634122,Johnny English Reborn,101.0,"Action,Adventure,Comedy","Oct 21, 2011",45000000,8406711,164640401,173047112,128047112,"['macau', 'tibet', 'london england', 'hong kong', 'rolls royce']"
-tt2562232,Birdman or (The Unexpected Virtue of Ignorance),119.0,"Comedy,Drama","Oct 17, 2014",18000000,42340598,103215094,145555692,127555692,"['actor', 'showbiz', 'inner voice', 'acting career', 'emotional instability']"
-tt1282140,Easy A,92.0,"Comedy,Drama,Romance","Sep 17, 2010",8000000,58401464,76200721,134602185,126602185,"['christian fanatic', 'high school', 'jealousy', 'xian', 'promiscuity']"
-tt2980648,The Hundred-Foot Journey,122.0,"Comedy,Drama","Aug 8, 2014",22000000,54235441,94270488,148505929,126505929,"['restaurant', 'cooking', 'chef', 'haute cuisine', 'interracial romance']"
-tt2083355,The Best Man Holiday,123.0,"Comedy,Drama","Nov 15, 2013",17000000,70525195,72835710,143360905,126360905,"['christmas', 'written by director', 'african american', 'african american protagonist', 'ultrasound']"
-tt4085696,Billy Elliot,169.0,"Comedy,Drama,Music","Oct 13, 2000",5000000,21995263,109253745,131249008,126249008,"['fight', 'filmed performance']"
-tt1196141,Diary of a Wimpy Kid,94.0,"Comedy,Drama,Family","Mar 19, 2010",15000000,64003625,76954311,140957936,125957936,"['window blinds', 'cooties', 'king arthur costume', 'shirts and skins', 'asian american']"
-tt2431286,Philomena,98.0,"Biography,Comedy,Drama","Nov 22, 2013",12000000,37709979,98963392,136673371,124673371,"['convent', 'catholic church', 'human interest story', 'illegitimate son', 'irish adoption board']"
-tt1956620,Sex Tape,94.0,"Comedy,Romance","Jul 18, 2014",40000000,38543473,126069509,164612982,124612982,"['sex video', 'sexual desire', 'sexuality', 'home video', 'sex positions']"
-tt4463894,Shaft,,"Action,Comedy,Crime","Jun 16, 2000",53012938,70327868,107190108,177517976,124505038,"['masculinity', 'sequel', 'fifth part', 'character name as title', 'shootout']"
-tt1563742,Overboard,112.0,"Comedy,Romance","May 4, 2018",12000000,50316123,85369830,135685953,123685953,"['visible midriff', 'tattooed trash', 'remake', 'amnesia', 'bikini girl']"
-tt0884732,The Wedding Ringer,101.0,Comedy,"Jan 16, 2015",23000000,64460211,80171596,144631807,121631807,"['bachelor party', 'bride and groom', 'marriage', 'nipples visible through clothing', 'bare breasts']"
-tt6341928,Life as We Know It,,Comedy,"Oct 8, 2010",38000000,53374681,105887837,159262518,121262518,['girl']
-tt2170439,Horrible Bosses 2,108.0,"Comedy,Crime","Nov 26, 2014",40000000,54445357,105945357,160390714,120390714,"['scene during end credits', 'sex addict', 'sex tape', 'singing in a car', 'reference to franz beckenbauer']"
-tt1250777,Kick-Ass,117.0,"Action,Comedy","Apr 16, 2010",28000000,48071303,97531134,145602437,117602437,"['comic book', 'superhero', 'reference to batman', 'female killer', 'narrated by character']"
-tt4925292,Lady Bird,94.0,"Comedy,Drama","Nov 3, 2017",10000000,48958273,78610769,127569042,117569042,"['mother daughter relationship', 'sacramento california', 'coming of age', 'female protagonist', 'teenage girl']"
-tt3863552,Bajrangi Bhaijaan,163.0,"Action,Comedy,Drama","Jul 17, 2015",13000000,8178001,121778347,129956348,116956348,"['little girl', 'india', 'pakistan', 'mosque', 'muslim']"
-tt2555736,The Second Best Exotic Marigold Hotel,122.0,"Comedy,Drama","Mar 6, 2015",10000000,33078266,90384306,123462572,113462572,"['sequel', 'hotel', 'india', 'english abroad']"
-tt2702724,The Boss,99.0,Comedy,"Apr 8, 2016",29000000,63077560,78652207,141729767,112729767,"['blow job', 'female ceo', 'child swearing', 'making money', 'business']"
-tt1226229,Get Him to the Greek,109.0,"Adventure,Comedy,Music","Jun 4, 2010",40000000,61153526,91455875,152609401,112609401,"['woman on top', 'london england', 'kali character', 'pixelated nudity', 'vomiting']"
-tt1430626,The Pirates! Band of Misfits,88.0,"Adventure,Animation,Comedy","Apr 27, 2012",55000000,31051126,136143605,167194731,112194731,"['pirate', 'stop motion animation', 'stop motion', 'pirate ship', 'queen victoria character']"
-tt1430607,Arthur Christmas,97.0,"Adventure,Animation,Comedy","Nov 23, 2011",85000000,46462469,149717124,196179593,111179593,"['christmas', 'elf', 'christmas eve', 'resentment', 'santa claus']"
-tt1621039,Free Birds,91.0,"Adventure,Animation,Comedy","Nov 1, 2013",55000000,55750480,110387072,166137552,111137552,"['1620s', 'time machine', 'dog', 'pizza', 'scene during end credits']"
-tt2239832,Think Like a Man Too,106.0,"Comedy,Romance","Jun 20, 2014",24000000,65028687,70027933,135056620,111056620,"['african american', 'five word title', 'african american protagonist', 'black romance', 'mother son relationship']"
-tt1821694,RED 2,116.0,"Action,Comedy,Crime","Jul 19, 2013",84000000,53262560,141507355,194769915,110769915,"['color in title', 'reference to las vegas nevada', 'time bomb', 'cranberry', 'dc comics']"
-tt1650043,Diary of a Wimpy Kid: Rodrick Rules,99.0,"Comedy,Family","Mar 25, 2011",18000000,52698535,73695194,126393729,108393729,"['sequel', 'diary', 'boy', 'slimehouse', 'brother']"
-tt6791096,I Feel Pretty,110.0,"Comedy,Romance","Apr 20, 2018",32000000,48795601,91553797,140349398,108349398,"['confidence', 'woman wears a miniskirt', 'body positive', 'delusional woman', 'delusion']"
-tt3107798,Rambo,144.0,"Comedy,Drama,Thriller","Jan 25, 2008",47500000,42754105,112214531,154968636,107468636,[None]
-tt3622592,Paper Towns,109.0,"Comedy,Drama,Mystery","Jul 24, 2015",12000000,32000304,85450484,117450788,105450788,"['based on novel', 'travel', 'teenage girl', 'unrequited love', 'friendship']"
-tt0892318,Letters to Juliet,105.0,"Adventure,Comedy,Drama","May 14, 2010",30000000,53032453,82148538,135180991,105180991,"['writer', 'starring real life couple', 'vineyard', 'verona italy', 'female protagonist']"
-tt1980209,Pain & Gain,129.0,"Action,Comedy,Crime","Apr 26, 2013",26000000,49875291,81275291,131150582,105150582,"['bodybuilder', 'kidnapping', 'based on true story', 'female nudity', 'bikini']"
-tt5664636,Goosebumps 2: Haunted Halloween,90.0,"Adventure,Comedy,Family","Oct 12, 2018",35000000,46697321,93291478,139988799,104988799,"['halloween', 'sequel', 'mother', 'science project', 'abandoned house']"
-tt7634968,What Men Want,117.0,"Comedy,Fantasy,Romance","Feb 8, 2019",20000000,54611903,69911903,124523806,104523806,"['spin off', 'competition', 'agent', 'black man', 'black woman']"
-tt2023453,Diary of a Wimpy Kid: Dog Days,94.0,"Comedy,Family","Aug 3, 2012",22000000,49008662,77229695,126238357,104238357,"['sequel', 'diary', 'boy', 'dog', 'barefoot male']"
-tt1623288,ParaNorman,92.0,"Adventure,Animation,Comedy","Aug 17, 2012",60000000,56003051,108119662,164122713,104122713,"['horror for children', 'zombie', 'witch', 'curse', 'ghost']"
-tt0787474,The Boxtrolls,96.0,"Adventure,Animation,Comedy","Sep 26, 2014",60000000,50837305,111946251,162783556,102783556,"['stop motion animation', 'chase', 'boy hero', 'cheese allergy', 'genocide']"
-tt1711525,Office Christmas Party,105.0,Comedy,"Dec 9, 2016",45000000,54767494,91323299,146090793,101090793,"['group sex', 'sex on a desk', 'christmas party', 'female nudity', 'debauchery']"
-tt1391137,Why Did I Get Married Too?,121.0,"Comedy,Drama,Romance","Apr 2, 2010",20000000,60095852,60831067,120926919,100926919,"['repeat sequel', 'question mark in title', 'returning character killed off', 'writer director', 'sequel']"
-tt2568862,Going in Style,96.0,"Comedy,Crime","Apr 7, 2017",24000000,45018541,78672579,123691120,99691120,"['bank', 'caper comedy', 'buddy comedy', 'senior', 'money']"
-tt1092026,Paul,104.0,"Adventure,Comedy,Sci-Fi","Mar 18, 2011",40000000,37412945,101162106,138575051,98575051,"['alien', 'road trip', 'alien contact', 'nerd', 'geek']"
-tt1748122,Moonrise Kingdom,94.0,"Adventure,Comedy,Drama","May 25, 2012",16000000,45512466,68848446,114360912,98360912,"['young love', 'boy scouts camp', 'storm', 'search party', '1960s']"
-tt1666186,Vampires Suck,82.0,Comedy,"Aug 18, 2010",20000000,36661504,81424988,118086492,98086492,"['male objectification', 'pacifier', 'taking off shirt', 'reference to penis size', 'crotch grab']"
-tt2243537,A Haunted House,86.0,"Comedy,Fantasy","Jan 11, 2013",2500000,40041683,59922558,99964241,97464241,"['parody', 'priest', 'spoof', 'psychic', 'female nudity']"
-tt5113040,The Secret Life of Pets 2,86.0,"Adventure,Animation,Comedy","Jun 7, 2019",80000000,63795655,113351496,177147151,97147151,"['sequel', 'second part', 'talking animal', 'dog', 'talking dog']"
-tt5164432,"Love, Simon",110.0,"Comedy,Drama,Romance","Mar 16, 2018",10000000,40826341,65520633,106346974,96346974,"['gay', 'gay teenager', 'closeted homosexual', 'gay interest', 'coming out']"
-tt2458724,Little Man,,Comedy,"Jul 14, 2006",64000000,58636047,101636047,160272094,96272094,[None]
-tt2194499,About Time,123.0,"Comedy,Drama,Fantasy","Nov 1, 2013",12000000,15323921,89309178,104633099,92633099,"['time travel', 'time travel romance', 'father son relationship', 'lingerie slip', 'family relationships']"
-tt1586265,What to Expect When You're Expecting,110.0,"Comedy,Drama,Romance","May 18, 2012",37500000,41152203,88473016,129625219,92125219,"['bare chested male', 'repetition in title', 'pregnancy', 'photographer', 'baby']"
-tt5462602,The Big Sick,120.0,"Comedy,Drama,Romance","Jun 23, 2017",5000000,42872467,53972860,96845327,91845327,"['interracial love', 'arranged marriage', 'stand up comedy', 'illness', 'family relationships']"
-tt0427152,Dinner for Schmucks,114.0,Comedy,"Jul 30, 2010",69000000,73026337,86796502,159822839,90822839,"['smashing a bottle against a wall', 'wine', 'hairy chested male', 'man wears eyeglasses', 'remake']"
-tt3850590,Krampus,98.0,"Comedy,Fantasy,Horror","Dec 4, 2015",15000000,42725475,61788393,104513868,89513868,"['christmas', 'folklore', 'christmas horror', 'krampus', 'demon']"
-tt1772317,Nerve,83.0,"Comedy,Drama","Jul 27, 2016",20000000,38583626,70652284,109235910,89235910,['experiment']
-tt2823054,Mike and Dave Need Wedding Dates,98.0,"Adventure,Comedy,Romance","Jul 8, 2016",33000000,46009673,75898100,121907773,88907773,"['wedding', 'pubic hair', 'seductive woman', 'hawaii', 'brother brother relationship']"
-tt3628584,Barbershop: The Next Cut,111.0,"Comedy,Drama","Apr 15, 2016",20000000,54030051,54404202,108434253,88434253,"['barack obama character', 'barber shop', 'barber', 'barbershop', 'four word title']"
-tt1464174,"Big Mommas: Like Father, Like Son",107.0,"Action,Comedy,Crime","Feb 18, 2011",32000000,37915414,82332450,120247864,88247864,"['transvestism', 'performing arts school', 'murder', 'fbi agent', 'undercover']"
-tt1402488,Happy Feet Two,100.0,"Adventure,Animation,Comedy","Nov 18, 2011",135000000,64006466,157956466,221962932,86962932,"['anthropomorphic penguin', 'seal the animal', 'movie flop', '3 dimensional', 'computer animation']"
-tt2126357,Second Act,103.0,"Comedy,Drama,Romance","Dec 21, 2018",15700000,39282227,63288854,102571081,86871081,"['boyfriend girlfriend relationship', 'vertigo', 'two word title', 'adopted daughter', 'cosmetics company']"
-tt1826590,About Last Night,100.0,"Comedy,Romance","Feb 14, 2014",13000000,48637684,50445860,99083544,86083544,"['sexual perversity in chicago', 'about last night', 'bedroom', 'hug', 'interrupted sex']"
-tt2170593,St. Vincent,102.0,"Comedy,Drama","Oct 10, 2014",13000000,44137712,54837234,98974946,85974946,"['stroke recovery', 'next door neighbor', 'grumpy old man', 'divorced parents', 'thunder thighs']"
-tt4795124,How to Be a Latin Lover,115.0,"Comedy,Drama","Apr 28, 2017",10000000,32149404,62556228,94705632,84705632,"['eye bandage', 'giving a bath to a cat', 'toy motorcycle', 'arm in a sling', 'yelling']"
-tt0464154,Piranha 3D,88.0,"Comedy,Horror","Aug 20, 2010",24000000,25003155,83660160,108663315,84663315,"['piranha', 'killer animal', 'female sheriff', 'boat', 'spring break']"
-tt4587656,The Star,86.0,"Adventure,Animation,Comedy","Nov 17, 2017",20000000,40847995,62758010,103606005,83606005,"['king', 'bible story', 'talking animal', 'donkey', 'pregnant']"
-tt1787759,Madea's Big Happy Family,106.0,"Comedy,Drama","Apr 22, 2011",25000000,53345287,54160818,107506105,82506105,"['2010s', 'madea series']"
-tt2234155,The Internship,119.0,Comedy,"Jun 7, 2013",58000000,44672764,93672764,138345528,80345528,"['google', 'professor charles xavier character', 'bruce lee character', '21st century', 'united states of america']"
-tt1231587,Hot Tub Time Machine,101.0,"Comedy,Sci-Fi","Mar 26, 2010",36000000,50269859,65967750,116237609,80237609,"['bare breasts', 'ski resort', 'cheating wife', 'promiscuous woman', 'casual sex']"
-tt2005151,War Dogs,114.0,"Comedy,Crime,Drama","Aug 19, 2016",50000000,43034523,86234503,129269026,79269026,"['ugly american', 'deal', 'contract', 'military', 'ammunition']"
-tt2387559,Delivery Man,105.0,"Comedy,Drama","Nov 22, 2013",22000000,30659817,70536870,101196687,79196687,"['dreamworks', 'disney', 'female police officer', 'pregnant female police officer', 'police']"
-tt1212436,The Back-up Plan,104.0,"Comedy,Romance","Apr 23, 2010",35000000,37490007,75281179,112771186,77771186,"['chick flick', 'sperm donor', 'reference to pubic hair', 'baby', 'artificial insemination']"
-tt7186036,Volcano,104.0,"Comedy,Drama","Apr 25, 1997",90000000,47546796,120100000,167646796,77646796,"['one word title', 'rural setting', 'countryside', 'ukrainian countryside', 'eastern europe']"
-tt1142977,Frankenweenie,87.0,"Animation,Comedy,Family","Oct 5, 2012",39000000,35287788,81150788,116438576,77438576,"['stop motion animation', 'remake by original director', 'dracula character', 'altered version of studio logo', 'canine']"
-tt1980929,Begin Again,104.0,"Comedy,Drama,Music","Jun 27, 2014",8000000,16170632,68838736,85009368,77009368,"['singer', 'infidelity', 'singing', 'manhattan new york city', 'musician']"
-tt1648179,Here Comes the Boom,105.0,"Action,Comedy,Sport","Oct 12, 2012",42000000,45290318,73239258,118529576,76529576,"['underdog', '2010s', 'martial arts', 'martial artist', 'orchestra']"
-tt2281587,Muppets Most Wanted,107.0,"Adventure,Comedy,Crime","Mar 21, 2014",55000000,51178893,79312301,130491194,75491194,"['prison break', 'puppet', 'gulag', 'europe', 'fairy godmother character']"
-tt1392197,Marmaduke,87.0,"Comedy,Family","Jun 4, 2010",50000000,33644788,89895930,123540718,73540718,"['great dane', 'dog', 'rivalry', 'talking animal', 'bowl']"
-tt6080038,Life,119.0,Comedy,"Mar 24, 2017",58000000,30234022,100929666,131163688,73163688,['lie']
-tt5580036,"I, Tonya",120.0,"Biography,Comedy,Drama","Dec 8, 2017",11000000,30014534,53797409,83811943,72811943,"['ice skating', 'mother daughter relationship', 'violence', 'abuse', 'competition']"
-tt0475290,"Hail, Caesar!",106.0,"Comedy,Drama,Music","Feb 5, 2016",22000000,30080225,64160680,94240905,72240905,"['film within a film', 'communist conspiracy', 'screenwriter', 'western movie', 'studio system']"
-tt2296777,Sherlock Gnomes,86.0,"Adventure,Animation,Comedy","Mar 23, 2018",59000000,43242871,87527651,130770522,71770522,"['romeo character', 'juliet character', 'animate statue', 'sequel', 'mankini']"
-tt1287468,Cats & Dogs: The Revenge of Kitty Galore,82.0,"Action,Comedy,Family","Jul 30, 2010",85000000,43585753,113026383,156612136,71612136,"['dog', 'cat', 'talking animal', 'talking dog', 'sequel']"
-tt1800246,That Awkward Moment,94.0,"Comedy,Romance","Jan 31, 2014",8000000,26068955,53068955,79137910,71137910,"['male objectification', 'male nudity', 'nudity', 'male rear nudity', 'bare chested male']"
-tt7334528,Uncle Drew,103.0,"Comedy,Sport","Jun 29, 2018",18000000,42469946,46527161,88997107,70997107,"['based on commercial', 'basketball', 'singing in a car', 'rapping in a car', 'product placement']"
-tt1321509,Death at a Funeral,92.0,Comedy,"Apr 16, 2010",21000000,42739347,48977233,91716580,70716580,"['screwball comedy', 'ensemble cast', 'ensemble film', 'ensemble comedy', 'family patriarch']"
-tt1859650,To Rome with Love,112.0,"Comedy,Music,Romance","Jun 22, 2012",21500000,16684352,74326015,91010367,69510367,"['leftist radical', 'written and directed by cast member', 'multiple storyline', 'italy', 'legs crossed']"
-tt5138210,Good Luck Chuck,51.0,Comedy,"Sep 21, 2007",25000000,35017297,59183821,94201118,69201118,['dating']
-tt0491152,Something Borrowed,112.0,"Comedy,Drama,Romance","May 6, 2011",35000000,39046489,65084116,104130605,69130605,"['cheating fiancee', 'pregnant', 'parents son relationship', 'romantic triangle', 'reference to a chipmunk']"
-tt1640484,Jumping the Broom,112.0,"Comedy,Drama","May 6, 2011",7000000,37295394,38158601,75453995,68453995,"['columbia tristar', 'weekend', ""martha's vineyard"", 'wedding', 'older woman younger man relationship']"
-tt1306980,50/50,100.0,"Comedy,Drama,Romance","Sep 30, 2011",8000000,35016118,41334735,76350853,68350853,"['cancer', 'best friend', 'therapist', 'chemotherapy', 'survival rate']"
-tt1681371,The One,89.0,"Comedy,Drama,Romance","Nov 2, 2001",49000000,43905746,72689126,116594872,67594872,"['friend', 'coming out', 'wedding', 'gay', 'homosexual']"
-tt4649416,Almost Christmas,111.0,"Comedy,Drama","Nov 11, 2016",17000000,42065185,42493506,84558691,67558691,"['christmas movie', 'family comedy', 'domestic comedy', 'christmas gathering', 'family gathering']"
-tt1462769,The Odd Life of Timothy Green,105.0,"Comedy,Drama,Family","Aug 15, 2012",40000000,51853450,55249159,107102609,67102609,"['adoption', 'dodgeball', 'young love', 'soccer game', 'soccer']"
-tt1583420,Larry Crowne,98.0,"Comedy,Drama,Romance","Jul 1, 2011",30000000,35608245,61449135,97057380,67057380,"['character name as title', 'unsuccessful', 'male protagonist', 'college', 'scooter']"
-tt1830712,Max,52.0,"Biography,Comedy,Documentary","Jun 26, 2015",20000000,42656255,43658157,86314412,66314412,[None]
-tt0480687,Hall Pass,105.0,"Comedy,Romance","Feb 25, 2011",68000000,45060734,87173475,132234209,64234209,"['nudity', 'female nudity', 'male full frontal nudity', 'marriage', 'cheating wife']"
-tt1650554,Kick-Ass 2,103.0,"Action,Comedy,Crime","Aug 16, 2013",28000000,28795985,63129909,91925894,63925894,"['superhero', 'high school', 'vigilante', 'kicked in the crotch', 'punched in the crotch']"
-tt1385867,Cop Out,107.0,"Action,Comedy,Crime","Feb 26, 2010",37000000,44875481,55909910,100785391,63785391,"['united states of america', 'usa', 'weapon', 'death', 'car']"
-tt4876464,Rosemary's Baby,48.0,Comedy,"Jun 12, 1968",3200000,33395426,33395426,66790852,63590852,['stand up']
-tt1441951,Quartet,94.0,"Comedy,Drama","Jan 11, 2013",11000000,18388357,56178935,74567292,63567292,"['reference to giuseppe verdi', 'retirement', 'opera', 'senility', 'divorced couple']"
-tt1322269,August: Osage County,121.0,"Comedy,Drama","Dec 25, 2013",25000000,37738810,50738810,88477620,63477620,"['incestuous relationship', 'pills', 'cancer', 'death of husband', 'family secret']"
-tt2609912,Kevin Hart: Let Me Explain,75.0,"Comedy,Documentary","Jul 3, 2013",2500000,32244051,32327255,64571306,62071306,"['stand up', 'toronto', 'montreal', 'lying', 'reference to twitter']"
-tt1488555,The Change-Up,112.0,"Comedy,Fantasy","Aug 5, 2011",52000000,37243418,75997067,113240485,61240485,"['black pantyhose', 'sex', 'leg spreading', 'black panties', 'nipples visible through clothing']"
-tt0815236,She's Out of My League,104.0,"Comedy,Romance","Mar 12, 2010",20000000,32010860,48680977,80691837,60691837,"['pubic hair', 'female removes her clothes', 'nudity', 'sex scene', 'voyeur']"
-tt6428676,Wonder Park,85.0,"Adventure,Animation,Comedy","Mar 15, 2019",100000000,45216793,115149422,160366215,60366215,"['no title at beginning', 'no opening credits', 'theme park', 'anthropomorphic bear', 'talking bear']"
-tt1195478,The Five-Year Engagement,124.0,"Comedy,Romance","Apr 27, 2012",30000000,28700285,61623819,90324104,60324104,"['kitchen', 'kissing while having sex', 'reference to princess diana', 'wedding band', 'wedding ring']"
-tt2229499,Don Jon,90.0,"Comedy,Drama,Romance","Sep 27, 2013",5500000,24477704,41268579,65746283,60246283,"['sex', 'watching porn', 'pornography', 'husband wife relationship', 'pornography addict']"
-tt1661382,Grudge Match,113.0,"Comedy,Drama,Sport","Dec 25, 2013",40000000,29807260,69807260,99614520,59614520,"['united states of america', 'usa', 'father son relationship', 'car', 'automobile']"
-tt4843358,Remember Me,85.0,Comedy,"Mar 12, 2010",16000000,19068240,56506120,75574360,59574360,['grandmother']
-tt1178665,A Walk in the Woods,104.0,"Adventure,Biography,Comedy","Sep 2, 2015",8000000,29499394,37119358,66618752,58618752,"['hiking', 'appalachian trail', 'hiker', 'backpacking', 'hiking trail']"
-tt0889573,The Switch,101.0,"Comedy,Drama,Romance","Aug 20, 2010",19000000,27758465,49858465,77616930,58616930,"['sperm donor', 'mother son relationship', 'best friend', 'new york city', 'father son relationship']"
-tt4136084,Florence Foster Jenkins,111.0,"Biography,Comedy,Drama","Aug 12, 2016",29000000,27383770,56000339,83384109,54384109,"['bad singing', 'singing out of tune', 'concert', 'heiress', 'singer']"
-tt1213663,The World's End,109.0,"Action,Comedy,Sci-Fi","Aug 23, 2013",20000000,26004851,47508505,73513356,53513356,"['paranoia', 'twin actresses for twin sisters', 'doppelganger', 'group therapy', 'alcoholic']"
-tt0842926,The Kids Are All Right,106.0,"Comedy,Drama,Romance","Jul 9, 2010",4000000,20811365,36275469,57086834,53086834,"['female frontal nudity', 'pantyhose', 'lesbian', 'f rated', 'sex scene']"
-tt6971106,The Black Hole,,Comedy,"Dec 21, 1979",20000000,35841901,35841901,71683802,51683802,[None]
-tt1268799,A Very Harold & Kumar 3D Christmas,90.0,"Adventure,Comedy","Nov 4, 2011",20000000,35061031,36265745,71326776,51326776,"['sex scene', 'unwed pregnancy', 'lingerie', 'white castle', 'female frontal nudity']"
-tt1126618,Morning Glory,107.0,"Comedy,Drama,Romance","Nov 10, 2010",40000000,31011732,59795070,90806802,50806802,"['workaholic', 'professional woman', 'tv morning show', 'tv journalist', 'fictional tv network']"
-tt2279339,Love the Coopers,107.0,"Comedy,Fantasy,Romance","Nov 13, 2015",18000000,26302731,42227490,68530221,50530221,"['u.s. soldier', 'usa', 'united states', 'christmas', 'old man']"
-tt5719388,9,,Comedy,"Sep 9, 2009",30000000,31749894,48559999,80309893,50309893,[None]
-tt1622547,30 Minutes or Less,83.0,"Action,Comedy,Crime","Aug 12, 2011",28000000,37053924,40966716,78020640,50020640,"['sony vaio', 'unlikely criminal', 'strapped to a bomb', 'pizza delivery boy', 'heist gone wrong']"
-tt3623726,Ricki and the Flash,101.0,"Comedy,Drama,Music","Aug 7, 2015",18000000,26839498,41166033,68005531,50005531,"['female protagonist', 'motherhood', 'self pity', 'father daughter relationship', 'divorce']"
-tt5719700,Home Again,97.0,"Comedy,Drama,Romance","Sep 8, 2017",15000000,27020284,37336874,64357158,49357158,"['lbd', 'milf', 'little black dress', 'older woman younger man sex', 'dog']"
-tt1578275,The Dilemma,111.0,"Comedy,Drama","Jan 14, 2011",70000000,48475290,70546865,119022155,49022155,"['chicago bears', 'chicago blackhawks', 'hockey game', 'chicago illinois', 'marital infidelity']"
-tt4799050,Rough Night,101.0,"Comedy,Crime,Thriller","Jun 16, 2017",20000000,22105643,46844357,68950000,48950000,"['wine tasting', 'stripper', 'sex scene', 'lesbian', 'sexually liberated']"
-tt1674771,Entourage,104.0,Comedy,"Jun 3, 2015",30000000,32363404,46438538,78801942,48801942,"['sex tape', 'bare breasts', 'premarital sex', 'caught having sex', 'skinny dipping']"
-tt3401882,Fist Fight,91.0,Comedy,"Feb 17, 2017",25000000,32187017,40286416,72473433,47473433,"['high school teacher', 'prank', 'last day of school', 'fight between teachers', 'school fight']"
-tt4203258,The Reaping,84.0,"Comedy,Horror,Thriller","Apr 5, 2007",40000000,25126214,62226214,87352428,47352428,[None]
-tt1449283,Winnie the Pooh,63.0,"Adventure,Animation,Comedy","Jul 15, 2011",30000000,26692846,50145607,76838453,46838453,"['winnie the pooh character', 'tigger character', 'eeyore character', 'christopher robin character', 'piglet character']"
-tt1298649,The Watch,102.0,"Action,Comedy,Horror","Jul 27, 2012",55000000,34353000,67130045,101483045,46483045,"['alien', 'neighbor', 'alien invasion', 'female full frontal nudity', 'disguise']"
-tt2178470,Yeh Jawaani Hai Deewani,160.0,"Comedy,Drama,Musical","May 31, 2013",8300000,3827466,50827466,54654932,46354932,"['girl wears eyeglasses', 'love', 'jumping into sea', 'wet clothes', 'swimming pool']"
-tt3722070,The Lady in the Van,104.0,"Biography,Comedy,Drama","Jan 15, 2016",6000000,10021175,42320503,52341678,46341678,"['nun', 'poverty', 'accident', '1970s', 'alter ego']"
-tt3799694,The Nice Guys,116.0,"Action,Comedy,Crime","May 20, 2016",50000000,36261763,59596747,95858510,45858510,"['neo noir', 'investigation', 'los angeles california', 'private investigator', 'conspiracy']"
-tt3486626,The Nut Job 2: Nutty by Nature,91.0,"Adventure,Animation,Comedy","Aug 11, 2017",40000000,28370522,57438389,85808911,45808911,"['chainsaw', 'mayor', 'second part', 'numbered sequel', 'chewing gum']"
-tt1637706,Our Idiot Brother,90.0,"Comedy,Drama","Aug 26, 2011",5000000,24814830,25861249,50676079,45676079,"['dog', 'candle making', 'nude model', 'golden retriever', 'lesbian kiss']"
-tt4466894,Sahara,86.0,"Adventure,Animation,Comedy","Apr 8, 2005",145000000,68671925,121671925,190343850,45343850,"['snake', 'talking snake', 'talking animal', 'prejudice', 'cobra']"
-tt2967224,Hot Pursuit,87.0,"Action,Comedy,Crime","May 8, 2015",35000000,34580201,45671512,80251713,45251713,"['fugitive', 'drug cartel', 'danger', 'female police officer', 'police radio']"
-tt3979452,The Best Years of Our Lives,,Comedy,"Nov 21, 1946",2100000,23600000,23600000,47200000,45100000,[None]
-tt1853739,You're Next,95.0,"Action,Comedy,Horror","Aug 23, 2013",1000000,18494006,26887177,45381183,44381183,"['home invasion', 'victim fights back', 'masked killer', 'breaking a lightbulb', 'meat hammer']"
-tt1366344,The Sitter,81.0,Comedy,"Dec 9, 2011",25000000,30542576,38749404,69291980,44291980,"['brother sister relationship', 'gay teenager', 'babysitting', 'child in peril', 'car crash']"
-tt2236686,Copycat,90.0,Comedy,"Oct 27, 1995",20000000,32051917,32051917,64103834,44103834,[None]
-tt1727388,The Way Way Back,103.0,"Comedy,Drama","Jul 5, 2013",5000000,21502690,26853810,48356500,43356500,"['summer', 'water park', 'shy kid', 'unlikely friendship', 'friendship']"
-tt1273678,The Spy Next Door,94.0,"Action,Comedy,Family","Jan 15, 2010",28000000,24307106,46752858,71059964,43059964,"['man wears eyeglasses', 'aerial camera shot', 'movie flop', 'cia central intelligence agency', 'slimehouse']"
-tt5439796,Logan Lucky,118.0,"Comedy,Crime,Drama","Aug 18, 2017",29000000,27778642,44264271,72042913,43042913,"['prison escape', 'heist', 'bartender', 'prison', 'beauty pageant']"
-tt1067774,Monte Carlo,109.0,"Adventure,Comedy,Family","Jul 1, 2011",20000000,23186769,39686769,62873538,42873538,"['tied feet', 'high school graduate', '22 year old', '21 year old', '18 year old']"
-tt2180419,Jackie,108.0,"Comedy,Drama,Romance","Dec 2, 2016",9000000,13960394,36588512,50548906,41548906,[None]
-tt5358844,Head of State,,Comedy,"Mar 28, 2003",35200000,37788228,38283765,76071993,40871993,"['yerevan', 'armenia', 'armenian', 'president', 'georgia europe']"
-tt1334512,Arthur,110.0,"Comedy,Romance","Apr 8, 2011",40000000,33035397,47787943,80823340,40823340,"['john lennon character', 'tablesaw', 'watching tv', 'character name as title', 'cartoon on tv']"
-tt2101441,Spring Breakers,94.0,"Comedy,Crime,Drama","Mar 15, 2013",5000000,14124286,31149251,45273537,40273537,"['spring break', 'party', 'debauchery', 'female killer', 'murder']"
-tt3521126,The Disaster Artist,104.0,"Biography,Comedy,Drama","Dec 1, 2017",10000000,21120616,28717667,49838283,39838283,"['friendship', 'acting', 'bromance', 'film within a film', 'based on true story']"
-tt1216492,Leap Year,100.0,"Comedy,Romance","Jan 8, 2010",19000000,25918920,32618920,58537840,39537840,"['ireland', 'pub', 'road trip', 'redhead', 'dublin ireland']"
-tt2784678,Top Five,102.0,"Comedy,Romance","Dec 12, 2014",12000000,25317379,26001741,51319120,39319120,"['breasts', 'sex scene', 'female nudity', 'topless female nudity', 'gay']"
-tt8653640,An Ideal Husband,,Comedy,"Jun 18, 1999",10700000,18542974,31341183,49884157,39184157,['government']
-tt6179182,New in Town,95.0,"Adventure,Comedy,Fantasy","Jan 30, 2009",8000000,16734283,29937909,46672192,38672192,['tv series']
-tt0493949,Ramona and Beezus,103.0,"Adventure,Comedy,Family","Jul 23, 2010",15000000,26167002,27469621,53636623,38636623,"['cat', 'death of pet', 'character names as title', 'best friend', 'bedroom']"
-tt1414382,You Again,105.0,"Comedy,Family,Romance","Sep 24, 2010",20000000,25702053,32838945,58540998,38540998,"['video tape', 'wedding toast', 'dance class', 'cheer', 'cheerleading']"
-tt1694020,The Guilt Trip,95.0,"Comedy,Drama","Dec 19, 2012",40000000,37134215,41294674,78428889,38428889,"['mother son relationship', 'usa', 'united states', 'trip', 'cross country']"
-tt1083452,Eddie the Eagle,106.0,"Biography,Comedy,Drama","Feb 26, 2016",23000000,15789389,45060480,60849869,37849869,"['ski jumper', 'coach', '1988 winter olympics', 'winter olympics', 'athletic training']"
-tt1931435,The Big Wedding,89.0,"Comedy,Drama,Romance","Apr 26, 2013",32500000,21819348,48425971,70245319,37745319,"['wedding', 'divorce', 'family relationships', 'farce', 'adoption']"
-tt5748648,The Bachelor,,"Comedy,Romance","Nov 5, 1999",21000000,21731001,36882378,58613379,37613379,[None]
-tt1232200,That's My Boy,116.0,Comedy,"Jun 15, 2012",57500000,36931089,58085235,95016324,37516324,"['statutory rape', 'teacher student relationship', 'argument', 'reference to vanilla ice', 'teacher student sex']"
-tt4669186,Kevin Hart: What Now?,96.0,"Comedy,Documentary","Oct 14, 2016",10000000,23591043,23591043,47182086,37182086,"['reenactment', 'scene during end credits', 'rape joke', 'telling a joke', 'storytelling']"
-tt5569310,Much Ado About Nothing,161.0,"Comedy,Romance","May 7, 1993",8000000,22549338,22549338,45098676,37098676,"['cool', 'sexual tension', 'double marriage', 'half brother', 'illegitimate half brother']"
-tt3332064,Pan,111.0,"Adventure,Comedy,Family","Oct 9, 2015",150000000,35088320,151525973,186614293,36614293,"['orphan', 'child hero', '1940s', 'reference to peter pan', 'journey']"
-tt1171222,Baggage Claim,96.0,Comedy,"Sep 27, 2013",8500000,21569509,22885836,44455345,35955345,"['gay character', ""woman wears only a man's shirt"", 'marriage proposal', 'karaoke bar', 'karaoke']"
-tt2390361,Enough Said,93.0,"Comedy,Drama,Romance","Sep 18, 2013",8000000,17550872,25621449,43172321,35172321,"['empty nest syndrome', 'kissing', 'united states of america', 'united states', 'usa']"
-tt3099638,Barfi,105.0,"Comedy,Romance","Sep 14, 2012",4600000,2804874,36751984,39556858,34956858,[None]
-tt4981636,Middle School: The Worst Years of My Life,92.0,"Comedy,Family","Oct 7, 2016",8500000,20007149,23311293,43318442,34818442,"['mother son relationship', 'brother sister relationship', 'middle school', 'teenager', ""daughter hates mother's boyfriend""]"
-tt1710396,Joyful Noise,118.0,"Comedy,Drama,Music","Jan 13, 2012",27500000,30932113,31157914,62090027,34590027,"['choir', 'autism', 'chips', 'bare chested male', 'two word title']"
-tt1931533,Seven Psychopaths,110.0,"Comedy,Crime","Oct 12, 2012",13500000,15024049,33035736,48059785,34559785,"['gangster', 'shih tzu', 'screenwriter', 'black woman murders a white man', 'shot in the belly']"
-tt2828996,A Haunted House 2,86.0,"Comedy,Fantasy","Apr 18, 2014",4000000,17329487,21206861,38536348,34536348,"['bare breasts', 'sexual innuendo', 'obscene finger gesture', 'parody', 'squirting orgasm']"
-tt6003368,Diary of a Wimpy Kid: The Long Haul,91.0,"Comedy,Family","May 19, 2017",22000000,20738724,35609577,56348301,34348301,"['sequel', 'diary', 'boy', 'cell phone video', 'cell phone']"
-tt1608290,Zoolander 2,101.0,Comedy,"Feb 12, 2016",50000000,28848693,55348693,84197386,34197386,"['absurdism', 'overweight child', 'model', 'modeling', 'fashion']"
-tt2005164,Breathless,92.0,"Comedy,Thriller","May 13, 1983",7000000,19910002,19910002,39820004,32820004,"['sheriff', 'white trash', 'cigarette smoking', 'friendship between women', 'knocked out']"
-tt5688932,Sorry to Bother You,111.0,"Comedy,Fantasy,Sci-Fi","Jul 6, 2018",3200000,17493096,18285560,35778656,32578656,"['absurdism', 'social satire', 'oakland california', 'telemarketing', 'black american']"
-tt0979434,Lottery Ticket,99.0,Comedy,"Aug 20, 2010",17000000,24719879,24719879,49439758,32439758,"[""woman rips a man's shirt"", 'lottery ticket', 'eurocopter ec120 colibri', 'block party', 'fortune cookie']"
-tt1407061,Just Wright,100.0,"Comedy,Romance,Sport","May 14, 2010",12000000,21540363,21867665,43408028,31408028,"['national basketball association', 'new jersey nets', 'miami heat', 'buick automobile', 'buick electra']"
-tt1255919,Holmes & Watson,90.0,"Adventure,Comedy,Crime","Dec 25, 2018",42000000,30568743,41926605,72495348,30495348,"['judge', 'england', 'professor moriarty character', 'billy zane character', 'kiss']"
-tt4607118,Burnt,,"Comedy,Drama","Oct 30, 2015",20000000,13651946,36773510,50425456,30425456,[None]
-tt1821549,Nebraska,115.0,"Adventure,Comedy,Drama","Nov 15, 2013",12000000,17654912,24761360,42416272,30416272,"['billings montana', 'small town', 'confronting the past', 'grumpy old man', 'road movie']"
-tt1333125,Movie 43,94.0,Comedy,"Jan 25, 2013",10000000,8840453,31164747,40005200,30005200,"['female frontal nudity', 'upskirt', 'bikini girl', 'irreverence', 'teenage girl']"
-tt1594972,Norm of the North,90.0,"Adventure,Animation,Comedy","Jan 15, 2016",18000000,17062499,30535660,47598159,29598159,"['norm of the north character', 'anthropomorphic polar bear', 'anthropomorphic moose', 'tourist', 'killer whale']"
-tt1336608,Rock of Ages,123.0,"Comedy,Drama,Musical","Jun 15, 2012",70000000,38518613,61031932,99550545,29550545,"['rock', 'concert', 'pole dancer', 'panties', 'music industry']"
-tt1438176,Fright Night,106.0,"Comedy,Horror","Aug 19, 2011",30000000,18298649,40520649,58819298,28819298,"['vampire', 'neighbor', 'remake', 'suburb', 'magician']"
-tt4667094,Fifty Shades of Black,92.0,Comedy,"Jan 29, 2016",5000000,11686940,22113075,33800015,28800015,"['drone', 'male objectification', 'erection visible through clothing', 'erect penis', 'sex scene']"
-tt3850214,Dope,103.0,"Comedy,Crime,Drama","Jun 19, 2015",7000000,17506470,18190831,35697301,28697301,"['african american', 'geek', 'hip hop', 'tomboy', 'bitcoin']"
-tt3148834,Thunder and the House of Magic,85.0,"Adventure,Animation,Comedy","Sep 5, 2014",34000000,4091,62582520,62586611,28586611,"['3 dimensional', 'half dressed cartoon animal', 'cartoon cat', 'cartoon dog', 'cartoon rabbit']"
-tt1305583,Our Family Wedding,103.0,"Comedy,Romance","Mar 12, 2010",14000000,20255281,21410546,41665827,27665827,"['usa', 'united states', 'wedding', 'marriage', 'love']"
-tt6040918,Just My Luck,,Comedy,"May 12, 2006",28000000,17326650,38159905,55486555,27486555,[None]
-tt1625346,Young Adult,94.0,"Comedy,Drama","Dec 9, 2011",12000000,16311571,22750356,39061927,27061927,"['emotional breakdown', 'mental illness', 'drinking', 'narcissism', 'high school']"
-tt4698684,Hunt for the Wilderpeople,101.0,"Adventure,Comedy,Drama","Jun 24, 2016",2500000,5205471,23845533,29051004,26551004,"['coming of age', 'foster father foster son relationship', 'manhunt', 'new zealand', 'faked death']"
-tt4139124,Keanu,100.0,"Action,Comedy,Crime","Apr 29, 2016",15000000,20591853,20688141,41279994,26279994,"['kitten', 'buddy comedy', 'african american', 'designer drug', 'strip club']"
-tt7014006,Eighth Grade,93.0,"Comedy,Drama","Jul 13, 2018",2000000,13539710,14341016,27880726,25880726,"['school', 'vlog', 'pool party', 'father daughter relationship', 'uncomfortable conversation']"
-tt1878870,The Edge of Seventeen,104.0,"Comedy,Drama","Nov 18, 2016",9000000,14431633,19096003,33527636,24527636,"['adolescence', 'coming of age film', 'scantily clad female', 'panties', 'white panties']"
-tt0770703,What's Your Number?,106.0,"Comedy,Romance","Sep 30, 2011",20000000,14011084,30163785,44174869,24174869,"['casual sex', 'ex boyfriend', 'morning after', 'womanizer', 'fat suit']"
-tt1814621,Admission,107.0,"Comedy,Drama,Romance","Mar 22, 2013",13000000,18007317,18733666,36740983,23740983,"['college dean of admissions', 'reference to the internet', 'reference to uganda', 'reference to indonesia', 'reference to outer mongolia']"
-tt3464902,The Lobster,119.0,"Comedy,Drama,Romance","Mar 25, 2016",4500000,9196278,18019834,27216112,22716112,"['dystopia', 'torture', 'dead rabbit', 'absurdism', ""narrator repeats character's words""]"
-tt1182350,You Will Meet a Tall Dark Stranger,98.0,"Comedy,Drama,Romance","Sep 22, 2010",15000000,3247816,34247816,37495632,22495632,"['call girl', 'manuscript', 'charlatan', 'prostitute', 'divorce']"
-tt6175394,Posledniy bogatyr,114.0,"Action,Adventure,Comedy","Dec 31, 2017",8500000,0,30700192,30700192,22200192,"['love', 'impostor', 'gang', 'portal', 'mob boss']"
-tt0492389,Furry Vengeance,92.0,"Comedy,Family","Apr 30, 2010",35000000,17630465,39340177,56970642,21970642,"['barefoot male', 'nightmare', 'close up of eyes', 'close up of lips', 'close up of mouth']"
-tt1598828,One for the Money,91.0,"Action,Comedy,Crime","Jan 27, 2012",42000000,26414527,36197221,62611748,20611748,"['tough woman', 'self defense', 'new jersey', 'bounty hunting', 'bail jumper']"
-tt1540133,The Guard,96.0,"Comedy,Crime,Thriller","Jul 29, 2011",6000000,5359774,21197454,26557228,20557228,"['small town', 'drug smuggling', 'galway ireland', 'mother son relationship', 'ireland']"
-tt1500906,Vampires,88.0,"Comedy,Fantasy,Horror","Oct 30, 1998",20000000,20268825,20268825,40537650,20537650,"['vampire', 'basement', 'school', 'party', 'police']"
-tt7059806,Almost Famous,95.0,"Comedy,Drama,Family","Sep 15, 2000",60000000,32522352,47371191,79893543,19893543,[None]
-tt0790628,The Incredible Burt Wonderstone,100.0,"Adventure,Comedy,Fantasy","Mar 15, 2013",32000000,22537881,27392609,49930490,17930490,"['elvis presley character', 'slapstick comedy', 'woman changes clothes', 'woman wears a gas mask', 'magician']"
-tt7166214,Bobby,142.0,"Comedy,Romance","Nov 17, 2006",14000000,11242801,20597806,31840607,17840607,['love']
-tt4191580,Meet the Blacks,94.0,"Comedy,Horror","Apr 1, 2016",900000,9097072,9097072,18194144,17294144,"['middle class', 'spoof', 'family character name in title', 'black', 'racism']"
-tt1532503,Beginners,105.0,"Comedy,Drama,Romance","Jun 3, 2011",3200000,5790894,14314407,20105301,16905301,"['gay relationship', 'older man younger man relationship', 'looking at oneself in a mirror', '2000s', 'death']"
-tt3316948,American Ultra,96.0,"Action,Comedy,Sci-Fi","Aug 21, 2015",28000000,14439985,30295028,44735013,16735013,"['black comedy', 'stoner', 'summary execution', 'conspiracy', 'brainwashing']"
-tt1866249,The Sessions,95.0,"Biography,Comedy,Drama","Oct 19, 2012",1000000,6002451,11495204,17497655,16497655,"['pubic hair', 'ejaculation', 'sex in bed', 'oral sex', 'masturbation']"
-tt6667360,Carnage,68.0,Comedy,"Dec 16, 2011",25000000,2546747,38112154,40658901,15658901,"['male frontal nudity', 'vegan', 'animal rights', 'animal abuse', 'celebrity chef']"
-tt1431181,Another Year,129.0,"Comedy,Drama","Dec 29, 2010",8000000,3205706,20005613,23211319,15211319,"['london england', 'cigarette', 'friend', 'four seasons', 'autumn']"
-tt1791682,While We're Young,97.0,"Comedy,Drama,Mystery","Mar 27, 2015",10000000,7582065,17503828,25085893,15085893,"['documentary filmmaker', 'hipster', 'documentary filmmaking', 'husband wife relationship', 'new york city']"
-tt2465146,And So It Goes,94.0,"Comedy,Drama,Romance","Jul 25, 2014",18000000,15160801,17920013,33080814,15080814,"['cell phone video', 'aerial camera shot', 'woman wears eyeglasses', 'movie flop', 'neighbor']"
-tt1999192,Kevin Hart: Laugh at My Pain,89.0,"Comedy,Documentary","Sep 9, 2011",750000,7706436,7712436,15418872,14668872,"['stand up comedian', 'stand up', 'stand up comedy']"
-tt1488181,Zambezia,83.0,"Adventure,Animation,Comedy","Dec 31, 2012",20000000,0,34454336,34454336,14454336,"['bird', 'falcon', 'city name in title', 'place name in title', 'one word title']"
-tt2910904,The Dressmaker,119.0,"Comedy,Drama","Sep 23, 2016",11900000,2022115,24041617,26063732,14163732,"['f rated', 'australia', 'bare chested male', 'costume designer', 'haute couture']"
-tt1673697,The Sapphires,103.0,"Biography,Comedy,Drama","Mar 22, 2013",9000000,2450867,20395040,22845907,13845907,"['vietnam war', '1960s', 'aboriginal', 'soul music', 'lead singer']"
-tt1966359,Father Figures,113.0,"Adventure,Comedy,Drama","Dec 22, 2017",25000000,17501244,21038441,38539685,13539685,"['fool', 'chump', 'craziness', 'silliness', 'idiot']"
-tt3553442,Whiskey Tango Foxtrot,112.0,"Biography,Comedy,Drama","Mar 4, 2016",35000000,23083334,25350747,48434081,13434081,"['afghanistan', 'journalist', 'war on terrorism', 'kabul afghanistan', 'frenchman']"
-tt1604171,Prom,104.0,"Comedy,Drama,Family","Apr 29, 2011",8000000,10130219,10763183,20893402,12893402,"['girl wearing a miniskirt', 'prom', 'rebel', 'class president', 'high school graduation']"
-tt2347569,Frances Ha,86.0,"Comedy,Drama,Romance","May 17, 2013",3000000,4067398,11262769,15330167,12330167,"['best friend', 'father daughter relationship', 'mother daughter relationship', 'mumblecore', 'f rated']"
-tt1421051,Somewhere,97.0,"Comedy,Drama","Dec 22, 2010",7000000,1785645,17023121,18808766,11808766,"['parent child relationship', 'estranged father', 'father daughter relationship', 'pantyhose', 'title directed by female']"
-tt1714206,The Spectacular Now,95.0,"Comedy,Drama,Romance","Aug 2, 2013",2500000,6852971,6916951,13769922,11269922,"['first kiss', 'coming of age', 'drunkenness', 'underage drinking', 'loss of virginity']"
-tt4543578,Drop Dead Gorgeous,100.0,Comedy,"Jul 23, 1999",10000000,10571408,10571408,21142816,11142816,['f rated']
-tt2637294,Hot Tub Time Machine 2,93.0,"Comedy,Mystery,Sci-Fi","Feb 20, 2015",14000000,12314651,12826644,25141295,11141295,"['time machine', 'hot tub', 'time lord', 'acid trip', 'dance club']"
-tt10297320,Swingers,,Comedy,"Oct 18, 1996",200000,4505922,6618578,11124500,10924500,['gay man has sex with a woman']
-tt4595882,Can You Ever Forgive Me?,106.0,"Biography,Comedy,Crime","Oct 19, 2018",10000000,8803865,11752387,20556252,10556252,"['publisher', 'deception', 'fraud', 'forgery', 'cat']"
-tt1336617,Cyrus,91.0,"Comedy,Drama,Romance","Jun 18, 2010",7000000,7468936,10062896,17531832,10531832,"['roughhousing', 'compact disc', 'missing shoe', 'shoe', 'record']"
-tt10308134,Lovesick,4.0,"Comedy,Drama","Feb 18, 1983",10100000,10143618,10143618,20287236,10187236,"['love', 'couple', 'therapy', 'couples therapy', 'lovesick']"
-tt1742650,I Don't Know How She Does It,89.0,"Comedy,Romance","Sep 16, 2011",24000000,9659074,24474463,34133537,10133537,"['2010s', 'breadwinner', 'female breadwinner', 'man wears eyeglasses', 'black comedy']"
-tt1571249,The Skeleton Twins,93.0,"Comedy,Drama,Romance","Sep 12, 2014",1000000,5284309,5797192,11081501,10081501,"['brother sister relationship', 'siblings', 'suicide attempt', 'adultery', 'estrangement']"
-tt1920849,Bachelorette,87.0,"Comedy,Romance","Sep 7, 2012",3000000,446770,12577401,13024171,10024171,"['bachelorette party', 'stripper', 'wedding dress shop', 'bachelorette', 'strip club']"
-tt1573072,Housefull,144.0,Comedy,"Apr 30, 2010",10100000,1183658,18726300,19909958,9809958,"['lie', 'mix up', 'sleepwalking', 'bad luck', 'casino']"
-tt2166214,Khiladi 786,141.0,"Action,Comedy","Dec 7, 2012",5600000,385422,14683763,15069185,9469185,"['marriage bureau', 'long lost brother', 'suitor', 'car crash', 'impersonating a police officer']"
-tt3606888,A Street Cat Named Bob,103.0,"Biography,Comedy,Drama","Nov 18, 2016",8000000,82703,17382693,17465396,9465396,"['cat', 'human animal relationship', 'london england', 'cat on shoulder', 'drug addict']"
-tt1243974,Aloha,105.0,"Comedy,Drama,Romance","May 29, 2015",37000000,21052030,25387091,46439121,9439121,"['written by director', 'hawaii', 'one word title', 'reference to kesha', 'blondie']"
-tt10300710,Hit & Run,114.0,"Action,Comedy","Aug 22, 2012",22000000,13749300,17216955,30966255,8966255,['policeman']
-tt1307068,Seeking a Friend for the End of the World,101.0,"Adventure,Comedy,Drama","Jun 22, 2012",10000000,7078738,11766959,18845697,8845697,"['end of the world', 'title directed by female', 'long title', 'road trip', 'human extinction']"
-tt1371155,Made in Dagenham,113.0,"Biography,Comedy,Drama","Nov 19, 2010",8000000,1095369,15644196,16739565,8739565,"['automobile manufacturing', 'f rated', 'ford of britain', 'ford motor company', 'whitehall']"
-tt1508675,Le Havre,93.0,"Comedy,Drama","Oct 21, 2011",5500000,611709,13480196,14091905,8591905,"['neighbor', 'container', 'illegal immigrant', 'bar', 'shoe shiner']"
-tt2235108,Dear White People,108.0,"Comedy,Drama,Romance","Oct 17, 2014",1250000,4404154,5403771,9807925,8557925,"['race relations', 'satire', 'ivy league university', 'controversy', 'election']"
-tt1702425,Casa de mi Padre,84.0,"Comedy,Western","Mar 16, 2012",6000000,5909483,8446952,14356435,8356435,"['grindhouse film', 'spaghetti western spoof', 'absurd comedy', 'ranch', 'mexico']"
-tt2582496,Me and Earl and the Dying Girl,105.0,"Comedy,Drama,Romance","Jun 12, 2015",8000000,6758416,9266180,16024596,8024596,"['terminal illness', 'leukemia', 'teenage boy', 'death', 'aspiring filmmaker']"
-tt5247022,Paterson,118.0,"Comedy,Drama,Romance","Dec 28, 2016",5000000,2141423,10727536,12868959,7868959,"['poetry', 'bus driver', 'twin', 'cupcake', 'walking a dog']"
-tt1862079,Safety Not Guaranteed,86.0,"Comedy,Drama,Romance","Jun 8, 2012",750000,4010957,4422318,8433275,7683275,"['time machine', 'time travel', 'falling in love', 'intern', 'classified ad']"
-tt3367294,Compadres,101.0,"Action,Comedy,Crime","Apr 22, 2016",3000000,3127773,7445044,10572817,7572817,['revenge']
-tt1699755,Peeples,95.0,"Comedy,Romance","May 10, 2013",11000000,9177065,9307166,18484231,7484231,"['vito russo test passed', 'surname as title', 'one word title', 'marriage proposal', 'asking for hand in marriage']"
-tt1470023,MacGruber,90.0,"Action,Comedy,Romance","May 21, 2010",10000000,8525600,8629895,17155495,7155495,"['time bomb', 'absurd comedy', 'cell phone trace', 'character name as title', 'surname as title']"
-tt4034354,Swiss Army Man,97.0,"Adventure,Comedy,Drama","Jun 24, 2016",3000000,4210454,5837111,10047565,7047565,"['dead body', 'talking to a dead body', 'corpse', 'fart', 'dead body washed ashore']"
-tt6404166,Original Sin,75.0,Comedy,"Aug 3, 2001",26000000,16521410,16521410,33042820,7042820,"['artist', 'painting']"
-tt6906324,American Dreamz,7.0,"Comedy,Documentary","Apr 21, 2006",17000000,7314027,16510971,23824998,6824998,[None]
-tt4501454,The Meddler,103.0,"Comedy,Drama,Romance","Apr 22, 2016",3200000,4267219,5526942,9794161,6594161,"['overbearing mother', 'lesbian wedding', 'mother daughter relationship', 'singing in a car', 'reference to atlantic city new jersey']"
-tt1663143,Fun Size,86.0,"Adventure,Comedy","Oct 26, 2012",14000000,9409538,11166615,20576153,6576153,"['teenage girl', 'generation y', 'soda', 'pirate costume', 'schoolgirl costume']"
-tt1758795,The To Do List,104.0,"Comedy,Romance","Jul 26, 2013",1500000,3491669,4128828,7620497,6120497,"['female sexuality', 'male objectification', 'scantily clad female', '1990s', 'cunnilingus']"
-tt4622512,Battle of the Sexes,121.0,"Biography,Comedy,Drama","Sep 22, 2017",25000000,12638526,18445379,31083905,6083905,"['lesbianism', 'based on real events', 'tennis player', '1970s', 'battle of the sexes']"
-tt1990314,Robot & Frank,89.0,"Comedy,Crime,Drama","Aug 17, 2012",2500000,3317468,4934356,8251824,5751824,"['burglary', 'robot', 'dementia', 'thief', 'heist']"
-tt2170299,Bad Words,89.0,"Comedy,Drama","Mar 14, 2014",10000000,7779614,7843145,15622759,5622759,"['spelling bee', 'forty something', 'high school dropout', 'spelling', 'two word title']"
-tt0878835,Please Give,87.0,"Comedy,Drama","Apr 30, 2010",3000000,4033574,4570178,8603752,5603752,"['reference to pubic hair', 'reference to howard stern', 'car', 'automobile', 'u.s. car']"
-tt4080386,Sardaar Ji,141.0,"Comedy,Fantasy,Horror","Dec 31, 2015",2700000,0,8200000,8200000,5500000,['love']
-tt2910274,Obvious Child,84.0,"Comedy,Drama,Romance","Jun 6, 2014",1000000,3122616,3324070,6446686,5446686,"['abortion', 'pregnancy', 'f rated', 'divorced parents', 'based on short film']"
-tt6852284,Venus,95.0,"Comedy,Drama,Family","Dec 21, 2006",6000000,3347411,7818479,11165890,5165890,"['coming out', 'transgender', 'transgender parent', 'mother son relationship', 'father son relationship']"
-tt0804497,It's Kind of a Funny Story,101.0,"Comedy,Drama,Romance","Oct 8, 2010",8000000,6363628,6632950,12996578,4996578,"['fear of failure', 'depression', 'based on novel', 'friendship', 'psychiatric ward']"
-tt1477837,Cedar Rapids,87.0,Comedy,"Feb 11, 2011",10000000,6861102,7862131,14723233,4723233,"['convention', 'insurance', 'cedar rapids iowa', 'hotel', 'girl in panties']"
-tt1742336,Your Sister's Sister,90.0,"Comedy,Drama","Jun 15, 2012",120000,1597486,3090593,4688079,4568079,"['title directed by female', 'tequila', 'f rated', 'drunken sex', 'pancakes']"
-tt1727776,Scouts Guide to the Zombie Apocalypse,93.0,"Action,Comedy,Horror","Oct 30, 2015",15000000,3703046,15554855,19257901,4257901,"['zombie', 'bare breasts', 'boy scout', 'blonde', 'voyeurism']"
-tt2870708,Wish I Was Here,106.0,"Comedy,Drama","Jul 18, 2014",6000000,3591299,6591365,10182664,4182664,"['dream sequence', 'crowdfunded', 'sex scene', 'furry', 'office worker']"
-tt1772288,Danny Collins,106.0,"Biography,Comedy,Drama","Mar 20, 2015",10000000,5637066,8465845,14102911,4102911,"['boyfriend girlfriend relationship', 'f word', 'doctor', 'blog', 'reference to mike nichols and elaine may']"
-tt4701724,Early Man,89.0,"Adventure,Animation,Comedy","Feb 16, 2018",50000000,8267544,45285890,53553434,3553434,"['soccer', 'claymation', 'football', 'caveman', 'stone age']"
-tt1412528,Table 19,87.0,"Comedy,Drama,Romance","Mar 3, 2017",5000000,3614896,4620399,8235295,3235295,"['drug use', 'sex', 'wedding invitation', 'crying woman', 'cigarette lighter']"
-tt1440292,Submarine,97.0,"Comedy,Drama,Romance","Jun 3, 2011",1900000,467602,4581937,5049539,3149539,"['mother son relationship', 'teen angst', 'boyfriend girlfriend relationship', 'loss of virginity', 'school']"
-tt2629726,The Crew,81.0,Comedy,"Aug 25, 2000",23000000,13019253,13019253,26038506,3038506,[None]
-tt1791528,Inherent Vice,148.0,"Comedy,Crime,Drama","Dec 12, 2014",20000000,8110975,14772346,22883321,2883321,"['ex boyfriend ex girlfriend relationship', 'drug trade', 'voice over narration', 'southern california', 'investigator']"
-tt7158430,Hearts Beat Loud,97.0,"Comedy,Drama,Music","Jun 8, 2018",2000000,2386254,2420962,4807216,2807216,"['father daughter relationship', 'music performance', 'father daughter friendship', 'widower', 'dead mother']"
-tt4902904,The Resurrection of Gavin Stone,91.0,"Comedy,Drama,Family","Jan 20, 2017",2000000,2303792,2303792,4607584,2607584,"['community service', 'megachurch', 'passion play', 'loincloth', 'child actor']"
-tt7520136,The Conspirator,,Comedy,"Apr 15, 2011",25000000,11538204,15907411,27445615,2445615,[None]
-tt1640711,A Few Best Men,97.0,"Comedy,Romance","May 5, 2015",15000000,0,17224539,17224539,2224539,"['comedy of errors', 'groom', 'embarrassing male nudity', 'embarrassing nudity', 'public nudity']"
-tt6577814,Screwed,100.0,"Comedy,Drama,Romance","May 12, 2000",12000000,6982680,6982680,13965360,1965360,"['gay kiss', 'male rear nudity', 'male nudity', 'male masturbation', 'one word title']"
-tt3172532,The Diary of a Teenage Girl,102.0,"Comedy,Drama,Romance","Aug 7, 2015",2000000,1477002,2279959,3756961,1756961,"['sex', ""mother's boyfriend"", 'lesbian kiss', 'oral sex', 'sexual promiscuity']"
-tt5280954,The Importance of Being Earnest,,Comedy,"May 22, 2002",15000000,8378141,8378141,16756282,1756282,['love']
-tt2401878,Anomalisa,90.0,"Animation,Comedy,Drama","Dec 30, 2015",8000000,3759286,5706168,9465454,1465454,"['multiple characters voiced by same person', 'one night stand', 'stop motion animation', 'hotel room', 'sex in hotel room']"
-tt5203734,Columbus,127.0,Comedy,"Aug 4, 2017",700000,1017107,1110511,2127618,1427618,[None]
-tt5569344,Tarnation,90.0,"Comedy,Horror","Oct 6, 2004",400000,592014,1162014,1754028,1354028,['cabin in the woods']
-tt5649108,Thoroughbreds,92.0,"Comedy,Crime,Drama","Mar 9, 2018",5000000,3072605,3187302,6259907,1259907,"['psycho girl', 'creamy legs', 'girl wearing a mini skirt', 'feminine hair', 'miniskirt and sneakers']"
-tt1570989,Tiny Furniture,98.0,"Comedy,Drama,Romance","Nov 12, 2010",50000,391674,424149,815823,765823,"['black stockings', 'hipster', 'adult returns home', 'title directed by female', 'shower']"
-tt3099498,Tusk,102.0,"Comedy,Drama,Horror","Sep 19, 2014",3000000,1821983,1887554,3709537,709537,"['walrus', 'canada', 'mutilation', 'search', 'deception']"
-tt5822766,Love and Other Catastrophes,100.0,"Comedy,Drama","Mar 28, 1997",250000,212285,743216,955501,705501,"['male nudity', 'accident', 'sports car', 'male rear nudity', 'dating']"
-tt3381008,The Brothers Grimsby,83.0,"Action,Adventure,Comedy","Mar 11, 2016",35000000,6864016,28720470,35584486,584486,"['gay joke', 'bare breasts', 'public nudity', 'sex in public', 'boy in a wheelchair']"
-tt1531663,Everything Must Go,97.0,"Comedy,Drama","May 13, 2011",5000000,2712131,2821010,5533141,533141,"['phoenix arizona', 'scottsdale arizona', 'filmed in phoenix arizona', 'peacock tv', 'filmed in scottsdale arizona']"
-tt1612774,Rubber,82.0,"Comedy,Fantasy,Horror","Apr 1, 2011",500000,100370,680914,781284,281284,"['horror spoof', 'inanimate object comes to life', 'tire', 'murder', 'absurdism']"
-tt6619196,Clean,70.0,"Comedy,Drama,Horror","Apr 28, 2006",10000,138711,138711,277422,267422,['robot']
-tt2265398,Drinking Buddies,90.0,"Comedy,Drama,Romance","Aug 23, 2013",500000,343706,407100,750806,250806,"['brewery', 'co worker', 'group of friends', 'boyfriend girlfriend relationship', 'woman wears panties']"
-tt5741008,Bully,83.0,Comedy,"Jul 13, 2001",2100000,881824,1381824,2263648,163648,"['patricia pinto', 'la creme']"
-tt2389182,Cheap Thrills,88.0,"Comedy,Crime,Drama","Mar 21, 2014",100000,59424,59424,118848,18848,"['extramarital affair', 'adultery', 'unfaithfulness', 'sex', 'masturbation']"
-tt1880418,Newlyweds,95.0,"Comedy,Drama","Jan 13, 2012",9000,4584,4584,9168,168,['written and directed by cast member']
-tt1758575,Blue Like Jazz,108.0,"Comedy,Drama","Apr 13, 2012",1200000,595018,595018,1190036,-9964,"['college', 'texas', 'church', 'screenplay adapted by author', 'color in title']"
-tt1874789,Supporting Characters,87.0,Comedy,"Jan 25, 2013",60000,4917,4917,9834,-50166,"['nipple slip', 'film editor', 'urination', 'kiss', 'movie screening']"
-tt1822311,Sparrows Dance,81.0,"Comedy,Drama,Romance","Aug 23, 2013",175000,2602,2602,5204,-169796,"['actress', 'residuals income', 'plumber', 'agoraphobia', 'fear of open spaces']"
-tt2290113,Along the Roadside,108.0,"Comedy,Music,Romance","Mar 24, 2015",250000,0,3234,3234,-246766,['california']
-tt1374989,Pride and Prejudice and Zombies,108.0,"Action,Comedy,Horror","Feb 5, 2016",28000000,10907291,16638300,27545591,-454409,"['zombie', 'england', '19th century', 'based on novel', 'damsel in distress']"
-tt1946502,UglyDolls,87.0,"Adventure,Animation,Comedy","May 3, 2019",45000000,19894664,24644664,44539328,-460672,"['cgi animation', 'based on toy', 'uglydoll', 'group leader', 'one word title']"
-tt1935902,The Brass Teapot,101.0,"Comedy,Fantasy,Thriller","Apr 5, 2013",900000,6997,413733,420730,-479270,"['bare butt', 'taking off underwear', 'voyeur', 'voyeurism', 'mini dress']"
-tt1865346,Detention of the Dead,87.0,"Action,Adventure,Comedy","Jun 28, 2013",500000,1778,1778,3556,-496444,"['detention', 'high school', 'high school student', 'student', 'skateboarder']"
-tt4374230,Julija in alfa Romeo,83.0,Comedy,"Dec 31, 2015",560000,0,8462,8462,-551538,[None]
-tt1592873,LOL,97.0,"Comedy,Drama,Romance","May 4, 2012",11000000,0,10431506,10431506,-568494,"['female protagonist', 'teen protagonist', 'teen romance', 'voice over narration', 'scene during opening credits']"
-tt1950135,Drunk Wedding,81.0,Comedy,"May 22, 2015",600000,3301,3301,6602,-593398,"['fellatio', 'bite marks on penis', 'threesome sex scene', 'amateur video making', 'female nudity']"
-tt1667307,Damsels in Distress,99.0,"Comedy,Drama,Romance","Apr 6, 2012",3000000,1007535,1324299,2331834,-668166,"['college', 'college campus', 'fraternity', 'depression', 'dance craze']"
-tt2140619,Two Night Stand,86.0,"Comedy,Romance","Sep 26, 2014",1600000,15600,868081,883681,-716319,"['one night stand', 'internet hook up', 'snowed in', 'new york city', 'talking about sex']"
-tt1695994,The Virginity Hit,86.0,Comedy,"Sep 24, 2010",2000000,636706,636706,1273412,-726588,"['film starts with text', 'bong', 'buying condoms', 'kissing in public', 'playground']"
-tt3569356,Not Cool,93.0,"Comedy,Drama,Romance","Sep 19, 2014",800000,35688,35688,71376,-728624,"['actor playing female role', 'directed by star', 'fart', 'eating feces', 'penis']"
-tt0763831,A Thousand Words,91.0,"Comedy,Drama","Mar 9, 2012",40000000,18450127,20790486,39240613,-759387,"['liar', 'supernatural power', 'psychotronic film', 'movie flop', 'slimehouse']"
-tt1726589,L!fe Happens,100.0,Comedy,"Apr 13, 2012",930000,30905,30905,61810,-868190,"['los angeles california', 'woman on top', 'one night stand', 'f rated', 'rapping in a car']"
-tt1769363,The Giant Mechanical Man,95.0,"Comedy,Drama,Romance","Apr 27, 2012",900000,7396,7396,14792,-885208,"['mechanical man', 'temporary job', 'mime', 'stilts', 'stage makeup']"
-tt1334553,The Perfect Host,93.0,"Comedy,Crime,Thriller","Jul 1, 2011",1000000,48764,51587,100351,-899649,"['car', 'automobile', 'u.s. car', 'ford', 'ford motor vehicle']"
-tt3960412,Popstar: Never Stop Never Stopping,87.0,"Comedy,Music","Jun 3, 2016",20000000,9496130,9537120,19033250,-966750,"['pop star', 'scene during end credits', 'repetition in title', 'concert', 'mockumentary']"
-tt3145220,Hits,96.0,"Comedy,Drama","Feb 13, 2015",1000000,15156,15156,30312,-969688,"['small town', 'youtube', 'internet', 'courtroom', 'independent film']"
-tt8655470,The Specials,,Comedy,"Sep 22, 2000",1000000,12996,12996,25992,-974008,"['autist', 'paris france', 'reference to fc barcelona', 'reference to chelsea f.c.', 'reference to fc bayern munich']"
-tt4590482,Karachi se Lahore,143.0,"Adventure,Comedy,Family","Dec 31, 2015",1000000,0,17721,17721,-982279,"['pakistan', 'road trip']"
-tt4733536,American Hero,86.0,"Action,Comedy,Drama","Dec 11, 2015",1000000,0,26,26,-999974,"['non comic book superhero', 'superhero', 'father son relationship', 'reconciliation', 'female nudity']"
-tt1341167,Four Lions,97.0,"Comedy,Crime,Drama","Nov 5, 2010",3750000,310007,2436111,2746118,-1003882,"['crow', 'exploding animal', 'yorkshire', 'home video', 'toy ak 47']"
-tt1588334,"Jeff, Who Lives at Home",83.0,"Comedy,Drama","Mar 16, 2012",10000000,4269426,4708127,8977553,-1022447,"['stalking', 'adult lives at home', 'bathroom', 'motel room', 'car crashing into a tree']"
-tt3504048,Housebound,107.0,"Comedy,Horror,Mystery","Oct 17, 2014",1500000,0,236863,236863,-1263137,"['female protagonist', 'cheesegrater', 'cheesegrater used as weapon', 'large knife', 'corkscrew as a weapon']"
-tt3110770,Road Hard,98.0,Comedy,"Mar 6, 2015",1500000,113169,113169,226338,-1273662,"['girl in panties', 'red panties', 'panties', 'stand up comedy']"
-tt7844060,Lady in White,98.0,"Comedy,Drama","Apr 22, 1988",4700000,1705139,1705139,3410278,-1289722,"['japanese woman', 'job', 'first job', 'workplace', 'co worker']"
-tt1480658,Eddie: The Sleepwalking Cannibal,90.0,"Comedy,Horror","Apr 5, 2013",1400000,1632,1632,3264,-1396736,"['character name as title', 'forename as title', 'canada', 'sleepwalking', 'inspiration']"
-tt8043306,Teefa in Trouble,155.0,"Action,Comedy,Crime","Jul 20, 2018",1500000,0,98806,98806,-1401194,['gangster']
-tt1640459,Hobo with a Shotgun,86.0,"Action,Comedy,Horror","May 6, 2011",3000000,703372,834953,1538325,-1461675,"['vigilante', 'shotgun', 'hobo', 'rampage', 'gore']"
-tt2017486,Closer to the Moon,112.0,"Comedy,Crime,Drama","Apr 17, 2014",1500000,0,5396,5396,-1494604,"['romanian', 'police officer', 'year 1959', 'bucharest romania', 'post world war two']"
-tt2690138,The D Train,101.0,"Comedy,Drama","May 8, 2015",3000000,669688,772366,1442054,-1557946,"['actor plays himself', 'clothed female naked male scene', 'gay character', 'girl wears panties', 'man in a shower']"
-tt1512235,Super,96.0,"Action,Comedy,Drama","Apr 1, 2011",2500000,327716,593933,921649,-1578351,"['tragicomedy', 'black comedy', 'female on male rape', 'superhero', 'comic book']"
-tt2474024,The Last Five Years,94.0,"Comedy,Drama,Musical","Feb 13, 2015",2000000,147299,205298,352597,-1647403,"['actress', 'novelist', '5 year time span', 'marriage', 'boyfriend girlfriend relationship']"
-tt3566698,Vaalu,155.0,"Comedy,Romance","Dec 31, 2015",1900000,0,12444,12444,-1887556,['love']
-tt1763303,The First Time,95.0,"Comedy,Drama,Romance","Oct 19, 2012",2000000,17061,17061,34122,-1965878,"['loss of virginity', 'high school', 'awkwardness', 'teenage girl', 'teenage boy']"
-tt1754633,The Ghastly Love of Johnny X,106.0,"Comedy,Fantasy,Musical","Oct 26, 2012",2000000,2436,2436,4872,-1995128,"['1950s', 'outlaw', 'trial', 'independent film']"
-tt3253232,The Bounce Back,104.0,"Comedy,Romance","Dec 9, 2016",3000000,321910,421404,743314,-2256686,['therapist']
-tt3859304,The Bronze,100.0,"Comedy,Drama,Sport","Mar 18, 2016",3500000,615816,615816,1231632,-2268368,"['male full frontal nudity', 'home movie', 'trampoline', 'gymnast', 'olympics']"
-tt1240982,Your Highness,102.0,"Adventure,Comedy,Fantasy","Apr 8, 2011",50000000,21596445,26121638,47718083,-2281917,"['minotaur character', 'thong bikini', 'penis', 'pageboy hair cut', 'gagged']"
-tt1855401,Tim and Eric's Billion Dollar Movie,93.0,Comedy,"Mar 2, 2012",3000000,201436,223652,425088,-2574912,"['penis', 'man wears eyeglasses', 'shopping mall', 'six word title', 'female cinematographer']"
-tt1235189,Wild Target,98.0,"Action,Comedy,Crime","Oct 29, 2010",8000000,109338,5314194,5423532,-2576468,"['apprentice', 'bodyguard', 'hitman', 'assassin', 'rembrant painting']"
-tt1509803,Griff the Invisible,90.0,"Comedy,Drama,Romance","Aug 19, 2011",2900000,20778,25935,46713,-2853287,"['character name as title', 'nickname as title', 'forename in title', 'three word title', 'barefoot male']"
-tt2398249,They Came Together,83.0,"Comedy,Romance","Jun 27, 2014",3000000,0,82780,82780,-2917220,"['spoof', 'racism', 'new york city', 'halloween party', 'halloween']"
-tt1719071,Another Happy Day,119.0,"Comedy,Drama","Nov 18, 2011",4000000,9120,978527,987647,-3012353,"['multi generational', 'female stockinged legs', 'grey pantyhose', 'pantyhose', 'male objectification']"
-tt2796678,The Opposite Sex,97.0,Comedy,"Jan 20, 2015",3300000,0,50206,50206,-3249794,"['wicked', 'hairy chest', 'bare chested male', 'bare breasts']"
-tt6107548,Late Night,102.0,"Comedy,Drama","Jun 7, 2019",4000000,246305,246305,492610,-3507390,"['f rated', 'fictional television talk show host', 'television writer', 'fictional tv show', 'fictional late night tv show']"
-tt2751576,Out of the Blue,108.0,"Comedy,Drama","Oct 19, 2007",4600000,728,731767,732495,-3867505,['party']
-tt5531336,Proof,,"Comedy,Mystery,Sci-Fi","Sep 16, 2005",20000000,7535331,8284331,15819662,-4180338,"['paranormal phenomena', 'psychotronic film', 'unidentified flying object', 'florida', 'mockumentary']"
-tt1798243,Rudderless,105.0,"Comedy,Drama,Music","Oct 17, 2014",5000000,56001,567219,623220,-4376780,"['intergenerational friendship', 'school shooting', 'loss of child', 'loss of a son', 'loss of a child']"
-tt4158096,Free Fire,91.0,"Action,Comedy,Crime","Apr 21, 2017",10000000,1799322,3793739,5593061,-4406939,"['warehouse', 'shootout', 'arms dealer', 'weapons deal', 'ira']"
-tt0810922,Take Me Home Tonight,97.0,"Comedy,Drama,Romance","Mar 4, 2011",19000000,6928068,7576604,14504672,-4495328,"['sex scene', 'brother sister relationship', ""reference to guns n' roses"", 'black comedy', 'white boy raps']"
-tt2402105,Dom Hemingway,93.0,"Comedy,Crime,Drama","Apr 2, 2014",7000000,523511,1857458,2380969,-4619031,"['male frontal nudity', 'hairy chested male', 'sex scene', 'male nudity', 'nudity']"
-tt1525366,Grabbers,94.0,"Comedy,Horror,Sci-Fi","Jul 19, 2013",5300000,0,440821,440821,-4859179,"['bathtub', 'lobster trap', 'ferry boat', 'sprinkler system', 'eaten alive']"
-tt7393990,Stuck,360.0,Comedy,"May 30, 2008",5000000,67505,67505,135010,-4864990,[None]
-tt1411664,Bucky Larson: Born to Be a Star,97.0,Comedy,"Sep 9, 2011",10000000,2529395,2529395,5058790,-4941210,"['diner', 'masturbation', 'buck teeth', 'porn industry', 'adult filmmaking']"
-tt3838992,Yoga Hosers,88.0,"Action,Comedy,Fantasy","Sep 2, 2016",5000000,0,22958,22958,-4977042,"['yoga', 'disgruntled customer', 'female friendship', 'second part', 'al pacino impression']"
-tt1988822,Trash,75.0,Comedy,"Oct 9, 2015",12000000,17484,6553186,6570670,-5429330,[None]
-tt1251743,Salvation Boulevard,96.0,"Action,Comedy,Drama","Jul 15, 2011",5500000,28468,28468,56936,-5443064,"['handcuffed man', 'rear end collision', 'burglar alarm', 'artist', 'scene during opening credits']"
-tt2914838,R100,99.0,"Comedy,Drama","Jan 23, 2015",5500000,24956,24956,49912,-5450088,"['dominatrix', 'bare chested male bondage', 'black pantyhose', 'nylons', 'pantyhose']"
-tt1478964,Attack the Block,88.0,"Action,Comedy,Sci-Fi","Jul 29, 2011",13000000,1024175,6459183,7483358,-5516642,"['pheromones', 'tower block', 'teeth', 'glowing', 'gang']"
-tt1756851,Twixt,88.0,"Comedy,Fantasy,Horror","Jul 23, 2013",7000000,0,1268346,1268346,-5731654,"['ghost', 'writer', 'murder', 'stake', 'hotel']"
-tt1361313,The Extra Man,108.0,Comedy,"Jul 30, 2010",7000000,453377,492108,945485,-6054515,"['new york city', 'brassiere', 'painting oneself', 'car', 'car insurance']"
-tt1403177,Hesher,106.0,"Comedy,Crime,Drama","May 13, 2011",7000000,382946,382946,765892,-6234108,"['bully', 'vomiting', 'funeral', 'male in underwear', 'long haired male']"
-tt3910736,Gun Shy,92.0,"Action,Adventure,Comedy","Feb 4, 2000",10000000,1638202,1638202,3276404,-6723596,['kidnapping']
-tt2379653,3,115.0,"Comedy,Drama","Sep 16, 2011",7200000,59774,295492,355266,-6844734,"['sex scene', 'topless female nudity', 'female nudity']"
-tt2097333,A.C.O.R.N.S.: Operation Crackdown,83.0,"Animation,Comedy,Family","Nov 1, 2016",8500000,0,1353287,1353287,-7146713,"['heist', 'squirrel', 'nut', 'three word title']"
-tt1772422,Outside Bet,101.0,Comedy,"Feb 24, 2015",7500000,0,13524,13524,-7486476,['1980s']
-tt0817177,Flipped,90.0,"Comedy,Drama,Romance","Aug 6, 2010",14000000,1755212,4289993,6045205,-7954795,"['multiple perspectives', 'falling in love', 'narrated by a girl', 'teenage love', 'bachelor auction']"
-tt1194417,Casino Jack,108.0,"Biography,Comedy,Crime","Dec 17, 2010",12500000,2039869,2272186,4312055,-8187945,"['bagman', 'scene during end credits', 'ends with real life footage', 'character name as title', 'nickname as title']"
-tt1319716,It's a Wonderful Afterlife,100.0,"Comedy,Drama,Fantasy","Oct 8, 2010",10000000,0,1642939,1642939,-8357061,"['murder', 'indian', 'police', 'f rated', 'overweight woman']"
-tt3164256,Rock the Kasbah,106.0,"Comedy,Music,War","Oct 23, 2015",15000000,3020665,3386153,6406818,-8593182,"['bad luck', 'watching tv', ""women's rights"", '21st century', 'united states of america']"
-tt6495770,Action Point,85.0,Comedy,"Jun 1, 2018",19000000,5059608,5103675,10163283,-8836717,"['jackass star', 'theme park', 'bear mascot', 'petting zoo', 'alpine slide']"
-tt1376195,Gunless,89.0,"Action,Comedy,Drama","Apr 30, 2010",9900000,458054,458054,916108,-8983892,"['gunslinger', 'duel', 'wild west', 'bounty hunter', 'blacksmith']"
-tt5721088,Just Getting Started,91.0,"Action,Comedy","Dec 8, 2017",22000000,6069605,6756412,12826017,-9173983,"['christmas', 'new jersey', 'snow', 'written by director', 'palm springs california']"
-tt2556874,Plastic,102.0,"Action,Comedy,Crime","Sep 26, 2014",10000000,0,575371,575371,-9424629,"['credit card fraud', 'miami florida', 'male rear nudity', 'bikini', 'male objectification']"
-tt1247667,High School,99.0,Comedy,"Jun 1, 2012",10000000,139034,248133,387167,-9612833,"['teen movie', 'drug test', 'high school', 'generation y', 'mit']"
-tt7201846,Edmond,110.0,"Comedy,Drama,History","Jul 14, 2006",10000000,131719,241719,373438,-9626562,"['one word title', 'based on real person', 'forename as title', 'year 1895', 'voice over']"
-tt2113659,Elsa & Fred,93.0,"Comedy,Drama,Romance","Nov 7, 2014",10000000,67657,197901,265558,-9734442,"['elderly man', 'elderly woman', 'american remake', 'american remake of spanish film', 'american remake of argentinian film']"
-tt3202120,Barbecue,98.0,Comedy,"Dec 26, 2014",10000000,388,247565,247953,-9752047,"['unfaithful spouse', 'france', 'heart attack', 'mechanic', 'female doctor']"
-tt1730687,Darling Companion,103.0,"Comedy,Drama,Romance","Apr 20, 2012",12000000,793352,1200346,1993698,-10006302,"['woman wears eyeglasses', 'usa', 'united states', 'dog', 'search']"
-tt7097350,Kiss of Death,124.0,"Comedy,Drama","Apr 21, 1995",40000000,14942422,14942422,29884844,-10115156,[None]
-tt0376136,The Rum Diary,119.0,"Comedy,Drama","Oct 28, 2011",45000000,13109815,21544732,34654547,-10345453,"['based on novel', 'journalist', 'puerto rico', 'san juan puerto rico', 'newspaper']"
-tt5815346,Zoom,158.0,"Comedy,Drama,Romance","Aug 11, 2006",35000000,11989328,12506188,24495516,-10504484,['love']
-tt1440161,A Little Bit of Heaven,106.0,"Comedy,Drama,Fantasy","May 4, 2012",12500000,10011,1100287,1110298,-11389702,"['depiction of god', 'afterlife', 'cool', 'mexican actor playing american character', 'happiness']"
-tt6471464,Fateless,,Comedy,"Jan 6, 2006",12000000,196857,196857,393714,-11606286,[None]
-tt1967614,The Comedian,120.0,Comedy,"Feb 3, 2017",15000000,1658706,1658706,3317412,-11682588,"['stand up comedy', 'lesbian daughter', 'has been', 'contempt of court', 'wedding reception']"
-tt1013860,Dylan Dog: Dead of Night,107.0,"Action,Comedy,Crime","Apr 29, 2011",20000000,1186538,6093725,7280263,-12719737,"['monster', 'vomiting', 'friendship', 'partner', 'battle']"
-tt1584131,The Last Godfather,100.0,"Comedy,Crime,Romance","Apr 1, 2011",13400000,164247,164247,328494,-13071506,"['gangster', 'gangster comedy', 'mob boss', 'mafia', 'gang war']"
-tt2549398,Equilibrium,77.0,"Comedy,Mystery,Thriller","Dec 6, 2002",20000000,1190018,5345869,6535887,-13464113,[None]
-tt3612004,Freedom,48.0,"Action,Comedy","Jun 5, 2015",14500000,0,872757,872757,-13627243,[None]
-tt1423894,Barney's Version,134.0,"Comedy,Drama","Jan 14, 2011",30000000,7502560,8845575,16348135,-13651865,"['actress', 'moaning', 'topless', 'female nudity', 'nudity']"
-tt1545106,Vamps,92.0,"Comedy,Horror,Romance","Nov 2, 2012",16000000,3361,94812,98173,-15901827,"['renfield character', 'van helsing character', 'female vampire', 'drinking blood', 'solar eclipse']"
-tt0790736,R.I.P.D.,96.0,"Action,Adventure,Comedy","Jul 19, 2013",130000000,33618855,79076678,112695533,-17304467,"['based on comic book', 'artefact', 'villain', 'end of the world', 'gun fu']"
-tt1664697,Middle Men,82.0,"Action,Comedy,Crime","Aug 6, 2010",20000000,754301,754301,1508602,-18491398,[None]
-tt2980210,A Hologram for the King,98.0,"Comedy,Drama,Romance","Apr 22, 2016",35000000,4212494,11846010,16058504,-18941496,"['backhoe', 'male in a shower', 'skin diving', 'overhead camera shot', 'cell phone']"
-tt3840898,The Tempest,169.0,"Comedy,Drama","Dec 10, 2010",20000000,277943,277943,555886,-19444114,"['magic', 'monster', 'spirit', 'magician', 'enchanter']"
-tt2425486,Gloria,110.0,"Comedy,Drama,Romance","Jan 22, 1999",30000000,4167493,4967493,9134986,-20865014,"['female nudity', 'male frontal nudity', 'female frontal nudity', 'nudity', 'penis']"
-tt3289724,Welcome to Marwen,116.0,"Biography,Comedy,Drama","Dec 21, 2018",45000000,10763520,12874922,23638442,-21361558,"['shoe fetish', 'tea pot collection', 'shoe collection', 'female amputee', 'fictional town']"
-tt4971344,The Sisters Brothers,122.0,"Adventure,Comedy,Crime","Sep 21, 2018",38000000,3143056,13143056,16286112,-21713888,"['shootout', '1850s', 'thieves on the run', 'san francisco california', 'year 1851']"
-tt3045616,Mortdecai,107.0,"Action,Comedy,Crime","Jan 23, 2015",60000000,7696134,30396134,38092268,-21907732,"['art dealer', 'macguffin', 'burning a portrait', 'false portrait', 'fired from a job']"
-tt9201248,What Just Happened,96.0,Comedy,"Oct 17, 2008",27000000,1090947,2412123,3503070,-23496930,[None]
-tt8399650,Upside Down,,Comedy,"Mar 15, 2013",50000000,102118,26387039,26489157,-23510843,[None]
-tt1125929,Love Ranch,117.0,"Biography,Comedy,Drama","Jun 30, 2010",25000000,137885,146149,284034,-24715966,"['female full frontal nudity', 'ex convict', 'woman wears a bikini', 'woman wears lingerie', 'blowjob']"
-tt2788710,The Interview,112.0,Comedy,"Feb 6, 2014",44000000,6105175,12342632,18447807,-25552193,"['finger bitten off', 'assassination attempt', 'male nudity', 'dictator', 'alternate history']"
-tt1137470,Accidental Love,100.0,"Comedy,Romance","Mar 17, 2015",26000000,0,135436,135436,-25864564,"['march', 'protest', 'demonstration', 'affidavit', 'lobbyist']"
-tt1053810,The Big Year,100.0,Comedy,"Oct 14, 2011",41000000,7204138,7684524,14888662,-26111338,"['attu alaska', 'storm', 'competition', 'alaska', 'birding']"
-tt2822672,Rock Dog,90.0,"Adventure,Animation,Comedy","Feb 24, 2017",60000000,9420546,24148488,33569034,-26430966,"['musician', 'rock band', 'animal protagonist', 'anthropomorphism', 'deception']"
-tt2352432,Stealth,51.0,"Action,Comedy","Jul 29, 2005",138000000,32116746,76416746,108533492,-29466508,['vietnam war']
-tt3095734,Monster Trucks,104.0,"Action,Adventure,Comedy","Jan 13, 2017",125000000,33370166,61642798,95012964,-29987036,"['wilhelm scream', 'part computer animation', 'two word title', 'junkyard', 'teenage protagonist']"
-tt4722990,Last Man Standing,,Comedy,"Sep 20, 1996",67000000,18115927,18115927,36231854,-30768146,"['armageddon', 'feminism', 'phenomenon', 'high concept']"
-tt1540128,Playing for Keeps,105.0,"Comedy,Romance,Sport","Oct 3, 1986",35000000,2000000,2000000,4000000,-31000000,"['soccer', 'soccer team', 'soccer coach', 'soccer mom', 'father son relationship']"
-tt3485166,Pirates,130.0,"Action,Adventure,Comedy","Jul 1, 1986",40000000,1641825,6341825,7983650,-32016350,"['pirate', 'sword fight', 'korea', 'bandit', 'love scene']"
-tt1981107,The Young and Prodigious T.S. Spivet,105.0,"Action,Adventure,Comedy","Jul 31, 2015",33000000,176847,357687,534534,-32465466,"['fictional radio show', 'reference to david letterman', 'reference to wolfgang amadeus mozart', 'scientific experiment', 'death of twin brother']"
-tt1817771,Freaks of Nature,92.0,"Comedy,Horror,Sci-Fi","Oct 30, 2015",33000000,70958,70958,141916,-32858084,"['vampire', 'zombie', 'parody', 'female rear nudity', 'naked on street']"
-tt5770620,The Lovers,97.0,"Comedy,Drama,Romance","Mar 13, 2015",35000000,0,53899,53899,-34946101,"['marriage', 'husband wife relationship', 'adultery', 'eyeglasses', 'prologue']"
-tt0249516,Foodfight!,91.0,"Action,Animation,Comedy","Dec 31, 2012",45000000,0,73706,73706,-44926294,"['troubled production', 'food', 'supermarket', 'femme fatale', 'pun']"
-tt2283336,Men in Black: International,115.0,"Action,Adventure,Comedy","Jun 14, 2019",110000000,3100000,3100000,6200000,-103800000,"['sequel', 'men in black', 'alien', 'fourth part', 'shared universe']"
+tconst,primary_title,runtime_minutes,genres,release_date,production_budget,domestic_gross,worldwide_gross,total_profit
+tt2293640,Minions,91.0,"Adventure,Animation,Comedy","Jul 10, 2015",74000000,336045770,1160336173,1086336173
+tt3469046,Despicable Me 3,89.0,"Adventure,Animation,Comedy","Jun 30, 2017",75000000,264624300,1034727750,959727750
+tt1690953,Despicable Me 2,98.0,"Adventure,Animation,Comedy","Jul 3, 2013",76000000,368065385,975216835,899216835
+tt2283362,Jumanji: Welcome to the Jungle,119.0,"Action,Adventure,Comedy","Dec 20, 2017",90000000,404508916,964496193,874496193
+tt2948356,Zootopia,108.0,"Adventure,Animation,Comedy","Mar 4, 2016",150000000,341268248,1019429616,869429616
+tt0435761,Toy Story 3,103.0,"Adventure,Animation,Comedy","Jun 18, 2010",200000000,415004880,1068879522,868879522
+tt2277860,Finding Dory,97.0,"Adventure,Animation,Comedy","Jun 17, 2016",200000000,486295561,1021215193,821215193
+tt2709768,The Secret Life of Pets,87.0,"Adventure,Animation,Comedy","Jul 8, 2016",75000000,368384330,886750534,811750534
+tt1667889,Ice Age: Continental Drift,88.0,"Adventure,Animation,Comedy","Jul 13, 2012",95000000,161321843,879765137,784765137
+tt1431045,Deadpool,108.0,"Action,Adventure,Comedy","Feb 12, 2016",58000000,363070709,801025593,743025593
+tt5463162,Deadpool 2,119.0,"Action,Adventure,Comedy","May 18, 2018",110000000,324591735,786680557,676680557
+tt3501632,Thor: Ragnarok,130.0,"Action,Adventure,Comedy","Nov 3, 2017",180000000,315058289,846980024,666980024
+tt1277953,Madagascar 3: Europe's Most Wanted,93.0,"Adventure,Animation,Comedy","Jun 8, 2012",145000000,216391482,746921271,601921271
+tt2015381,Guardians of the Galaxy,121.0,"Action,Adventure,Comedy","Aug 1, 2014",170000000,333172112,770867516,600867516
+tt0892791,Shrek Forever After,93.0,"Adventure,Animation,Comedy","May 21, 2010",165000000,238736787,756244673,591244673
+tt3470600,Sing,108.0,"Animation,Comedy,Family","Dec 21, 2016",75000000,270329045,634454789,559454789
+tt1453405,Monsters University,104.0,"Adventure,Animation,Comedy","Jun 21, 2013",200000000,268488329,743588329,543588329
+tt1411697,The Hangover Part II,102.0,"Comedy,Mystery","May 26, 2011",80000000,254464305,586464305,506464305
+tt1637725,Ted,106.0,"Comedy,Fantasy","Jun 29, 2012",50000000,218665740,556016627,506016627
+tt5095030,Ant-Man and the Wasp,118.0,"Action,Adventure,Comedy","Jul 6, 2018",130000000,216648740,623144660,493144660
+tt1483010,Logan,94.0,"Comedy,Drama,Family","Mar 3, 2017",127000000,226277068,615461394,488461394
+tt3521164,Moana,107.0,"Adventure,Animation,Comedy","Nov 23, 2016",150000000,248757044,637517365,487517365
+tt6139732,Aladdin,128.0,"Adventure,Comedy,Family","Nov 11, 1992",28000000,217350219,504050219,476050219
+tt1323594,Despicable Me,95.0,"Animation,Comedy,Family","Jul 9, 2010",69000000,251513985,543464573,474464573
+tt5220122,Hotel Transylvania 3: Summer Vacation,97.0,"Adventure,Animation,Comedy","Jul 13, 2018",65000000,167500092,527079962,462079962
+tt0472181,The Smurfs,103.0,"Adventure,Animation,Comedy","Jul 29, 2011",110000000,142614158,563749323,453749323
+tt1409024,Men in Black 3,106.0,"Action,Adventure,Comedy","May 25, 2012",215000000,179020854,654213485,439213485
+tt3783958,La La Land,128.0,"Comedy,Drama,Music","Dec 9, 2016",20000000,151101803,426351163,406351163
+tt3375556,Iron Man,84.0,"Comedy,Drama,Family","May 2, 2008",186000000,318604126,585171547,399171547
+tt2510894,Hotel Transylvania 2,89.0,"Animation,Comedy,Family","Sep 25, 2015",80000000,169700110,469500298,389500298
+tt0478970,Ant-Man,117.0,"Action,Adventure,Comedy","Jul 17, 2015",130000000,180202163,518858449,388858449
+tt3874544,The Boss Baby,97.0,"Adventure,Animation,Comedy","Mar 31, 2017",125000000,175003033,510878762,385878762
+tt2357291,Rio 2,101.0,"Adventure,Animation,Comedy","Apr 11, 2014",130000000,131538435,492846291,362846291
+tt1216475,Cars 2,106.0,"Adventure,Animation,Comedy","Jun 24, 2011",200000000,191450875,560155383,360155383
+tt1291150,Teenage Mutant Ninja Turtles,101.0,"Action,Adventure,Comedy","Aug 8, 2014",125000000,191204754,485004754,360004754
+tt1772341,Wreck-It Ralph,101.0,"Adventure,Animation,Comedy","Nov 2, 2012",165000000,189412677,496511521,331511521
+tt0398286,Tangled,100.0,"Adventure,Animation,Comedy","Nov 24, 2010",260000000,200821936,586477240,326477240
+tt2802144,Kingsman: The Secret Service,129.0,"Action,Adventure,Comedy","Feb 13, 2015",94000000,128261724,404561724,310561724
+tt1667150,What Women Want,116.0,"Comedy,Romance,Sci-Fi","Dec 15, 2000",65000000,182805123,374105123,309105123
+tt4649466,Kingsman: The Golden Circle,141.0,"Action,Adventure,Comedy","Sep 22, 2017",104000000,100234838,408803696,304803696
+tt6966692,Green Book,130.0,"Biography,Comedy,Drama","Nov 16, 2018",23000000,85080171,322034439,299034439
+tt3416828,Ice Age: Collision Course,94.0,"Adventure,Animation,Comedy","Jul 22, 2016",105000000,64063008,402156682,297156682
+tt5117670,Peter Rabbit,95.0,"Adventure,Animation,Comedy","Feb 9, 2018",50000000,115234093,347136477,297136477
+tt0837562,Hotel Transylvania,91.0,"Animation,Comedy,Family","Sep 28, 2012",85000000,148313048,378505812,293505812
+tt2294449,22 Jump Street,112.0,"Action,Comedy,Crime","Jun 13, 2014",50000000,191719337,331333876,281333876
+tt1985949,The Angry Birds Movie,97.0,"Action,Animation,Comedy","May 20, 2016",73000000,107509366,352327887,279327887
+tt0448115,Shazam!,132.0,"Action,Adventure,Comedy","Apr 5, 2019",85000000,139606856,362899733,277899733
+tt9574324,Chicago,,"Comedy,Crime,Drama","Dec 27, 2002",30000000,170687518,306770545,276770545
+tt1615918,Alvin and the Chipmunks: Chipwrecked,87.0,"Adventure,Animation,Comedy","Dec 16, 2011",80000000,133107389,349088523,269088523
+tt1289401,Ghostbusters,116.0,"Action,Comedy,Fantasy","Jun 8, 1984",30000000,242212467,295212467,265212467
+tt2848292,Pitch Perfect 2,115.0,"Comedy,Music","May 15, 2015",29000000,184296230,287625468,258625468
+tt1478338,Bridesmaids,125.0,"Comedy,Romance","May 13, 2011",32500000,169211718,289632023,257132023
+tt5275314,My Best Friend's Wedding,91.0,"Comedy,Romance","Jun 20, 1997",46000000,126813153,298923419,252923419
+tt1397514,Journey 2: The Mysterious Island,94.0,"Action,Adventure,Comedy","Feb 10, 2012",79000000,103860290,318146162,239146162
+tt2017020,The Smurfs 2,105.0,"Adventure,Animation,Comedy","Jul 31, 2013",110000000,71017784,348547523,238547523
+tt3110958,Now You See Me 2,129.0,"Action,Adventure,Comedy","Jun 10, 2016",90000000,65075540,328325007,238325007
+tt2279373,The SpongeBob Movie: Sponge Out of Water,92.0,"Adventure,Animation,Comedy","Feb 6, 2015",74000000,162994032,311013181,237013181
+tt1911658,Penguins of Madagascar,92.0,"Adventure,Animation,Comedy","Nov 26, 2014",132000000,83350911,366942531,234942531
+tt1723121,We're the Millers,110.0,"Comedy,Crime","Aug 7, 2013",37000000,150394119,267816276,230816276
+tt4116284,The Lego Batman Movie,104.0,"Action,Animation,Comedy","Feb 10, 2017",80000000,175750384,310660018,230660018
+tt2692250,Night at the Museum: Secret of the Tomb,98.0,"Adventure,Comedy,Family","Dec 19, 2014",127000000,113746621,353756621,226756621
+tt1679335,Trolls,92.0,"Adventure,Animation,Comedy","Nov 4, 2016",125000000,153707064,344150134,219150134
+tt1045658,Silver Linings Playbook,122.0,"Comedy,Drama,Romance","Nov 16, 2012",21000000,132092958,236412453,215412453
+tt5028340,Mary Poppins Returns,130.0,"Comedy,Family,Fantasy","Dec 19, 2018",130000000,171958438,341528518,211528518
+tt0970866,Little Fockers,98.0,"Comedy,Romance","Dec 22, 2010",100000000,148438600,310650574,210650574
+tt3606752,Cars 3,102.0,"Adventure,Animation,Comedy","Jun 16, 2017",175000000,152901115,383541369,208541369
+tt3104988,Crazy Rich Asians,120.0,"Comedy,Romance","Aug 15, 2018",30000000,174532921,238099711,208099711
+tt1109624,Paddington,95.0,"Adventure,Comedy,Family","Jan 16, 2015",55000000,76223578,258789097,203789097
+tt6178382,Twins,8.0,"Adventure,Biography,Comedy","Dec 9, 1988",15000000,111936388,216600000,201600000
+tt1261945,Sex and the City 2,146.0,"Comedy,Drama,Romance","May 27, 2010",95000000,95347692,294680778,199680778
+tt1375670,Grown Ups,102.0,Comedy,"Jun 25, 2010",75000000,162001186,272223430,197223430
+tt1284575,Bad Teacher,92.0,"Comedy,Romance","Jun 24, 2011",19000000,100292856,215448997,196448997
+tt1985966,Cloudy with a Chance of Meatballs 2,95.0,"Adventure,Animation,Comedy","Sep 27, 2013",78000000,119793567,274392649,196392649
+tt1001526,Megamind,95.0,"Action,Animation,Comedy","Nov 5, 2010",130000000,148415853,321887208,191887208
+tt1605630,American Reunion,113.0,Comedy,"Apr 6, 2012",50000000,56758835,236799211,186799211
+tt2404463,The Heat,117.0,"Action,Comedy,Crime","Jun 28, 2013",43000000,159581587,229727774,186727774
+tt9691476,Snow White and the Seven Dwarfs,,"Comedy,Drama,Fantasy","Dec 21, 1937",1488000,184925486,184925486,183437486
+tt3411444,Ferdinand,108.0,"Adventure,Animation,Comedy","Dec 15, 2017",111000000,84410380,289847930,178847930
+tt1499658,Horrible Bosses,98.0,"Comedy,Crime","Jul 8, 2011",35000000,117538559,212417601,177417601
+tt5033998,Charlie's Angels,,"Action,Adventure,Comedy","Nov 3, 2000",90000000,125305545,259736090,169736090
+tt1489889,Central Intelligence,107.0,"Action,Comedy,Crime","Jun 17, 2016",50000000,127440871,217194805,167194805
+tt2191701,Grown Ups 2,101.0,Comedy,"Jul 12, 2013",80000000,133668525,247023808,167023808
+tt4877122,The Emoji Movie,86.0,"Adventure,Animation,Comedy","Jul 28, 2017",50000000,86089513,216562312,166562312
+tt3837024,Aliens,88.0,"Comedy,Mystery,Sci-Fi","Jul 18, 1986",17000000,85160248,183316455,166316455
+tt0817230,Valentine's Day,125.0,"Comedy,Romance","Feb 12, 2010",52000000,110485654,217569328,165569328
+tt1915581,Magic Mike,110.0,"Comedy,Drama","Jun 29, 2012",7000000,113721571,170549753,163549753
+tt1620981,The Addams Family,,"Animation,Comedy,Family","Nov 22, 1991",30000000,113502246,191502246,161502246
+tt4651520,Bad Moms,100.0,Comedy,"Jul 29, 2016",20000000,113257297,180998716,160998716
+tt1232829,21 Jump Street,109.0,"Action,Comedy,Crime","Mar 16, 2012",42000000,138447667,202812429,160812429
+tt2974918,Alvin and the Chipmunks: The Road Chip,92.0,"Adventure,Animation,Comedy","Dec 18, 2015",90000000,85886987,249517956,159517956
+tt2361509,The Intern,121.0,"Comedy,Drama","Sep 25, 2015",40000000,75764672,197115710,157115710
+tt2191715,Into the Woods,,"Comedy,Musical","Dec 25, 2014",56200000,128002372,213116401,156916401
+tt2203939,The Other Woman,109.0,"Comedy,Romance","Apr 25, 2014",40000000,83911193,195111193,155111193
+tt1664775,Pixels,100.0,"Action,Comedy","Jul 24, 2015",90000000,78765986,244041804,154041804
+tt1860353,Turbo,96.0,"Adventure,Animation,Comedy","Jul 17, 2013",135000000,83028130,286896578,151896578
+tt1116184,Jackass 3D,95.0,"Action,Comedy,Documentary","Oct 15, 2010",20000000,117229692,171685793,151685793
+tt2452042,The Peanuts Movie,88.0,"Adventure,Animation,Comedy","Nov 6, 2015",99000000,130178411,250091610,151091610
+tt2637276,Ted 2,115.0,Comedy,"Jun 26, 2015",68000000,81476385,217214143,149214143
+tt1231583,Due Date,95.0,"Adventure,Comedy","Nov 5, 2010",65000000,100539043,211739043,146739043
+tt1979388,The Good Dinosaur,93.0,"Adventure,Animation,Comedy","Nov 25, 2015",187500000,123087120,333771037,146271037
+tt1013743,Knight and Day,109.0,"Action,Adventure,Comedy","Jun 23, 2010",117000000,76423035,258751370,141751370
+tt4765284,Pitch Perfect 3,93.0,"Comedy,Music","Dec 22, 2017",45000000,104897530,185736412,140736412
+tt2024432,Identity Thief,111.0,"Adventure,Comedy,Crime","Feb 8, 2013",35000000,134506920,175361578,140361578
+tt2398241,Smurfs: The Lost Village,90.0,"Adventure,Animation,Comedy","Apr 7, 2017",60000000,45020282,197578586,137578586
+tt2989872,Lion,70.0,"Comedy,Drama,Romance","Nov 25, 2016",12000000,51739495,149570720,137570720
+tt6182908,Smallfoot,96.0,"Adventure,Animation,Comedy","Sep 28, 2018",80000000,83240103,213691277,133691277
+tt2278388,The Grand Budapest Hotel,99.0,"Adventure,Comedy,Crime","Mar 7, 2014",31000000,59076019,163981261,132981261
+tt10340148,Midnight in Paris,75.0,"Comedy,Documentary,Drama","May 20, 2011",30000000,56816662,162502774,132502774
+tt8633834,The Bucket List,60.0,"Adventure,Comedy","Dec 25, 2007",45000000,93466502,174807445,129807445
+tt1411704,Hop,95.0,"Adventure,Animation,Comedy","Apr 1, 2011",63000000,108085305,188657593,125657593
+tt0864835,Mr. Peabody & Sherman,92.0,"Adventure,Animation,Comedy","Mar 7, 2014",145000000,111506430,269806430,124806430
+tt1302067,Yogi Bear,80.0,"Adventure,Animation,Comedy","Dec 17, 2010",80000000,100246011,204774690,124774690
+tt1412386,The Best Exotic Marigold Hotel,124.0,"Comedy,Drama,Romance","May 4, 2012",10000000,46383639,134639780,124639780
+tt1411238,No Strings Attached,108.0,"Comedy,Romance","Jan 21, 2011",25000000,70662220,149228078,124228078
+tt4575576,Christopher Robin,104.0,"Adventure,Animation,Comedy","Aug 3, 2018",75000000,99215042,197504758,122504758
+tt1700841,Sausage Party,89.0,"Adventure,Animation,Comedy","Aug 12, 2016",19000000,97670358,141344255,122344255
+tt1229340,Anchorman 2: The Legend Continues,119.0,Comedy,"Dec 18, 2013",50000000,127352707,172185754,122185754
+tt0804509,The Mule,100.0,"Comedy,Drama","Dec 14, 2018",50000000,103804407,170857676,120857676
+tt1320261,Gulliver's Travels,85.0,"Adventure,Comedy,Family","Dec 25, 2010",112000000,42779261,232017848,120017848
+tt1634122,Johnny English Reborn,101.0,"Action,Adventure,Comedy","Oct 21, 2011",45000000,8406711,164640401,119640401
+tt0990407,The Green Hornet,119.0,"Action,Comedy,Crime","Jan 14, 2011",110000000,98780042,229155503,119155503
+tt2096672,Dumb and Dumber To,109.0,"Adventure,Comedy","Nov 14, 2014",40000000,86208010,156553592,116553592
+tt1204342,The Muppets,103.0,"Adventure,Comedy,Family","Nov 23, 2011",45000000,88625922,160971922,115971922
+tt1469304,Baywatch,116.0,"Action,Comedy,Crime","May 25, 2017",60000000,58060186,175863783,115863783
+tt1645170,The Dictator,83.0,Comedy,"May 16, 2012",65000000,59650222,180148897,115148897
+tt4624424,Storks,87.0,"Adventure,Animation,Comedy","Sep 23, 2016",70000000,72679278,183353431,113353431
+tt3564472,Girls Trip,122.0,"Comedy,Drama","Jul 21, 2017",28000000,115108515,140886353,112886353
+tt6498340,End of Days,72.0,"Comedy,Documentary,Drama","Nov 24, 1999",100000000,66889043,212026975,112026975
+tt1632708,Friends with Benefits,109.0,"Comedy,Romance","Jul 22, 2011",35000000,55802754,146595891,111595891
+tt1192628,Rango,107.0,"Adventure,Animation,Comedy","Mar 4, 2011",135000000,123477607,245724600,110724600
+tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,112.0,"Action,Adventure,Comedy","Jun 3, 2016",135000000,82051601,245328374,110328374
+tt2268016,Magic Mike XXL,115.0,"Comedy,Drama,Music","Jul 1, 2015",14500000,66013057,123660597,109160597
+tt3863552,Bajrangi Bhaijaan,163.0,"Action,Comedy,Drama","Jul 17, 2015",13000000,8178001,121778347,108778347
+tt3152624,Trainwreck,125.0,"Comedy,Drama,Romance","Jul 17, 2015",35000000,110212700,141123897,106123897
+tt1596363,The Big Short,130.0,"Biography,Comedy,Drama","Dec 11, 2015",28000000,70259870,133162752,105162752
+tt4085696,Billy Elliot,169.0,"Comedy,Drama,Music","Oct 13, 2000",5000000,21995263,109253745,104253745
+tt1535438,Hope Springs,100.0,"Comedy,Drama,Romance","Aug 8, 2012",30000000,63536011,133085295,103085295
+tt2381941,Focus,105.0,"Comedy,Crime,Drama","Feb 27, 2015",65000000,53862963,168065700,103065700
+tt1621045,Think Like a Man,122.0,"Comedy,Romance","Apr 20, 2012",12000000,91547205,113373764,101373764
+tt1051904,Goosebumps,103.0,"Adventure,Comedy,Family","Oct 16, 2015",58000000,80069458,158905324,100905324
+tt6359956,A Bad Moms Christmas,104.0,"Adventure,Comedy","Nov 1, 2017",28000000,72110659,127710550,99710550
+tt4653310,Driving Miss Daisy,100.0,"Comedy,Drama","Dec 13, 1989",7500000,106593296,106593296,99093296
+tt1981677,Pitch Perfect,112.0,"Comedy,Music,Romance","Sep 28, 2012",17000000,65001093,116044347,99044347
+tt5457656,Hide and Seek,118.0,"Comedy,Crime","Jan 28, 2005",25000000,51100486,123696741,98696741
+tt1279935,Date Night,88.0,"Comedy,Crime,Romance","Apr 9, 2010",55000000,98711404,152269033,97269033
+tt0359950,The Secret Life of Walter Mitty,114.0,"Adventure,Comedy,Drama","Dec 25, 2013",91000000,58236838,187861183,96861183
+tt1047540,Parental Guidance,105.0,"Comedy,Family","Dec 25, 2012",25000000,77267296,120832383,95832383
+tt1605776,The Visit,90.0,"Comedy,Drama,Romance","Sep 11, 2015",5000000,65206105,98677816,93677816
+tt1860213,Dirty Grandpa,102.0,Comedy,"Jan 22, 2016",11500000,35593113,105078449,93578449
+tt1821658,The Nut Job,85.0,"Adventure,Animation,Comedy","Jan 17, 2014",30000000,64251538,122529966,92529966
+tt1596350,This Means War,103.0,"Action,Comedy,Romance","Feb 17, 2012",65000000,54760791,156974557,91974557
+tt2321661,Truth or Dare,100.0,"Comedy,Romance","Apr 13, 2018",3500000,41411015,95127344,91627344
+tt1038919,The Bounty Hunter,110.0,"Action,Comedy,Romance","Mar 19, 2010",45000000,67061228,135808837,90808837
+tt1222817,Zookeeper,102.0,"Comedy,Family,Romance","Jul 8, 2011",80000000,80360866,170805525,90805525
+tt2177771,The Monuments Men,118.0,"Comedy,Drama,History","Feb 7, 2014",70000000,78031620,158702748,88702748
+tt1667353,Mirror Mirror,106.0,"Adventure,Comedy,Drama","Mar 30, 2012",85000000,64935167,173613482,88613482
+tt2091256,Captain Underpants: The First Epic Movie,89.0,"Action,Animation,Comedy","Jun 2, 2017",38000000,73921000,126577874,88577874
+tt1077368,Dark Shadows,113.0,"Comedy,Fantasy,Horror","May 11, 2012",150000000,79727149,238202668,88202668
+tt2431286,Philomena,98.0,"Biography,Comedy,Drama","Nov 22, 2013",12000000,37709979,98963392,86963392
+tt1956620,Sex Tape,94.0,"Comedy,Romance","Jul 18, 2014",40000000,38543473,126069509,86069509
+tt3532216,American Made,115.0,"Action,Biography,Comedy","Sep 29, 2017",50000000,51342000,135569212,85569212
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),119.0,"Comedy,Drama","Oct 17, 2014",18000000,42340598,103215094,85215094
+tt3833460,Bride Wars,90.0,Comedy,"Jan 9, 2009",30000000,58715510,115150424,85150424
+tt1588173,Warm Bodies,98.0,"Comedy,Horror,Romance","Feb 1, 2013",30000000,66380662,115121608,85121608
+tt1204975,Last Vegas,105.0,"Comedy,Drama","Jan 28, 2013",28000000,63914167,112914167,84914167
+tt2869728,Ride Along 2,102.0,"Action,Comedy,Crime","Jan 15, 2016",40000000,90862685,124827316,84827316
+tt1086772,Blended,117.0,"Comedy,Romance","May 23, 2014",45000000,46290741,127990741,82990741
+tt6112220,The Butterfly Effect,85.0,"Comedy,Crime,Drama","Jan 23, 2004",13000000,57924679,95638592,82638592
+tt1987680,The Upside,126.0,"Comedy,Drama","Jan 11, 2019",37500000,108235497,119024536,81524536
+tt1430626,The Pirates! Band of Misfits,88.0,"Adventure,Animation,Comedy","Apr 27, 2012",55000000,31051126,136143605,81143605
+tt6857166,Book Club,104.0,"Comedy,Drama,Romance","May 18, 2018",10000000,68566296,91113683,81113683
+tt2555736,The Second Best Exotic Marigold Hotel,122.0,"Comedy,Drama","Mar 6, 2015",10000000,33078266,90384306,80384306
+tt2704998,Game Night,100.0,"Action,Comedy,Crime","Feb 23, 2018",37000000,69179066,117378084,80378084
+tt2140373,Saving Mr. Banks,125.0,"Biography,Comedy,Drama","Dec 13, 2013",35000000,83299761,114962525,79962525
+tt4501244,Why Him?,111.0,Comedy,"Dec 23, 2016",38000000,60323786,117425156,79425156
+tt7040874,A Simple Favor,117.0,"Comedy,Crime,Drama","Sep 14, 2018",20000000,53548586,97628717,77628717
+tt2194499,About Time,123.0,"Comedy,Drama,Fantasy","Nov 1, 2013",12000000,15323921,89309178,77309178
+tt2103254,Tammy,97.0,"Comedy,Romance","Jul 2, 2014",20000000,84525432,96407655,76407655
+tt7693920,Annie,,"Comedy,Musical","Dec 19, 2014",65000000,85911262,139829625,74829625
+tt3760922,My Big Fat Greek Wedding 2,94.0,"Comedy,Romance","Mar 25, 2016",18000000,59689605,92096558,74096558
+tt6781982,Night School,111.0,Comedy,"Sep 28, 2018",29000000,77339130,103008792,74008792
+tt4438848,Neighbors 2: Sorority Rising,92.0,Comedy,"May 20, 2016",35000000,55340730,108757621,73757621
+tt3622592,Paper Towns,109.0,"Comedy,Drama,Mystery","Jul 24, 2015",12000000,32000304,85450484,73450484
+tt1698641,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",81.0,"Comedy,Family","Oct 10, 2014",28000000,66954149,101379287,73379287
+tt1563742,Overboard,112.0,"Comedy,Romance","May 4, 2018",12000000,50316123,85369830,73369830
+tt2531344,Blockers,102.0,Comedy,"Apr 6, 2018",21000000,60311495,94045328,73045328
+tt7368554,The Interpreter,113.0,"Comedy,Drama","Apr 22, 2005",90000000,72708161,162753837,72753837
+tt2980648,The Hundred-Foot Journey,122.0,"Comedy,Drama","Aug 8, 2014",22000000,54235441,94270488,72270488
+tt1068242,Footloose,113.0,"Comedy,Drama,Music","Feb 17, 1984",8200000,80000000,80000000,71800000
+tt7401588,Instant Family,118.0,"Comedy,Drama","Nov 16, 2018",48000000,67363237,119736188,71736188
+tt0810913,Jack and Jill,91.0,Comedy,"Nov 11, 2011",79000000,74158157,150519217,71519217
+tt1272878,2 Guns,109.0,"Action,Comedy,Crime","Aug 2, 2013",61000000,75612460,132493015,71493015
+tt1524930,Vacation,99.0,"Adventure,Comedy","Jul 29, 2015",31000000,58884188,102306500,71306500
+tt1386588,The Other Guys,107.0,"Action,Comedy,Crime","Aug 6, 2010",100000000,119219978,170936470,70936470
+tt3450650,Paul Blart: Mall Cop 2,94.0,"Action,Comedy,Crime","Apr 17, 2015",38000000,71091594,107650646,69650646
+tt1250777,Kick-Ass,117.0,"Action,Comedy","Apr 16, 2010",28000000,48071303,97531134,69531134
+tt1389137,We Bought a Zoo,124.0,"Comedy,Drama,Family","Dec 23, 2011",50000000,75624550,118729073,68729073
+tt4925292,Lady Bird,94.0,"Comedy,Drama","Nov 3, 2017",10000000,48958273,78610769,68610769
+tt1282140,Easy A,92.0,"Comedy,Drama,Romance","Sep 17, 2010",8000000,58401464,76200721,68200721
+tt1055292,Life as We Know It,114.0,"Comedy,Drama,Romance","Oct 8, 2010",38000000,53374681,105887837,67887837
+tt8672656,Get Hard,90.0,Comedy,"Mar 27, 2015",40000000,90411453,106511453,66511453
+tt2170439,Horrible Bosses 2,108.0,"Comedy,Crime","Nov 26, 2014",40000000,54445357,105945357,65945357
+tt0471042,Tower Heist,104.0,"Action,Comedy,Crime","Nov 4, 2011",85000000,78046570,150422946,65422946
+tt1430607,Arthur Christmas,97.0,"Adventure,Animation,Comedy","Nov 23, 2011",85000000,46462469,149717124,64717124
+tt3107798,Rambo,144.0,"Comedy,Drama,Thriller","Jan 25, 2008",47500000,42754105,112214531,64714531
+tt1196141,Diary of a Wimpy Kid,94.0,"Comedy,Drama,Family","Mar 19, 2010",15000000,64003625,76954311,61954311
+tt1666186,Vampires Suck,82.0,Comedy,"Aug 18, 2010",20000000,36661504,81424988,61424988
+tt1092026,Paul,104.0,"Adventure,Comedy,Sci-Fi","Mar 18, 2011",40000000,37412945,101162106,61162106
+tt1987632,Rush,87.0,"Comedy,Romance","Sep 20, 2013",38000000,26947624,98230839,60230839
+tt0464154,Piranha 3D,88.0,"Comedy,Horror","Aug 20, 2010",24000000,25003155,83660160,59660160
+tt6791096,I Feel Pretty,110.0,"Comedy,Romance","Apr 20, 2018",32000000,48795601,91553797,59553797
+tt5664636,Goosebumps 2: Haunted Halloween,90.0,"Adventure,Comedy,Family","Oct 12, 2018",35000000,46697321,93291478,58291478
+tt1821694,RED 2,116.0,"Action,Comedy,Crime","Jul 19, 2013",84000000,53262560,141507355,57507355
+tt2243537,A Haunted House,86.0,"Comedy,Fantasy","Jan 11, 2013",2500000,40041683,59922558,57422558
+tt0884732,The Wedding Ringer,101.0,Comedy,"Jan 16, 2015",23000000,64460211,80171596,57171596
+tt2083355,The Best Man Holiday,123.0,"Comedy,Drama","Nov 15, 2013",17000000,70525195,72835710,55835710
+tt1650043,Diary of a Wimpy Kid: Rodrick Rules,99.0,"Comedy,Family","Mar 25, 2011",18000000,52698535,73695194,55695194
+tt5164432,"Love, Simon",110.0,"Comedy,Drama,Romance","Mar 16, 2018",10000000,40826341,65520633,55520633
+tt1621039,Free Birds,91.0,"Adventure,Animation,Comedy","Nov 1, 2013",55000000,55750480,110387072,55387072
+tt1980209,Pain & Gain,129.0,"Action,Comedy,Crime","Apr 26, 2013",26000000,49875291,81275291,55275291
+tt2023453,Diary of a Wimpy Kid: Dog Days,94.0,"Comedy,Family","Aug 3, 2012",22000000,49008662,77229695,55229695
+tt2568862,Going in Style,96.0,"Comedy,Crime","Apr 7, 2017",24000000,45018541,78672579,54672579
+tt4463894,Shaft,,"Action,Comedy,Crime","Jun 16, 2000",53012938,70327868,107190108,54177170
+tt1748122,Moonrise Kingdom,94.0,"Adventure,Comedy,Drama","May 25, 2012",16000000,45512466,68848446,52848446
+tt1859650,To Rome with Love,112.0,"Comedy,Music,Romance","Jun 22, 2012",21500000,16684352,74326015,52826015
+tt4795124,How to Be a Latin Lover,115.0,"Comedy,Drama","Apr 28, 2017",10000000,32149404,62556228,52556228
+tt0892318,Letters to Juliet,105.0,"Adventure,Comedy,Drama","May 14, 2010",30000000,53032453,82148538,52148538
+tt0787474,The Boxtrolls,96.0,"Adventure,Animation,Comedy","Sep 26, 2014",60000000,50837305,111946251,51946251
+tt1226229,Get Him to the Greek,109.0,"Adventure,Comedy,Music","Jun 4, 2010",40000000,61153526,91455875,51455875
+tt1586265,What to Expect When You're Expecting,110.0,"Comedy,Drama,Romance","May 18, 2012",37500000,41152203,88473016,50973016
+tt1464174,"Big Mommas: Like Father, Like Son",107.0,"Action,Comedy,Crime","Feb 18, 2011",32000000,37915414,82332450,50332450
+tt7634968,What Men Want,117.0,"Comedy,Fantasy,Romance","Feb 8, 2019",20000000,54611903,69911903,49911903
+tt2702724,The Boss,99.0,Comedy,"Apr 8, 2016",29000000,63077560,78652207,49652207
+tt5462602,The Big Sick,120.0,"Comedy,Drama,Romance","Jun 23, 2017",5000000,42872467,53972860,48972860
+tt2387559,Delivery Man,105.0,"Comedy,Drama","Nov 22, 2013",22000000,30659817,70536870,48536870
+tt1623288,ParaNorman,92.0,"Adventure,Animation,Comedy","Aug 17, 2012",60000000,56003051,108119662,48119662
+tt2126357,Second Act,103.0,"Comedy,Drama,Romance","Dec 21, 2018",15700000,39282227,63288854,47588854
+tt3850590,Krampus,98.0,"Comedy,Fantasy,Horror","Dec 4, 2015",15000000,42725475,61788393,46788393
+tt1711525,Office Christmas Party,105.0,Comedy,"Dec 9, 2016",45000000,54767494,91323299,46323299
+tt2239832,Think Like a Man Too,106.0,"Comedy,Romance","Jun 20, 2014",24000000,65028687,70027933,46027933
+tt1441951,Quartet,94.0,"Comedy,Drama","Jan 11, 2013",11000000,18388357,56178935,45178935
+tt1800246,That Awkward Moment,94.0,"Comedy,Romance","Jan 31, 2014",8000000,26068955,53068955,45068955
+tt2823054,Mike and Dave Need Wedding Dates,98.0,"Adventure,Comedy,Romance","Jul 8, 2016",33000000,46009673,75898100,42898100
+tt5580036,"I, Tonya",120.0,"Biography,Comedy,Drama","Dec 8, 2017",11000000,30014534,53797409,42797409
+tt4587656,The Star,86.0,"Adventure,Animation,Comedy","Nov 17, 2017",20000000,40847995,62758010,42758010
+tt2178470,Yeh Jawaani Hai Deewani,160.0,"Comedy,Drama,Musical","May 31, 2013",8300000,3827466,50827466,42527466
+tt0475290,"Hail, Caesar!",106.0,"Comedy,Drama,Music","Feb 5, 2016",22000000,30080225,64160680,42160680
+tt1142977,Frankenweenie,87.0,"Animation,Comedy,Family","Oct 5, 2012",39000000,35287788,81150788,42150788
+tt2170593,St. Vincent,102.0,"Comedy,Drama","Oct 10, 2014",13000000,44137712,54837234,41837234
+tt1391137,Why Did I Get Married Too?,121.0,"Comedy,Drama,Romance","Apr 2, 2010",20000000,60095852,60831067,40831067
+tt4999290,Remember Me,,"Comedy,Drama,Romance","Mar 12, 2010",16000000,19068240,56506120,40506120
+tt1212436,The Back-up Plan,104.0,"Comedy,Romance","Apr 23, 2010",35000000,37490007,75281179,40281179
+tt1392197,Marmaduke,87.0,"Comedy,Family","Jun 4, 2010",50000000,33644788,89895930,39895930
+tt2458724,Little Man,,Comedy,"Jul 14, 2006",64000000,58636047,101636047,37636047
+tt1826590,About Last Night,100.0,"Comedy,Romance","Feb 14, 2014",13000000,48637684,50445860,37445860
+tt3722070,The Lady in the Van,104.0,"Biography,Comedy,Drama","Jan 15, 2016",6000000,10021175,42320503,36320503
+tt2005151,War Dogs,114.0,"Comedy,Crime,Drama","Aug 19, 2016",50000000,43034523,86234503,36234503
+tt2229499,Don Jon,90.0,"Comedy,Drama,Romance","Sep 27, 2013",5500000,24477704,41268579,35768579
+tt1826727,Life of the Party,84.0,"Comedy,Drama","May 11, 2018",30000000,53059911,65759911,35759911
+tt2234155,The Internship,119.0,Comedy,"Jun 7, 2013",58000000,44672764,93672764,35672764
+tt1650554,Kick-Ass 2,103.0,"Action,Comedy,Crime","Aug 16, 2013",28000000,28795985,63129909,35129909
+tt3628584,Barbershop: The Next Cut,111.0,"Comedy,Drama","Apr 15, 2016",20000000,54030051,54404202,34404202
+tt5138210,Good Luck Chuck,51.0,Comedy,"Sep 21, 2007",25000000,35017297,59183821,34183821
+tt5113040,The Secret Life of Pets 2,86.0,"Adventure,Animation,Comedy","Jun 7, 2019",80000000,63795655,113351496,33351496
+tt0842926,The Kids Are All Right,106.0,"Comedy,Drama,Romance","Jul 9, 2010",4000000,20811365,36275469,32275469
+tt3099638,Barfi,105.0,"Comedy,Romance","Sep 14, 2012",4600000,2804874,36751984,32151984
+tt1195478,The Five-Year Engagement,124.0,"Comedy,Romance","Apr 27, 2012",30000000,28700285,61623819,31623819
+tt1583420,Larry Crowne,98.0,"Comedy,Drama,Romance","Jul 1, 2011",30000000,35608245,61449135,31449135
+tt1648179,Here Comes the Boom,105.0,"Action,Comedy,Sport","Oct 12, 2012",42000000,45290318,73239258,31239258
+tt1640484,Jumping the Broom,112.0,"Comedy,Drama","May 6, 2011",7000000,37295394,38158601,31158601
+tt0889573,The Switch,101.0,"Comedy,Drama,Romance","Aug 20, 2010",19000000,27758465,49858465,30858465
+tt4876464,Rosemary's Baby,48.0,Comedy,"Jun 12, 1968",3200000,33395426,33395426,30195426
+tt7186036,Volcano,104.0,"Comedy,Drama","Apr 25, 1997",90000000,47546796,120100000,30100000
+tt0491152,Something Borrowed,112.0,"Comedy,Drama,Romance","May 6, 2011",35000000,39046489,65084116,30084116
+tt1231587,Hot Tub Time Machine,101.0,"Comedy,Sci-Fi","Mar 26, 2010",36000000,50269859,65967750,29967750
+tt2609912,Kevin Hart: Let Me Explain,75.0,"Comedy,Documentary","Jul 3, 2013",2500000,32244051,32327255,29827255
+tt1661382,Grudge Match,113.0,"Comedy,Drama,Sport","Dec 25, 2013",40000000,29807260,69807260,29807260
+tt1787759,Madea's Big Happy Family,106.0,"Comedy,Drama","Apr 22, 2011",25000000,53345287,54160818,29160818
+tt1178665,A Walk in the Woods,104.0,"Adventure,Biography,Comedy","Sep 2, 2015",8000000,29499394,37119358,29119358
+tt0815236,She's Out of My League,104.0,"Comedy,Romance","Mar 12, 2010",20000000,32010860,48680977,28680977
+tt3148834,Thunder and the House of Magic,85.0,"Adventure,Animation,Comedy","Sep 5, 2014",34000000,4091,62582520,28582520
+tt2296777,Sherlock Gnomes,86.0,"Adventure,Animation,Comedy","Mar 23, 2018",59000000,43242871,87527651,28527651
+tt7334528,Uncle Drew,103.0,"Comedy,Sport","Jun 29, 2018",18000000,42469946,46527161,28527161
+tt1287468,Cats & Dogs: The Revenge of Kitty Galore,82.0,"Action,Comedy,Family","Jul 30, 2010",85000000,43585753,113026383,28026383
+tt1321509,Death at a Funeral,92.0,Comedy,"Apr 16, 2010",21000000,42739347,48977233,27977233
+tt1213663,The World's End,109.0,"Action,Comedy,Sci-Fi","Aug 23, 2013",20000000,26004851,47508505,27508505
+tt4136084,Florence Foster Jenkins,111.0,"Biography,Comedy,Drama","Aug 12, 2016",29000000,27383770,56000339,27000339
+tt4799050,Rough Night,101.0,"Comedy,Crime,Thriller","Jun 16, 2017",20000000,22105643,46844357,26844357
+tt2101441,Spring Breakers,94.0,"Comedy,Crime,Drama","Mar 15, 2013",5000000,14124286,31149251,26149251
+tt1853739,You're Next,95.0,"Action,Comedy,Horror","Aug 23, 2013",1000000,18494006,26887177,25887177
+tt1322269,August: Osage County,121.0,"Comedy,Drama","Dec 25, 2013",25000000,37738810,50738810,25738810
+tt4649416,Almost Christmas,111.0,"Comedy,Drama","Nov 11, 2016",17000000,42065185,42493506,25493506
+tt2281587,Muppets Most Wanted,107.0,"Adventure,Comedy,Crime","Mar 21, 2014",55000000,51178893,79312301,24312301
+tt2279339,Love the Coopers,107.0,"Comedy,Fantasy,Romance","Nov 13, 2015",18000000,26302731,42227490,24227490
+tt1488555,The Change-Up,112.0,"Comedy,Fantasy","Aug 5, 2011",52000000,37243418,75997067,23997067
+tt1830712,Max,52.0,"Biography,Comedy,Documentary","Jun 26, 2015",20000000,42656255,43658157,23658157
+tt3623726,Ricki and the Flash,101.0,"Comedy,Drama,Music","Aug 7, 2015",18000000,26839498,41166033,23166033
+tt1402488,Happy Feet Two,100.0,"Adventure,Animation,Comedy","Nov 18, 2011",135000000,64006466,157956466,22956466
+tt4203258,The Reaping,84.0,"Comedy,Horror,Thriller","Apr 5, 2007",40000000,25126214,62226214,22226214
+tt6175394,Posledniy bogatyr,114.0,"Action,Adventure,Comedy","Dec 31, 2017",8500000,0,30700192,22200192
+tt1083452,Eddie the Eagle,106.0,"Biography,Comedy,Drama","Feb 26, 2016",23000000,15789389,45060480,22060480
+tt6179182,New in Town,95.0,"Adventure,Comedy,Fantasy","Jan 30, 2009",8000000,16734283,29937909,21937909
+tt1727388,The Way Way Back,103.0,"Comedy,Drama","Jul 5, 2013",5000000,21502690,26853810,21853810
+tt3979452,The Best Years of Our Lives,,Comedy,"Nov 21, 1946",2100000,23600000,23600000,21500000
+tt4698684,Hunt for the Wilderpeople,101.0,"Adventure,Comedy,Drama","Jun 24, 2016",2500000,5205471,23845533,21345533
+tt1333125,Movie 43,94.0,Comedy,"Jan 25, 2013",10000000,8840453,31164747,21164747
+tt1637706,Our Idiot Brother,90.0,"Comedy,Drama","Aug 26, 2011",5000000,24814830,25861249,20861249
+tt8653640,An Ideal Husband,,Comedy,"Jun 18, 1999",10700000,18542974,31341183,20641183
+tt1103153,Killers,100.0,"Action,Comedy,Romance","Jun 4, 2010",75000000,47059963,95572749,20572749
+tt1449283,Winnie the Pooh,63.0,"Adventure,Animation,Comedy","Jul 15, 2011",30000000,26692846,50145607,20145607
+tt1126618,Morning Glory,107.0,"Comedy,Drama,Romance","Nov 10, 2010",40000000,31011732,59795070,19795070
+tt1067774,Monte Carlo,109.0,"Adventure,Comedy,Family","Jul 1, 2011",20000000,23186769,39686769,19686769
+tt1931533,Seven Psychopaths,110.0,"Comedy,Crime","Oct 12, 2012",13500000,15024049,33035736,19535736
+tt1182350,You Will Meet a Tall Dark Stranger,98.0,"Comedy,Drama,Romance","Sep 22, 2010",15000000,3247816,34247816,19247816
+tt0480687,Hall Pass,105.0,"Comedy,Romance","Feb 25, 2011",68000000,45060734,87173475,19173475
+tt1385867,Cop Out,107.0,"Action,Comedy,Crime","Feb 26, 2010",37000000,44875481,55909910,18909910
+tt1273678,The Spy Next Door,94.0,"Action,Comedy,Family","Jan 15, 2010",28000000,24307106,46752858,18752858
+tt3521126,The Disaster Artist,104.0,"Biography,Comedy,Drama","Dec 1, 2017",10000000,21120616,28717667,18717667
+tt5719388,9,,Comedy,"Sep 9, 2009",30000000,31749894,48559999,18559999
+tt8008626,Love Happens,,"Comedy,Horror,Romance","Sep 18, 2009",18000000,22965110,36133014,18133014
+tt0427152,Dinner for Schmucks,114.0,Comedy,"Jul 30, 2010",69000000,73026337,86796502,17796502
+tt2390361,Enough Said,93.0,"Comedy,Drama,Romance","Sep 18, 2013",8000000,17550872,25621449,17621449
+tt3486626,The Nut Job 2: Nutty by Nature,91.0,"Adventure,Animation,Comedy","Aug 11, 2017",40000000,28370522,57438389,17438389
+tt2828996,A Haunted House 2,86.0,"Comedy,Fantasy","Apr 18, 2014",4000000,17329487,21206861,17206861
+tt4667094,Fifty Shades of Black,92.0,Comedy,"Jan 29, 2016",5000000,11686940,22113075,17113075
+tt4607118,Burnt,,"Comedy,Drama","Oct 30, 2015",20000000,13651946,36773510,16773510
+tt1674771,Entourage,104.0,Comedy,"Jun 3, 2015",30000000,32363404,46438538,16438538
+tt1268799,A Very Harold & Kumar 3D Christmas,90.0,"Adventure,Comedy","Nov 4, 2011",20000000,35061031,36265745,16265745
+tt1931435,The Big Wedding,89.0,"Comedy,Drama,Romance","Apr 26, 2013",32500000,21819348,48425971,15925971
+tt5748648,The Bachelor,,"Comedy,Romance","Nov 5, 1999",21000000,21731001,36882378,15882378
+tt3401882,Fist Fight,91.0,Comedy,"Feb 17, 2017",25000000,32187017,40286416,15286416
+tt5439796,Logan Lucky,118.0,"Comedy,Crime,Drama","Aug 18, 2017",29000000,27778642,44264271,15264271
+tt1462769,The Odd Life of Timothy Green,105.0,"Comedy,Drama,Family","Aug 15, 2012",40000000,51853450,55249159,15249159
+tt1540133,The Guard,96.0,"Comedy,Crime,Thriller","Jul 29, 2011",6000000,5359774,21197454,15197454
+tt6428676,Wonder Park,85.0,"Adventure,Animation,Comedy","Mar 15, 2019",100000000,45216793,115149422,15149422
+tt5688932,Sorry to Bother You,111.0,"Comedy,Fantasy,Sci-Fi","Jul 6, 2018",3200000,17493096,18285560,15085560
+tt4981636,Middle School: The Worst Years of My Life,92.0,"Comedy,Family","Oct 7, 2016",8500000,20007149,23311293,14811293
+tt2651158,Much Ado About Nothing,167.0,"Comedy,Drama","May 7, 1993",8000000,22549338,22549338,14549338
+tt1488181,Zambezia,83.0,"Adventure,Animation,Comedy","Dec 31, 2012",20000000,0,34454336,14454336
+tt1171222,Baggage Claim,96.0,Comedy,"Sep 27, 2013",8500000,21569509,22885836,14385836
+tt2784678,Top Five,102.0,"Comedy,Romance","Dec 12, 2014",12000000,25317379,26001741,14001741
+tt1366344,The Sitter,81.0,Comedy,"Dec 9, 2011",25000000,30542576,38749404,13749404
+tt6003368,Diary of a Wimpy Kid: The Long Haul,91.0,"Comedy,Family","May 19, 2017",22000000,20738724,35609577,13609577
+tt4669186,Kevin Hart: What Now?,96.0,"Comedy,Documentary","Oct 14, 2016",10000000,23591043,23591043,13591043
+tt3464902,The Lobster,119.0,"Comedy,Drama,Romance","Mar 25, 2016",4500000,9196278,18019834,13519834
+tt6667360,Carnage,68.0,Comedy,"Dec 16, 2011",25000000,2546747,38112154,13112154
+tt1622547,30 Minutes or Less,83.0,"Action,Comedy,Crime","Aug 12, 2011",28000000,37053924,40966716,12966716
+tt1414382,You Again,105.0,"Comedy,Family,Romance","Sep 24, 2010",20000000,25702053,32838945,12838945
+tt1821549,Nebraska,115.0,"Adventure,Comedy,Drama","Nov 15, 2013",12000000,17654912,24761360,12761360
+tt1594972,Norm of the North,90.0,"Adventure,Animation,Comedy","Jan 15, 2016",18000000,17062499,30535660,12535660
+tt0493949,Ramona and Beezus,103.0,"Adventure,Comedy,Family","Jul 23, 2010",15000000,26167002,27469621,12469621
+tt7014006,Eighth Grade,93.0,"Comedy,Drama","Jul 13, 2018",2000000,13539710,14341016,12341016
+tt2910904,The Dressmaker,119.0,"Comedy,Drama","Sep 23, 2016",11900000,2022115,24041617,12141617
+tt1298649,The Watch,102.0,"Action,Comedy,Horror","Jul 27, 2012",55000000,34353000,67130045,12130045
+tt2236686,Copycat,90.0,Comedy,"Oct 27, 1995",20000000,32051917,32051917,12051917
+tt5127484,Going the Distance,65.0,Comedy,"Sep 3, 2010",32000000,17804299,43603990,11603990
+tt1673697,The Sapphires,103.0,"Biography,Comedy,Drama","Mar 22, 2013",9000000,2450867,20395040,11395040
+tt3850214,Dope,103.0,"Comedy,Crime,Drama","Jun 19, 2015",7000000,17506470,18190831,11190831
+tt1532503,Beginners,105.0,"Comedy,Drama,Romance","Jun 3, 2011",3200000,5790894,14314407,11114407
+tt3312830,Youth,124.0,"Comedy,Drama,Music","Dec 4, 2015",13000000,2703296,24001573,11001573
+tt6266538,Vice,132.0,"Biography,Comedy,Drama","Dec 25, 2018",60000000,47836282,70883171,10883171
+tt1625346,Young Adult,94.0,"Comedy,Drama","Dec 9, 2011",12000000,16311571,22750356,10750356
+tt2967224,Hot Pursuit,87.0,"Action,Comedy,Crime","May 8, 2015",35000000,34580201,45671512,10671512
+tt1438176,Fright Night,106.0,"Comedy,Horror","Aug 19, 2011",30000000,18298649,40520649,10520649
+tt1866249,The Sessions,95.0,"Biography,Comedy,Drama","Oct 19, 2012",1000000,6002451,11495204,10495204
+tt0770703,What's Your Number?,106.0,"Comedy,Romance","Sep 30, 2011",20000000,14011084,30163785,10163785
+tt6040918,Just My Luck,,Comedy,"May 12, 2006",28000000,17326650,38159905,10159905
+tt1878870,The Edge of Seventeen,104.0,"Comedy,Drama","Nov 18, 2016",9000000,14431633,19096003,10096003
+tt1421051,Somewhere,97.0,"Comedy,Drama","Dec 22, 2010",7000000,1785645,17023121,10023121
+tt1407061,Just Wright,100.0,"Comedy,Romance,Sport","May 14, 2010",12000000,21540363,21867665,9867665
+tt3799694,The Nice Guys,116.0,"Action,Comedy,Crime","May 20, 2016",50000000,36261763,59596747,9596747
+tt1920849,Bachelorette,87.0,"Comedy,Romance","Sep 7, 2012",3000000,446770,12577401,9577401
+tt3606888,A Street Cat Named Bob,103.0,"Biography,Comedy,Drama","Nov 18, 2016",8000000,82703,17382693,9382693
+tt2166214,Khiladi 786,141.0,"Action,Comedy","Dec 7, 2012",5600000,385422,14683763,9083763
+tt2347569,Frances Ha,86.0,"Comedy,Drama,Romance","May 17, 2013",3000000,4067398,11262769,8262769
+tt4191580,Meet the Blacks,94.0,"Comedy,Horror","Apr 1, 2016",900000,9097072,9097072,8197072
+tt1508675,Le Havre,93.0,"Comedy,Drama","Oct 21, 2011",5500000,611709,13480196,7980196
+tt1334512,Arthur,110.0,"Comedy,Romance","Apr 8, 2011",40000000,33035397,47787943,7787943
+tt0979434,Lottery Ticket,99.0,Comedy,"Aug 20, 2010",17000000,24719879,24719879,7719879
+tt1371155,Made in Dagenham,113.0,"Biography,Comedy,Drama","Nov 19, 2010",8000000,1095369,15644196,7644196
+tt1791682,While We're Young,97.0,"Comedy,Drama,Mystery","Mar 27, 2015",10000000,7582065,17503828,7503828
+tt2879218,The Collector,94.0,"Action,Comedy","Jul 31, 2009",3000000,7712114,10473836,7473836
+tt1305583,Our Family Wedding,103.0,"Comedy,Romance","Mar 12, 2010",14000000,20255281,21410546,7410546
+tt1999192,Kevin Hart: Laugh at My Pain,89.0,"Comedy,Documentary","Sep 9, 2011",750000,7706436,7712436,6962436
+tt7166214,Bobby,142.0,"Comedy,Romance","Nov 17, 2006",14000000,11242801,20597806,6597806
+tt10297320,Swingers,,Comedy,"Oct 18, 1996",200000,4505922,6618578,6418578
+tt1814621,Admission,107.0,"Comedy,Drama,Romance","Mar 22, 2013",13000000,18007317,18733666,5733666
+tt5247022,Paterson,118.0,"Comedy,Drama,Romance","Dec 28, 2016",5000000,2141423,10727536,5727536
+tt4139124,Keanu,100.0,"Action,Comedy,Crime","Apr 29, 2016",15000000,20591853,20688141,5688141
+tt4080386,Sardaar Ji,141.0,"Comedy,Fantasy,Horror","Dec 31, 2015",2700000,0,8200000,5500000
+tt1608290,Zoolander 2,101.0,Comedy,"Feb 12, 2016",50000000,28848693,55348693,5348693
+tt4871980,The Perfect Match,96.0,"Comedy,Romance","Mar 11, 2016",5000000,9669521,10182050,5182050
+tt1571249,The Skeleton Twins,93.0,"Comedy,Drama,Romance","Sep 12, 2014",1000000,5284309,5797192,4797192
+tt6576106,Love Letters,,Comedy,"Apr 27, 1984",550000,5269990,5269990,4719990
+tt3367294,Compadres,101.0,"Action,Comedy,Crime","Apr 22, 2016",3000000,3127773,7445044,4445044
+tt1714206,The Spectacular Now,95.0,"Comedy,Drama,Romance","Aug 2, 2013",2500000,6852971,6916951,4416951
+tt0492389,Furry Vengeance,92.0,"Comedy,Family","Apr 30, 2010",35000000,17630465,39340177,4340177
+tt2235108,Dear White People,108.0,"Comedy,Drama,Romance","Oct 17, 2014",1250000,4404154,5403771,4153771
+tt1704573,Bernie,99.0,"Biography,Comedy,Crime","Apr 27, 2012",6000000,9204489,10106975,4106975
+tt1862079,Safety Not Guaranteed,86.0,"Comedy,Drama,Romance","Jun 8, 2012",750000,4010957,4422318,3672318
+tt1710396,Joyful Noise,118.0,"Comedy,Drama,Music","Jan 13, 2012",27500000,30932113,31157914,3657914
+tt4621872,Like Crazy,116.0,"Comedy,Drama","Oct 28, 2011",250000,3395391,3728400,3478400
+tt8161226,All You Need Is Love,113.0,"Comedy,Romance","Oct 31, 2014",300000,0,3565259,3265259
+tt5358844,Head of State,,Comedy,"Mar 28, 2003",35200000,37788228,38283765,3083765
+tt1742336,Your Sister's Sister,90.0,"Comedy,Drama","Jun 15, 2012",120000,1597486,3090593,2970593
+tt4034354,Swiss Army Man,97.0,"Adventure,Comedy,Drama","Jun 24, 2016",3000000,4210454,5837111,2837111
+tt1604171,Prom,104.0,"Comedy,Drama,Family","Apr 29, 2011",8000000,10130219,10763183,2763183
+tt1440292,Submarine,97.0,"Comedy,Drama,Romance","Jun 3, 2011",1900000,467602,4581937,2681937
+tt3212738,Hostage,97.0,"Comedy,Drama,History","Mar 11, 2005",75000000,34636443,77636443,2636443
+tt1758795,The To Do List,104.0,"Comedy,Romance","Jul 26, 2013",1500000,3491669,4128828,2628828
+tt1702425,Casa de mi Padre,84.0,"Comedy,Western","Mar 16, 2012",6000000,5909483,8446952,2446952
+tt1990314,Robot & Frank,89.0,"Comedy,Crime,Drama","Aug 17, 2012",2500000,3317468,4934356,2434356
+tt4501454,The Meddler,103.0,"Comedy,Drama,Romance","Apr 22, 2016",3200000,4267219,5526942,2326942
+tt2910274,Obvious Child,84.0,"Comedy,Drama,Romance","Jun 6, 2014",1000000,3122616,3324070,2324070
+tt3316948,American Ultra,96.0,"Action,Comedy,Sci-Fi","Aug 21, 2015",28000000,14439985,30295028,2295028
+tt1640711,A Few Best Men,97.0,"Comedy,Romance","May 5, 2015",15000000,0,17224539,2224539
+tt1307068,Seeking a Friend for the End of the World,101.0,"Adventure,Comedy,Drama","Jun 22, 2012",10000000,7078738,11766959,1766959
+tt4595882,Can You Ever Forgive Me?,106.0,"Biography,Comedy,Crime","Oct 19, 2018",10000000,8803865,11752387,1752387
+tt0878835,Please Give,87.0,"Comedy,Drama","Apr 30, 2010",3000000,4033574,4570178,1570178
+tt3332064,Pan,111.0,"Adventure,Comedy,Family","Oct 9, 2015",150000000,35088320,151525973,1525973
+tt1791679,Weekend,121.0,"Action,Comedy,Crime","Sep 23, 2011",190000,484592,1577585,1387585
+tt1694020,The Guilt Trip,95.0,"Comedy,Drama","Dec 19, 2012",40000000,37134215,41294674,1294674
+tt2582496,Me and Earl and the Dying Girl,105.0,"Comedy,Drama,Romance","Jun 12, 2015",8000000,6758416,9266180,1266180
+tt5569344,Tarnation,90.0,"Comedy,Horror","Oct 6, 2004",400000,592014,1162014,762014
+tt2870708,Wish I Was Here,106.0,"Comedy,Drama","Jul 18, 2014",6000000,3591299,6591365,591365
+tt1232200,That's My Boy,116.0,Comedy,"Jun 15, 2012",57500000,36931089,58085235,585235
+tt4543578,Drop Dead Gorgeous,100.0,Comedy,"Jul 23, 1999",10000000,10571408,10571408,571408
+tt1727776,Scouts Guide to the Zombie Apocalypse,93.0,"Action,Comedy,Horror","Oct 30, 2015",15000000,3703046,15554855,554855
+tt1578275,The Dilemma,111.0,"Comedy,Drama","Jan 14, 2011",70000000,48475290,70546865,546865
+tt5822766,Love and Other Catastrophes,100.0,"Comedy,Drama","Mar 28, 1997",250000,212285,743216,493216
+tt1742650,I Don't Know How She Does It,89.0,"Comedy,Romance","Sep 16, 2011",24000000,9659074,24474463,474463
+tt7158430,Hearts Beat Loud,97.0,"Comedy,Drama,Music","Jun 8, 2018",2000000,2386254,2420962,420962
+tt9899880,Columbus,85.0,Comedy,"Aug 4, 2017",700000,1017107,1110511,410511
+tt1570989,Tiny Furniture,98.0,"Comedy,Drama,Romance","Nov 12, 2010",50000,391674,424149,374149
+tt4902904,The Resurrection of Gavin Stone,91.0,"Comedy,Drama,Family","Jan 20, 2017",2000000,2303792,2303792,303792
+tt3172532,The Diary of a Teenage Girl,102.0,"Comedy,Drama,Romance","Aug 7, 2015",2000000,1477002,2279959,279959
+tt1500906,Vampires,88.0,"Comedy,Fantasy,Horror","Oct 30, 1998",20000000,20268825,20268825,268825
+tt1612774,Rubber,82.0,"Comedy,Fantasy,Horror","Apr 1, 2011",500000,100370,680914,180914
+tt6619196,Clean,70.0,"Comedy,Drama,Horror","Apr 28, 2006",10000,138711,138711,128711
+tt2404299,Lovesick,85.0,"Comedy,Romance","Feb 18, 1983",10100000,10143618,10143618,43618
+tt1880418,Newlyweds,95.0,"Comedy,Drama","Jan 13, 2012",9000,4584,4584,-4416
+tt2389182,Cheap Thrills,88.0,"Comedy,Crime,Drama","Mar 21, 2014",100000,59424,59424,-40576
+tt1874789,Supporting Characters,87.0,Comedy,"Jan 25, 2013",60000,4917,4917,-55083
+tt1255919,Holmes & Watson,90.0,"Adventure,Comedy,Crime","Dec 25, 2018",42000000,30568743,41926605,-73395
+tt2465146,And So It Goes,94.0,"Comedy,Drama,Romance","Jul 25, 2014",18000000,15160801,17920013,-79987
+tt2265398,Drinking Buddies,90.0,"Comedy,Drama,Romance","Aug 23, 2013",500000,343706,407100,-92900
+tt1822311,Sparrows Dance,81.0,"Comedy,Drama,Romance","Aug 23, 2013",175000,2602,2602,-172398
+tt2290113,Along the Roadside,108.0,"Comedy,Music,Romance","Mar 24, 2015",250000,0,3234,-246766
+tt4320966,Jackpot,92.0,Comedy,"Jul 27, 2001",400000,44452,44452,-355548
+tt1412528,Table 19,87.0,"Comedy,Drama,Romance","Mar 3, 2017",5000000,3614896,4620399,-379601
+tt1935902,The Brass Teapot,101.0,"Comedy,Fantasy,Thriller","Apr 5, 2013",900000,6997,413733,-486267
+tt6906324,American Dreamz,7.0,"Comedy,Documentary","Apr 21, 2006",17000000,7314027,16510971,-489029
+tt1865346,Detention of the Dead,87.0,"Action,Adventure,Comedy","Jun 28, 2013",500000,1778,1778,-498222
+tt4374230,Julija in alfa Romeo,83.0,Comedy,"Dec 31, 2015",560000,0,8462,-551538
+tt1592873,LOL,97.0,"Comedy,Drama,Romance","May 4, 2012",11000000,0,10431506,-568494
+tt1950135,Drunk Wedding,81.0,Comedy,"May 22, 2015",600000,3301,3301,-596699
+tt1758575,Blue Like Jazz,108.0,"Comedy,Drama","Apr 13, 2012",1200000,595018,595018,-604982
+tt5741008,Bully,83.0,Comedy,"Jul 13, 2001",2100000,881824,1381824,-718176
+tt2140619,Two Night Stand,86.0,"Comedy,Romance","Sep 26, 2014",1600000,15600,868081,-731919
+tt3569356,Not Cool,93.0,"Comedy,Drama,Romance","Sep 19, 2014",800000,35688,35688,-764312
+tt1769363,The Giant Mechanical Man,95.0,"Comedy,Drama,Romance","Apr 27, 2012",900000,7396,7396,-892604
+tt1726589,L!fe Happens,100.0,Comedy,"Apr 13, 2012",930000,30905,30905,-899095
+tt4590482,Karachi se Lahore,143.0,"Adventure,Comedy,Family","Dec 31, 2015",1000000,0,17721,-982279
+tt3145220,Hits,96.0,"Comedy,Drama","Feb 13, 2015",1000000,15156,15156,-984844
+tt8655470,The Specials,,Comedy,"Sep 22, 2000",1000000,12996,12996,-987004
+tt4733536,American Hero,86.0,"Action,Comedy,Drama","Dec 11, 2015",1000000,0,26,-999974
+tt3099498,Tusk,102.0,"Comedy,Drama,Horror","Sep 19, 2014",3000000,1821983,1887554,-1112446
+tt4995790,The Square,151.0,"Comedy,Drama","Apr 9, 2010",1900000,406216,740932,-1159068
+tt2637294,Hot Tub Time Machine 2,93.0,"Comedy,Mystery,Sci-Fi","Feb 20, 2015",14000000,12314651,12826644,-1173356
+tt3504048,Housebound,107.0,"Comedy,Horror,Mystery","Oct 17, 2014",1500000,0,236863,-1263137
+tt1341167,Four Lions,97.0,"Comedy,Crime,Drama","Nov 5, 2010",3750000,310007,2436111,-1313889
+tt1695994,The Virginity Hit,86.0,Comedy,"Sep 24, 2010",2000000,636706,636706,-1363294
+tt0804497,It's Kind of a Funny Story,101.0,"Comedy,Drama,Romance","Oct 8, 2010",8000000,6363628,6632950,-1367050
+tt1470023,MacGruber,90.0,"Action,Comedy,Romance","May 21, 2010",10000000,8525600,8629895,-1370105
+tt3110770,Road Hard,98.0,Comedy,"Mar 6, 2015",1500000,113169,113169,-1386831
+tt1480658,Eddie: The Sleepwalking Cannibal,90.0,"Comedy,Horror","Apr 5, 2013",1400000,1632,1632,-1398368
+tt8043306,Teefa in Trouble,155.0,"Action,Comedy,Crime","Jul 20, 2018",1500000,0,98806,-1401194
+tt2017486,Closer to the Moon,112.0,"Comedy,Crime,Drama","Apr 17, 2014",1500000,0,5396,-1494604
+tt1772288,Danny Collins,106.0,"Biography,Comedy,Drama","Mar 20, 2015",10000000,5637066,8465845,-1534155
+tt1667307,Damsels in Distress,99.0,"Comedy,Drama,Romance","Apr 6, 2012",3000000,1007535,1324299,-1675701
+tt1699755,Peeples,95.0,"Comedy,Romance","May 10, 2013",11000000,9177065,9307166,-1692834
+tt2474024,The Last Five Years,94.0,"Comedy,Drama,Musical","Feb 13, 2015",2000000,147299,205298,-1794702
+tt5649108,Thoroughbreds,92.0,"Comedy,Crime,Drama","Mar 9, 2018",5000000,3072605,3187302,-1812698
+tt3566698,Vaalu,155.0,"Comedy,Romance","Dec 31, 2015",1900000,0,12444,-1887556
+tt1512235,Super,96.0,"Action,Comedy,Drama","Apr 1, 2011",2500000,327716,593933,-1906067
+tt1754633,The Ghastly Love of Johnny X,106.0,"Comedy,Fantasy,Musical","Oct 26, 2012",2000000,2436,2436,-1997564
+tt1477837,Cedar Rapids,87.0,Comedy,"Feb 11, 2011",10000000,6861102,7862131,-2137869
+tt2170299,Bad Words,89.0,"Comedy,Drama","Mar 14, 2014",10000000,7779614,7843145,-2156855
+tt1640459,Hobo with a Shotgun,86.0,"Action,Comedy,Horror","May 6, 2011",3000000,703372,834953,-2165047
+tt1531663,Everything Must Go,97.0,"Comedy,Drama","May 13, 2011",5000000,2712131,2821010,-2178990
+tt2690138,The D Train,101.0,"Comedy,Drama","May 8, 2015",3000000,669688,772366,-2227634
+tt2401878,Anomalisa,90.0,"Animation,Comedy,Drama","Dec 30, 2015",8000000,3759286,5706168,-2293832
+tt0443465,Before We Go,95.0,"Comedy,Drama,Romance","Sep 4, 2015",3000000,37151,483938,-2516062
+tt3253232,The Bounce Back,104.0,"Comedy,Romance","Dec 9, 2016",3000000,321910,421404,-2578596
+tt1235189,Wild Target,98.0,"Action,Comedy,Crime","Oct 29, 2010",8000000,109338,5314194,-2685806
+tt1855401,Tim and Eric's Billion Dollar Movie,93.0,Comedy,"Mar 2, 2012",3000000,201436,223652,-2776348
+tt1663143,Fun Size,86.0,"Adventure,Comedy","Oct 26, 2012",14000000,9409538,11166615,-2833385
+tt1509803,Griff the Invisible,90.0,"Comedy,Drama,Romance","Aug 19, 2011",2900000,20778,25935,-2874065
+tt3859304,The Bronze,100.0,"Comedy,Drama,Sport","Mar 18, 2016",3500000,615816,615816,-2884184
+tt2398249,They Came Together,83.0,"Comedy,Romance","Jun 27, 2014",3000000,0,82780,-2917220
+tt7844060,Lady in White,98.0,"Comedy,Drama","Apr 22, 1988",4700000,1705139,1705139,-2994861
+tt1719071,Another Happy Day,119.0,"Comedy,Drama","Nov 18, 2011",4000000,9120,978527,-3021473
+tt1781058,Wilson,94.0,"Comedy,Drama","Aug 1, 1944",5200000,2000000,2000000,-3200000
+tt2796678,The Opposite Sex,97.0,Comedy,"Jan 20, 2015",3300000,0,50206,-3249794
+tt9390090,Head Over Heels,,Comedy,"Feb 2, 2001",14000000,10397365,10397365,-3602635
+tt6107548,Late Night,102.0,"Comedy,Drama","Jun 7, 2019",4000000,246305,246305,-3753695
+tt2751576,Out of the Blue,108.0,"Comedy,Drama","Oct 19, 2007",4600000,728,731767,-3868233
+tt1798243,Rudderless,105.0,"Comedy,Drama,Music","Oct 17, 2014",5000000,56001,567219,-4432781
+tt6571636,Wonderland,92.0,"Comedy,Drama","Oct 3, 2003",5500000,1060512,1060512,-4439488
+tt0790628,The Incredible Burt Wonderstone,100.0,"Adventure,Comedy,Fantasy","Mar 15, 2013",32000000,22537881,27392609,-4607391
+tt4701724,Early Man,89.0,"Adventure,Animation,Comedy","Feb 16, 2018",50000000,8267544,45285890,-4714110
+tt10300710,Hit & Run,114.0,"Action,Comedy","Aug 22, 2012",22000000,13749300,17216955,-4783045
+tt1525366,Grabbers,94.0,"Comedy,Horror,Sci-Fi","Jul 19, 2013",5300000,0,440821,-4859179
+tt3776292,Stuck,85.0,"Comedy,Drama","May 30, 2008",5000000,67505,67505,-4932495
+tt3838992,Yoga Hosers,88.0,"Action,Comedy,Fantasy","Sep 2, 2016",5000000,0,22958,-4977042
+tt6163142,Grace,90.0,"Comedy,Crime,Romance","Aug 14, 2009",5000000,8297,8297,-4991703
+tt2402105,Dom Hemingway,93.0,"Comedy,Crime,Drama","Apr 2, 2014",7000000,523511,1857458,-5142542
+tt1791528,Inherent Vice,148.0,"Comedy,Crime,Drama","Dec 12, 2014",20000000,8110975,14772346,-5227654
+tt1588334,"Jeff, Who Lives at Home",83.0,"Comedy,Drama","Mar 16, 2012",10000000,4269426,4708127,-5291873
+tt1251743,Salvation Boulevard,96.0,"Action,Comedy,Drama","Jul 15, 2011",5500000,28468,28468,-5471532
+tt2914838,R100,99.0,"Comedy,Drama","Jan 23, 2015",5500000,24956,24956,-5475044
+tt1756851,Twixt,88.0,"Comedy,Fantasy,Horror","Jul 23, 2013",7000000,0,1268346,-5731654
+tt1598828,One for the Money,91.0,"Action,Comedy,Crime","Jan 27, 2012",42000000,26414527,36197221,-5802779
+tt4158096,Free Fire,91.0,"Action,Comedy,Crime","Apr 21, 2017",10000000,1799322,3793739,-6206261
+tt3381008,The Brothers Grimsby,83.0,"Action,Adventure,Comedy","Mar 11, 2016",35000000,6864016,28720470,-6279530
+tt1152830,The Joneses,117.0,"Comedy,Drama","Apr 16, 2010",10000000,1475746,3541565,-6458435
+tt1361313,The Extra Man,108.0,Comedy,"Jul 30, 2010",7000000,453377,492108,-6507892
+tt1478964,Attack the Block,88.0,"Action,Comedy,Sci-Fi","Jul 29, 2011",13000000,1024175,6459183,-6540817
+tt4622512,Battle of the Sexes,121.0,"Biography,Comedy,Drama","Sep 22, 2017",25000000,12638526,18445379,-6554621
+tt1403177,Hesher,106.0,"Comedy,Crime,Drama","May 13, 2011",7000000,382946,382946,-6617054
+tt5280954,The Importance of Being Earnest,,Comedy,"May 22, 2002",15000000,8378141,8378141,-6621859
+tt2097333,A.C.O.R.N.S.: Operation Crackdown,83.0,"Animation,Comedy,Family","Nov 1, 2016",8500000,0,1353287,-7146713
+tt1411664,Bucky Larson: Born to Be a Star,97.0,Comedy,"Sep 9, 2011",10000000,2529395,2529395,-7470605
+tt1772422,Outside Bet,101.0,Comedy,"Feb 24, 2015",7500000,0,13524,-7486476
+tt1319716,It's a Wonderful Afterlife,100.0,"Comedy,Drama,Fantasy","Oct 8, 2010",10000000,0,1642939,-8357061
+tt10265116,Dream House,,"Comedy,Drama,Romance","Sep 30, 2011",50000000,21302340,41642166,-8357834
+tt3910736,Gun Shy,92.0,"Action,Adventure,Comedy","Feb 4, 2000",10000000,1638202,1638202,-8361798
+tt1336608,Rock of Ages,123.0,"Comedy,Drama,Musical","Jun 15, 2012",70000000,38518613,61031932,-8968068
+tt7520136,The Conspirator,,Comedy,"Apr 15, 2011",25000000,11538204,15907411,-9092589
+tt2556874,Plastic,102.0,"Action,Comedy,Crime","Sep 26, 2014",10000000,0,575371,-9424629
+tt1376195,Gunless,89.0,"Action,Comedy,Drama","Apr 30, 2010",9900000,458054,458054,-9441946
+tt6404166,Original Sin,75.0,Comedy,"Aug 3, 2001",26000000,16521410,16521410,-9478590
+tt3553442,Whiskey Tango Foxtrot,112.0,"Biography,Comedy,Drama","Mar 4, 2016",35000000,23083334,25350747,-9649253
+tt1247667,High School,99.0,Comedy,"Jun 1, 2012",10000000,139034,248133,-9751867
+tt3202120,Barbecue,98.0,Comedy,"Dec 26, 2014",10000000,388,247565,-9752435
+tt7201846,Edmond,110.0,"Comedy,Drama,History","Jul 14, 2006",10000000,131719,241719,-9758281
+tt2113659,Elsa & Fred,93.0,"Comedy,Drama,Romance","Nov 7, 2014",10000000,67657,197901,-9802099
+tt4024312,Cursed,81.0,Comedy,"Feb 25, 2005",35000000,19294901,25114901,-9885099
+tt1194417,Casino Jack,108.0,"Biography,Comedy,Crime","Dec 17, 2010",12500000,2039869,2272186,-10227814
+tt3960412,Popstar: Never Stop Never Stopping,87.0,"Comedy,Music","Jun 3, 2016",20000000,9496130,9537120,-10462880
+tt1730687,Darling Companion,103.0,"Comedy,Drama,Romance","Apr 20, 2012",12000000,793352,1200346,-10799654
+tt1374989,Pride and Prejudice and Zombies,108.0,"Action,Comedy,Horror","Feb 5, 2016",28000000,10907291,16638300,-11361700
+tt1440161,A Little Bit of Heaven,106.0,"Comedy,Drama,Fantasy","May 4, 2012",12500000,10011,1100287,-11399713
+tt0810922,Take Me Home Tonight,97.0,"Comedy,Drama,Romance","Mar 4, 2011",19000000,6928068,7576604,-11423396
+tt1243974,Aloha,105.0,"Comedy,Drama,Romance","May 29, 2015",37000000,21052030,25387091,-11612909
+tt3164256,Rock the Kasbah,106.0,"Comedy,Music,War","Oct 23, 2015",15000000,3020665,3386153,-11613847
+tt5531336,Proof,,"Comedy,Mystery,Sci-Fi","Sep 16, 2005",20000000,7535331,8284331,-11715669
+tt6471464,Fateless,,Comedy,"Jan 6, 2006",12000000,196857,196857,-11803143
+tt7059806,Almost Famous,95.0,"Comedy,Drama,Family","Sep 15, 2000",60000000,32522352,47371191,-12628809
+tt1584131,The Last Godfather,100.0,"Comedy,Crime,Romance","Apr 1, 2011",13400000,164247,164247,-13235753
+tt6495770,Action Point,85.0,Comedy,"Jun 1, 2018",19000000,5059608,5103675,-13896325
+tt1013860,Dylan Dog: Dead of Night,107.0,"Action,Comedy,Crime","Apr 29, 2011",20000000,1186538,6093725,-13906275
+tt5721088,Just Getting Started,91.0,"Action,Comedy","Dec 8, 2017",22000000,6069605,6756412,-15243588
+tt1719676,Vamps,89.0,"Comedy,Horror,Thriller","Nov 2, 2012",16000000,3361,94812,-15905188
+tt0763831,A Thousand Words,91.0,"Comedy,Drama","Mar 9, 2012",40000000,18450127,20790486,-19209514
+tt1664697,Middle Men,82.0,"Action,Comedy,Crime","Aug 6, 2010",20000000,754301,754301,-19245699
+tt1274300,The Tempest,110.0,"Comedy,Drama,Fantasy","Dec 10, 2010",20000000,277943,277943,-19722057
+tt1946502,UglyDolls,87.0,"Adventure,Animation,Comedy","May 3, 2019",45000000,19894664,24644664,-20355336
+tt1423894,Barney's Version,134.0,"Comedy,Drama","Jan 14, 2011",30000000,7502560,8845575,-21154425
+tt2980210,A Hologram for the King,98.0,"Comedy,Drama,Romance","Apr 22, 2016",35000000,4212494,11846010,-23153990
+tt0376136,The Rum Diary,119.0,"Comedy,Drama","Oct 28, 2011",45000000,13109815,21544732,-23455268
+tt1240982,Your Highness,102.0,"Adventure,Comedy,Fantasy","Apr 8, 2011",50000000,21596445,26121638,-23878362
+tt9201248,What Just Happened,96.0,Comedy,"Oct 17, 2008",27000000,1090947,2412123,-24587877
+tt1125929,Love Ranch,117.0,"Biography,Comedy,Drama","Jun 30, 2010",25000000,137885,146149,-24853851
+tt4971344,The Sisters Brothers,122.0,"Adventure,Comedy,Crime","Sep 21, 2018",38000000,3143056,13143056,-24856944
+tt2425486,Gloria,110.0,"Comedy,Drama,Romance","Jan 22, 1999",30000000,4167493,4967493,-25032507
+tt7097350,Kiss of Death,124.0,"Comedy,Drama","Apr 21, 1995",40000000,14942422,14942422,-25057578
+tt1137470,Accidental Love,100.0,"Comedy,Romance","Mar 17, 2015",26000000,0,135436,-25864564
+tt3045616,Mortdecai,107.0,"Action,Comedy,Crime","Jan 23, 2015",60000000,7696134,30396134,-29603866
+tt2788710,The Interview,112.0,Comedy,"Feb 6, 2014",44000000,6105175,12342632,-31657368
+tt3289724,Welcome to Marwen,116.0,"Biography,Comedy,Drama","Dec 21, 2018",45000000,10763520,12874922,-32125078
+tt1981107,The Young and Prodigious T.S. Spivet,105.0,"Action,Adventure,Comedy","Jul 31, 2015",33000000,176847,357687,-32642313
+tt1817771,Freaks of Nature,92.0,"Comedy,Horror,Sci-Fi","Oct 30, 2015",33000000,70958,70958,-32929042
+tt1540128,Playing for Keeps,105.0,"Comedy,Romance,Sport","Oct 3, 1986",35000000,2000000,2000000,-33000000
+tt1053810,The Big Year,100.0,Comedy,"Oct 14, 2011",41000000,7204138,7684524,-33315476
+tt3485166,Pirates,130.0,"Action,Adventure,Comedy","Jul 1, 1986",40000000,1641825,6341825,-33658175
+tt2822672,Rock Dog,90.0,"Adventure,Animation,Comedy","Feb 24, 2017",60000000,9420546,24148488,-35851512
+tt0249516,Foodfight!,91.0,"Action,Animation,Comedy","Dec 31, 2012",45000000,0,73706,-44926294
+tt4722990,Last Man Standing,,Comedy,"Sep 20, 1996",67000000,18115927,18115927,-48884073
+tt1727261,Father's Day,99.0,"Action,Comedy,Horror","May 9, 1997",85000000,28681080,35681080,-49318920
+tt0790736,R.I.P.D.,96.0,"Action,Adventure,Comedy","Jul 19, 2013",130000000,33618855,79076678,-50923322
+tt2352432,Stealth,51.0,"Action,Comedy","Jul 29, 2005",138000000,32116746,76416746,-61583254
+tt3095734,Monster Trucks,104.0,"Action,Adventure,Comedy","Jan 13, 2017",125000000,33370166,61642798,-63357202
+tt2283336,Men in Black: International,115.0,"Action,Adventure,Comedy","Jun 14, 2019",110000000,3100000,3100000,-106900000
