@@ -16,6 +16,11 @@ All data sources can be found within data folder of this repository.
 ## Methods
 ***
 ## Results
+<img src="image/rt.png">
+<img src="image/pdalf.png">
+<img src="image/fasdk.png">
+<img src="image/adf.png">
+<img src="image/wordsort_title .png">
 ***
 ## Conclusion
 ***
