@@ -1,60 +1,77 @@
-# Phase 1 Project Template - Minimum Viable Product (MVP)
+<img src="images/director_shot.jpeg">
+# Optimal Film Analysis for Microsoft
+##### Authors: Will Cline, Killian Kahalley, Gabe Warner
+***
+## Overview
+Descriptive analysis of movie databases reveals aspects of optimal film template to maximize likelihood of profitability for movies created in Microsoft’s film studio venture
+***
+## Business Problem
+Microsoft wants to open up a new film studio. They have comissioned us to research what format of movie(s) will be most likely to be profitable, so that they can choose the right move to make.
 
-![blueprint](images/blueprint.png)
+### Though data comparisons like these...
+Content rating and profit
+Plotline tags of most profitable movies
+Most frequent title elements
+Average Movie profit when given actors are involved
+Most Frequent runtimes for profitable movies
+Production Budget and Total Profit
 
-This repository is like a blueprint, providing structure for your first End of Phase Project. We suggest you base your Phase 1 project off of this repository so you can focus less on formatting and organization, and more on the _analysis and communication skills_ that will support your progress through the course. This template is designed to make your project portfolio-ready in order to impress the future employers who will review it. 
+### We answer questions like:
+What is a typical runtime for successful movies of our chosen genre?
+What elements in an action movie are most likely to make it profitable and well-liked?
+What words can we put in the title that sells a lot of tickets?
+Is it overall more profitable to spend a lot of money on a few films or less money on a lot of films?
+What content rating is likely to profit the most?
+Which directors should we recruit for the film(s)?
+Which actors should we recruit for the film(s)?
+***
+## Data
+From a combined database of data from IMDB and The Numbers, we sourced 2287 movies to gather the bulk of our visualizations/conclusions. We narrowed this down to 359 successful action movies made between 1956 and 2019
+Much of the data for our visualizations were created by keeping just "successful" movies in the data. We defined successful here as movies profiting at least $1 Million.
+***
+## Methods
+***
+## Results
+#### What is a typical runtime for successful movies?
+<img src="image/runtime.png">
+***
+#### When Should we Release it?
+<img src="image/month.png">
+***
+#### What words can we put in the title that sells a lot of tickets?
+<img src="image/title.png">
+***
+#### What content rating is likely to profit the most?
+<img src="image/rating.png">
+***
+#### Which actors should we recruit for the film(s)?
+<img src="image/actors.png">
+***
+#### Most common tags for successful action movies 
+<img src="image/action_tags.png">
+***
+## Recommendations:
 
-## Repository Contents
+Content Rating: PG-13
+Release in December
 
-Below is a list of the contents of this repository - instructions for using them are in the next section.
+#####Sample Script:
+##### Age of Alien: Fallen America
+Conspiracy of human white house insider(President’s assistant,) who helps her alien, spy boyfriend(who she has hot, passionate, PG-13 sex with a lot) assasinate POTUS by manipulating POTUS into being alone without his secret service(by also having sex with him)
+After the Alien assassinates the president, he sends word back to HQ of his alien planet that the most powerful country on Earth is now in disarray. The alien king, sends in a fleet of alien warriors(which fly in on dragons) who wage war on earth and destroy the planet.
+After killing most humans, the aliens enslave the rest, and generations go by. Later on, a man is born into slavery with superhero strength and the ability to fly. The movie ends with a cliff hanger of him in slavery realizing his superpowers at a young age.
 
-- `README.md`: The README for this repo explaining its contents - you're reading it now.
-- `TEMPLATE_README.md`: An example of a project README that provides a brief overview of your whole project.
-- `dsc-phase1-project-template.ipynb`: A starter Jupyter Notebook with headings, code examples and guiding questions.
-- `create_sql_database.ipynb`: A notebook for creating a SQL database if you would prefer to use SQL for this project.
-- `DS_Project_Presentation_Template.pdf`: A starter slide deck presenting your project - here is an [editable version](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy).
-- `data` folder: A folder for the data you reference with your code.
-- `src` folder: A folder containing custom functions.
-- `images` folder: A folder for the images you reference in your files .
-- `.gitignore`: A hidden file that tells git to not track certain files and folders.
+##### Age of Alien: Super Guardian’s revenge 
+The super boy leads an uprising against their alien oppressors. He becomes known as super guardian. To get back at the Alien king, he goes to their planet with his friends that he grew up with in his slave encampment, and they pull a heist to steal all of the Alien King’s fancy stuff from his king chamber. Super guardian even seduces Alien King’s wife and they have a bunch of PG-13 sex. When Alien King gets wind of this, he’s pissed, so he tracks down super guardian and forces him to compete with him in an epic duel to the death in which the winner gets to be the undisputed ruler of the universe. Super Guardian wins the battle and gets a tattoo of Alien King on his arm so that he never forgets to not become evil like him when he is king. 
 
-## Instructions For Using This Repository
-
-### Create a new Github repository. 
-If you are working in a group, only one member of your team should complete these steps.
-
-1. Click [this link](https://github.com/new) and set up a new Github  Repository.
-   - Give your repository a name that is descriptive of the project. (You can change this later if you think of a better name)
-   - Set the repository to public
-   - Skip the `Initialize this repository with` section.
-   - Click `Create Repository`
-   - Set your group members as collaboators.
-
-2. Clone the repository you created in step 1
-   - Click the green code button
-   - Copy the provided https link. (It should end with `.git`)
-   - Open a terminal window
-   - cd into your phase 1 folder
-   - Clone the github repository
-   
-3. Pull down the project files
-   - cd into the newly created project folder from step 2
-   - run `git remote add upstream https://github.com/learn-co-students/bsc-phase-1.git`
-   - run `git pull upstream main`   
-
-4. Push the project files to your personal github repository
-
-If you are working in a group, and did not complete the above steps, you should clone the repository made by your team member.
-
-### Use The Slide Template
-
-1. Go to [this link](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy) to make an editable copy of the slide deck in your own Google Drive account
-2. Go to "Slide," select "Change Theme," and pick a theme you like so your presentation doesn't look like everyone else's
+#####Sample Cast:
+POTUS: Liam Neeson
+POTUS assistant: Jennifer Lawrence
+Alien assassin:  Jason Statham
+Alien King: The Rock
+Super Guardian: Channing Tatum
 
 
-
-### Notes
-
-- The visualizations in the notebook use best practices for visualization that you should try to emulate. For example, they have clear axes, descriptive titles, and appropriate number formatting.
-- The `dsc-phase1-project-template.ipynb` is intended to be the _final version_ of your project. The first notebook you create will not look like this. You are encouraged to start with a very disorderly notebook and clean it as you go.
-- If you would like to use SQL for this project, please open the `create_sql_database.ipynb` notebook, and run the cells. The schema for the database is stored in the images/ folder.
+## Conclusion
+***
+## Next Steps
