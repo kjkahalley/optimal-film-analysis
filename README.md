@@ -1,4 +1,4 @@
-<img src="images/director_shot.jpeg">
+![](.images/director_shot.jpeg)
 # Optimal Film Analysis for Microsoft
 ##### Authors: Will Cline, Killian Kahalley, Gabe Warner
 ***
@@ -28,8 +28,6 @@ Which actors should we recruit for the film(s)?
 ## Data
 From a combined database of data from IMDB and The Numbers, we sourced 2287 movies to gather the bulk of our visualizations/conclusions. We narrowed this down to 359 successful action movies made between 1956 and 2019
 Much of the data for our visualizations were created by keeping just "successful" movies in the data. We defined successful here as movies profiting at least 1 Million.
-***
-## Methods
 ***
 ## Results
 #### What is a typical runtime for successful movies?
@@ -70,8 +68,3 @@ POTUS assistant: Jennifer Lawrence
 Alien assassin:  Jason Statham
 Alien King: The Rock
 Super Guardian: Channing Tatum
-
-
-## Conclusion
-***
-## Next Steps
