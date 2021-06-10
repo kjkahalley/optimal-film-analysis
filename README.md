@@ -33,22 +33,22 @@ Much of the data for our visualizations were created by keeping just "successful
 ***
 ## Results
 #### What is a typical runtime for successful movies?
-<img src="image/runtime.png">
+![](./images/runtime.png)
 ***
 #### When Should we Release it?
-<img src="image/month.png">
+![](./images/month.png)
 ***
 #### What words can we put in the title that sells a lot of tickets?
-<img src="image/title.png">
+![](./images/title.png)
 ***
 #### What content rating is likely to profit the most?
-<img src="image/rating.png">
+![](./images/rating.png)
 ***
 #### Which actors should we recruit for the film(s)?
-<img src="image/actors.png">
+![](./images/actors.png)
 ***
 #### Most common tags for successful action movies 
-<img src="image/action_tags.png">
+![](./images/action_tags.png)
 ***
 ## Recommendations:
 
