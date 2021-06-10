@@ -1,4 +1,4 @@
-![](.images/director_shot.jpeg)
+<img src="images/director_shot.jpeg">
 # Optimal Film Analysis for Microsoft
 ##### Authors: Will Cline, Killian Kahalley, Gabe Warner
 ***
@@ -70,3 +70,8 @@ POTUS assistant: Jennifer Lawrence
 Alien assassin:  Jason Statham
 Alien King: The Rock
 Super Guardian: Channing Tatum
+
+
+## Conclusion
+***
+## Next Steps
