@@ -37,7 +37,7 @@ Much of the data for our visualizations were created by keeping just "successful
 ![](./images/month.png)
 ***
 #### What words can we put in the title that sells a lot of tickets?
-![](./images/title.png)
+![](./images/title.PNG)
 ***
 #### What content rating is likely to profit the most?
 ![](./images/rating.png)
@@ -62,9 +62,9 @@ After killing most humans, the aliens enslave the rest, and generations go by. L
 ##### Age of Alien: Super Guardian’s revenge 
 The super boy leads an uprising against their alien oppressors. He becomes known as super guardian. To get back at the Alien king, he goes to their planet with his friends that he grew up with in his slave encampment, and they pull a heist to steal all of the Alien King’s fancy stuff from his king chamber. Super guardian even seduces Alien King’s wife and they have a bunch of PG-13 sex. When Alien King gets wind of this, he’s pissed, so he tracks down super guardian and forces him to compete with him in an epic duel to the death in which the winner gets to be the undisputed ruler of the universe. Super Guardian wins the battle and gets a tattoo of Alien King on his arm so that he never forgets to not become evil like him when he is king. 
 
-#####Sample Cast:
-POTUS: Liam Neeson
-POTUS assistant: Jennifer Lawrence
-Alien assassin:  Jason Statham
-Alien King: The Rock
-Super Guardian: Channing Tatum
+#####Sample Cast: \
+POTUS: Liam Neeson \
+POTUS assistant: Jennifer Lawrence \ 
+Alien assassin:  Jason Statham \
+Alien King: The Rock \
+Super Guardian: Channing Tatum \
