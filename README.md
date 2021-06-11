@@ -53,7 +53,7 @@ Much of the data for our visualizations were created by keeping just "successful
 Content Rating: PG-13
 Release in December
 
-#####Sample Script:
+##### Sample Script:
 ##### Age of Alien: Fallen America
 Conspiracy of human white house insider(President’s assistant,) who helps her alien, spy boyfriend(who she has hot, passionate, PG-13 sex with a lot) assasinate POTUS by manipulating POTUS into being alone without his secret service(by also having sex with him)
 After the Alien assassinates the president, he sends word back to HQ of his alien planet that the most powerful country on Earth is now in disarray. The alien king, sends in a fleet of alien warriors(which fly in on dragons) who wage war on earth and destroy the planet.
@@ -62,7 +62,7 @@ After killing most humans, the aliens enslave the rest, and generations go by. L
 ##### Age of Alien: Super Guardian’s revenge 
 The super boy leads an uprising against their alien oppressors. He becomes known as super guardian. To get back at the Alien king, he goes to their planet with his friends that he grew up with in his slave encampment, and they pull a heist to steal all of the Alien King’s fancy stuff from his king chamber. Super guardian even seduces Alien King’s wife and they have a bunch of PG-13 sex. When Alien King gets wind of this, he’s pissed, so he tracks down super guardian and forces him to compete with him in an epic duel to the death in which the winner gets to be the undisputed ruler of the universe. Super Guardian wins the battle and gets a tattoo of Alien King on his arm so that he never forgets to not become evil like him when he is king. 
 
-#####Sample Cast: \
+##### Sample Cast:
 POTUS: Liam Neeson \
 POTUS assistant: Jennifer Lawrence \ 
 Alien assassin:  Jason Statham \
